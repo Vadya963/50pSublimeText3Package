@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onPlayerWeaponFire", getRootElement(), function (int weapon, float endX, float endY, float endZ, element hitElement, float startX, float startY, float startZ) --[[The source of this event is the player who fired the weapon.]] end )]]></content>
+	<tabTrigger>onPlayerWeaponFire</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Serverside</description>
+</snippet>

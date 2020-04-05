@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setSearchLightStartRadius( searchlight theSearchlight, float startRadius )]]></content><tabTrigger>setSearchLightStartRadius</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

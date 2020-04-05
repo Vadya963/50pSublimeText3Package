@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[playSoundFrontEnd( ${1:player thePlayer}, ${2:int sound} )]]></content><tabTrigger>playSoundFrontEnd</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[playSoundFrontEnd( ${1:int sound} )]]></content><tabTrigger>playSoundFrontEnd</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[dbPrepareString( element databaseConnection, string query [, var param1 [, var param2 ...]] )]]></content><tabTrigger>dbPrepareString</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

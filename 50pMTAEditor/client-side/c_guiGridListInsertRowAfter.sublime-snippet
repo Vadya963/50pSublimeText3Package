@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListInsertRowAfter( ${1:element gridList}, ${2:int rowIndex} )]]></content><tabTrigger>guiGridListInsertRowAfter</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListInsertRowAfter( element gridList [, int rowIndex, int/string itemText1, int/string itemText2, ... ] )]]></content><tabTrigger>guiGridListInsertRowAfter</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

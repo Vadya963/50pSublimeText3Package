@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setSearchLightStartPosition( searchlight theSearchLight, float startX, float startY, float startZ )]]></content><tabTrigger>setSearchLightStartPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getRadioChannelName( ${1:int id} )]]></content><tabTrigger>getRadioChannelName</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getSoundBufferLength( ${1:element theSound} )]]></content><tabTrigger>getSoundBufferLength</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

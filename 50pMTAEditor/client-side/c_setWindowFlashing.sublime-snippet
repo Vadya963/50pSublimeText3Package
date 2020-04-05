@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setWindowFlashing( bool shouldFlash [, int count = 10 ] )]]></content><tabTrigger>setWindowFlashing</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onDebugMessage"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onDebugMessage", getRootElement(), function (string message, int level, string file, int line) --[[The source of this event is the root element.]] end )]]></content>
 	<tabTrigger>onDebugMessage</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

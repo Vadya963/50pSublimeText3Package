@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlLoadFile( ${1:string filePath} )]]></content><tabTrigger>xmlLoadFile</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[xmlLoadFile( string filePath [, bool readOnly = false ] )]]></content><tabTrigger>xmlLoadFile</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[guiCreateBrowser( float x, float y, float width, float height, bool isLocal, bool isTransparent, bool isRelative [ , element parent = nil ] )]]></content><tabTrigger>guiCreateBrowser</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

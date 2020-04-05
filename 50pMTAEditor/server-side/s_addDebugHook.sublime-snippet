@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[addDebugHook( ${1:string hookType}, ${2:function callbackFunction}[, ${3:table nameList }] )]]></content><tabTrigger>addDebugHook</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[addDebugHook( string hookType, function callbackFunction [, table nameList ] )]]></content><tabTrigger>addDebugHook</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

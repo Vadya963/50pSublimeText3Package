@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[canBrowserNavigateBack( browser webBrowser )]]></content><tabTrigger>canBrowserNavigateBack</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

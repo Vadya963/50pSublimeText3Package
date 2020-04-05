@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onElementStopSync"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
-	<tabTrigger>onConsole</tabTrigger>
+	<content><![CDATA[addEventHandler( "onElementStopSync", getRootElement(), function (player oldSyncer) --[[The source of this event is the element which is no longer synced by a player.]] end )]]></content>
+	<tabTrigger>onElementStopSync</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>
 </snippet>
