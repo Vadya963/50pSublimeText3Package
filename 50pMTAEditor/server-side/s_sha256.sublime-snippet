@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[sha256( ${1:string str} )]]></content><tabTrigger>sha256</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[sha256( string str )]]></content><tabTrigger>sha256</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

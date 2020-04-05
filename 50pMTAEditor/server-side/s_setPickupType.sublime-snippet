@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPickupType( ${1:pickup thePickup}, ${2:int theType}, ${3:int amount}/weapon/model, [ ${4:int ammo }] )]]></content><tabTrigger>setPickupType</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPickupType( pickup thePickup, int theType, int amount/weapon/model, [ int ammo ] )]]></content><tabTrigger>setPickupType</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

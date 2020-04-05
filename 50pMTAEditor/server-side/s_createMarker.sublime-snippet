@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createMarker( ${1:float x}, ${2:float y}, ${3:float z }[, ${4:string theType = }"checkpoint", ${5:float size = 4.0}, ${6:int r = 0}, ${7:int g = 0}, ${8:int b = 255}, ${9:int a = 255}, visibleTo = getRootElement( ) ] )]]></content><tabTrigger>createMarker</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createMarker( float x, float y, float z [, string theType = "checkpoint", float size = 4.0, int r = 0, int g = 0, int b = 255, int a = 255, visibleTo = getRootElement( ) ] )]]></content><tabTrigger>createMarker</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

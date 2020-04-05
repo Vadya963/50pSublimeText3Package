@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[call( ${1:resource theResource}, ${2:string theFunction}, [ arguments... ] )]]></content><tabTrigger>call</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[call( resource theResource, string theFunction, [ arguments... ] )]]></content><tabTrigger>call</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[setCameraFieldOfView( ${1:string cameraMode}, ${2:float fieldOfView} )]]></content>
+	<content><![CDATA[setCameraFieldOfView( string cameraMode, float fieldOfView )]]></content>
 	<tabTrigger>setCameraFieldOfView</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

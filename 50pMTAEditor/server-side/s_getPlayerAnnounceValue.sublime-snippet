@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPlayerAnnounceValue( ${1:element thePlayer}, ${2:string key} )]]></content><tabTrigger>getPlayerAnnounceValue</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getPlayerAnnounceValue( element thePlayer, string key )]]></content><tabTrigger>getPlayerAnnounceValue</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

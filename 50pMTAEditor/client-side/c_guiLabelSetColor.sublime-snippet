@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiLabelSetColor( ${1:element theElement}, ${2:int red}, ${3:int green}, ${4:int blue} )]]></content><tabTrigger>guiLabelSetColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiLabelSetColor( element theElement, int red, int green, int blue )]]></content><tabTrigger>guiLabelSetColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

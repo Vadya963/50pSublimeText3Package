@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[addResourceConfig( ${1:string filePath}, [ ${2:string filetype = }"server" ] )]]></content><tabTrigger>addResourceConfig</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[addResourceConfig( string filePath, [ string filetype = "server" ] )]]></content><tabTrigger>addResourceConfig</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

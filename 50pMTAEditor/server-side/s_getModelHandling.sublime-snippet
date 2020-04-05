@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getModelHandling( ${1:int modelId} )]]></content><tabTrigger>getModelHandling</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getModelHandling( int modelId )]]></content><tabTrigger>getModelHandling</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineLoadCOL( ${1:string col_file} )]]></content><tabTrigger>engineLoadCOL</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineLoadCOL( string col_file )]]></content><tabTrigger>engineLoadCOL</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

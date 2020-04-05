@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[aclListRights( ${1:acl theACL}, ${2:string allowedType} )]]></content><tabTrigger>aclListRights</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[aclListRights( acl theACL, string allowedType )]]></content><tabTrigger>aclListRights</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

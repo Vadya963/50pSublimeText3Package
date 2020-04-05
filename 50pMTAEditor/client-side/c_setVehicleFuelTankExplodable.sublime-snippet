@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleFuelTankExplodable( ${1:vehicle theVehicle}, ${2:bool explodable} )]]></content><tabTrigger>setVehicleFuelTankExplodable</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleFuelTankExplodable( vehicle theVehicle, bool explodable )]]></content><tabTrigger>setVehicleFuelTankExplodable</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

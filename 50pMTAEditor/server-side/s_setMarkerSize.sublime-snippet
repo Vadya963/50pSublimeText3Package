@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setMarkerSize( ${1:marker theMarker}, ${2:float size} )]]></content><tabTrigger>setMarkerSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setMarkerSize( marker theMarker, float size )]]></content><tabTrigger>setMarkerSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

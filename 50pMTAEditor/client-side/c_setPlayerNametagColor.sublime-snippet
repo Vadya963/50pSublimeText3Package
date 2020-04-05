@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerNametagColor( ${1:player thePlayer}, ${2:int r}, ${3:int g}, ${4:int b} )]]></content><tabTrigger>setPlayerNametagColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setPlayerNametagColor( player thePlayer, int r, int g, int b )]]></content><tabTrigger>setPlayerNametagColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

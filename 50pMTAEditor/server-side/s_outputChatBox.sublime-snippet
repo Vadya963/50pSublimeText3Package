@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[outputChatBox( ${1:string text }[, ${2:element visibleTo=getRootElement()}, ${3:int r=231}, ${4:int g=217}, ${5:int b=176}, ${6:bool colorCoded=false }] )]]></content><tabTrigger>outputChatBox</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[outputChatBox( string text [, element visibleTo=getRootElement(), int r=231, int g=217, int b=176, bool colorCoded=false ] )]]></content><tabTrigger>outputChatBox</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

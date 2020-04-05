@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[aclDestroy( ${1:acl theACL} )]]></content><tabTrigger>aclDestroy</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[aclDestroy( acl theACL )]]></content><tabTrigger>aclDestroy</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

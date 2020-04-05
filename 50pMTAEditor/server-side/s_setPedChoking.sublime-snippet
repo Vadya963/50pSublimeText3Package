@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPedChoking( ${1:ped thePed}, ${2:bool choking} )]]></content><tabTrigger>setPedChoking</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPedChoking( ped thePed, bool choking )]]></content><tabTrigger>setPedChoking</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

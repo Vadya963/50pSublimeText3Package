@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiEditSetReadOnly( ${1:element editField}, ${2:bool status} )]]></content><tabTrigger>guiEditSetReadOnly</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiEditSetReadOnly( element editField, bool status )]]></content><tabTrigger>guiEditSetReadOnly</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

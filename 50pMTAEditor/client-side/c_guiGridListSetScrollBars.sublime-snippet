@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListSetScrollBars( ${1:element guiGridlist}, ${2:bool horizontalBar}, ${3:bool verticalBar} )]]></content><tabTrigger>guiGridListSetScrollBars</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListSetScrollBars( element guiGridlist, bool horizontalBar, bool verticalBar )]]></content><tabTrigger>guiGridListSetScrollBars</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

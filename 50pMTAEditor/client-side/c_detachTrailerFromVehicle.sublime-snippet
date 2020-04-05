@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[detachTrailerFromVehicle( ${1:vehicle theVehicle }[, ${2:vehicle theTrailer = nil }] )]]></content><tabTrigger>detachTrailerFromVehicle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[detachTrailerFromVehicle( vehicle theVehicle [, vehicle theTrailer = nil ] )]]></content><tabTrigger>detachTrailerFromVehicle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

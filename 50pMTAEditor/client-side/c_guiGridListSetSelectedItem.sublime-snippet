@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListSetSelectedItem( ${1:element gridList}, ${2:int rowIndex}, ${3:int columnIndex }[, ${4:bool bReset = true }] )]]></content><tabTrigger>guiGridListSetSelectedItem</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListSetSelectedItem( element gridList, int rowIndex, int columnIndex [, bool bReset = true ] )]]></content><tabTrigger>guiGridListSetSelectedItem</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

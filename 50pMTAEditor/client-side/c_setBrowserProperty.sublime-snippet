@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[setBrowserProperty( ${1:browser theBrowser}, ${2:string key}, ${3:string value} )]]></content>
+	<content><![CDATA[setBrowserProperty( browser theBrowser, string key, string value )]]></content>
 	<tabTrigger>setBrowserProperty</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

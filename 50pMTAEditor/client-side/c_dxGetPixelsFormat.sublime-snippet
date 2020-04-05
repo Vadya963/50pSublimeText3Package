@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxGetPixelsFormat( ${1:string pixels} )]]></content><tabTrigger>dxGetPixelsFormat</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxGetPixelsFormat( string pixels )]]></content><tabTrigger>dxGetPixelsFormat</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

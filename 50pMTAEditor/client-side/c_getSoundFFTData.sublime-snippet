@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getSoundFFTData( ${1:element sound}, ${2:int iSamples }[, ${3:int iBands = 0} ] )]]></content><tabTrigger>getSoundFFTData</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getSoundFFTData( element sound, int iSamples [, int iBands = 0 ] )]]></content><tabTrigger>getSoundFFTData</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

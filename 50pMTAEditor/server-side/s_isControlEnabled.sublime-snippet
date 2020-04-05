@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isControlEnabled( ${1:player thePlayer}, ${2:string control} )]]></content><tabTrigger>isControlEnabled</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[isControlEnabled( player thePlayer, string control )]]></content><tabTrigger>isControlEnabled</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

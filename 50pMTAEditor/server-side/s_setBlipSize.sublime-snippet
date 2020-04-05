@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setBlipSize( ${1:blip theBlip}, ${2:int iconSize} )]]></content><tabTrigger>setBlipSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setBlipSize( blip theBlip, int iconSize )]]></content><tabTrigger>setBlipSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[removeEventHandler( ${1:string eventName}, ${2:element attachedTo}, ${3:function functionVar} )]]></content><tabTrigger>removeEventHandler</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[removeEventHandler( string eventName, element attachedTo, function functionVar )]]></content><tabTrigger>removeEventHandler</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

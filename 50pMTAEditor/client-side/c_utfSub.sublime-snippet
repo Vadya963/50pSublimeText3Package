@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[utfSub( ${1:string theString}, ${2:int Start}, ${3:int End} )]]></content><tabTrigger>utfSub</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[utfSub( string theString, int Start, int End )]]></content><tabTrigger>utfSub</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onClientElementStreamOut"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onClientElementStreamOut", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onClientElementStreamOut</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

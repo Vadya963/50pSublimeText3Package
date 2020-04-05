@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[forcePlayerMap( ${1:bool forceOn} )]]></content>
+	<content><![CDATA[forcePlayerMap( bool forceOn )]]></content>
 	<tabTrigger>forcePlayerMap</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

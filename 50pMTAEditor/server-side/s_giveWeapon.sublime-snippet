@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[giveWeapon( ${1:ped thePlayer}, ${2:int weapon }[, ${3:int ammo=30}, ${4:bool setAsCurrent=false }] )]]></content><tabTrigger>giveWeapon</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[giveWeapon( ped thePlayer, int weapon [, int ammo=30, bool setAsCurrent=false ] )]]></content><tabTrigger>giveWeapon</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

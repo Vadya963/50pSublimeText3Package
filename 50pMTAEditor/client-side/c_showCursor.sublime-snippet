@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[showCursor( ${1:player thePlayer}, ${2:bool show}, [ ${3:bool toggleControls = true }] )]]></content><tabTrigger>showCursor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[showCursor( player thePlayer, bool show, [ bool toggleControls = true ] )]]></content><tabTrigger>showCursor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

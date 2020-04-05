@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiComboBoxClear( ${1:element comboBox} )]]></content><tabTrigger>guiComboBoxClear</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiComboBoxClear( element comboBox )]]></content><tabTrigger>guiComboBoxClear</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getElementChildren( ${1:element parent }[, ${2:string theType = nil }] )]]></content><tabTrigger>getElementChildren</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getElementChildren( element parent [, string theType = nil ] )]]></content><tabTrigger>getElementChildren</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

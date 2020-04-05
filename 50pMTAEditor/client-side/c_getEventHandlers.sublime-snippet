@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getEventHandlers( ${1:string eventName}, ${2:element attachedTo} )]]></content><tabTrigger>getEventHandlers</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getEventHandlers( string eventName, element attachedTo )]]></content><tabTrigger>getEventHandlers</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

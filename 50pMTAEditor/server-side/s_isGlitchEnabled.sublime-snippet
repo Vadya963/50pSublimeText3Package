@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isGlitchEnabled( ${1:string glitchName} )]]></content><tabTrigger>isGlitchEnabled</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[isGlitchEnabled( string glitchName )]]></content><tabTrigger>isGlitchEnabled</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

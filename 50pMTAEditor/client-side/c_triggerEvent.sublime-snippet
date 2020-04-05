@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[triggerEvent( ${1:string eventName}, ${2:element baseElement}, [ ${3:var argument1}, ... ] )]]></content><tabTrigger>triggerEvent</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[triggerEvent( string eventName, element baseElement, [ var argument1, ... ] )]]></content><tabTrigger>triggerEvent</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

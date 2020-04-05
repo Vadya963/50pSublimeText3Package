@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlNodeGetAttributes( ${1:xmlnode node} )]]></content><tabTrigger>xmlNodeGetAttributes</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[xmlNodeGetAttributes( xmlnode node )]]></content><tabTrigger>xmlNodeGetAttributes</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

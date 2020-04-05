@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[isElementWaitingForGroundToLoad( ${1:element theElement})]]></content>
+	<content><![CDATA[isElementWaitingForGroundToLoad( element theElement)]]></content>
 	<tabTrigger>isElementWaitingForGroundToLoad</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Server-side</description>

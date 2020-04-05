@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createColTube( ${1:float fX}, ${2:float fY}, ${3:float fZ}, ${4:float fRadius}, ${5:float fHeight} )]]></content><tabTrigger>createColTube</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createColTube( float fX, float fY, float fZ, float fRadius, float fHeight )]]></content><tabTrigger>createColTube</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

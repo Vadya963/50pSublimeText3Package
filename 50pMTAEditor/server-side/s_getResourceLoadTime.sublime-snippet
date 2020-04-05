@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getResourceLoadTime( ${1:resource res} )]]></content><tabTrigger>getResourceLoadTime</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getResourceLoadTime( resource res )]]></content><tabTrigger>getResourceLoadTime</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

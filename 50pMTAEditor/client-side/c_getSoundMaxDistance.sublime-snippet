@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getSoundMaxDistance( ${1:element sound} )]]></content><tabTrigger>getSoundMaxDistance</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getSoundMaxDistance( element sound )]]></content><tabTrigger>getSoundMaxDistance</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

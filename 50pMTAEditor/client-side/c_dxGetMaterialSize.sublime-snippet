@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxGetMaterialSize( ${1:element material} )]]></content><tabTrigger>dxGetMaterialSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxGetMaterialSize( element material )]]></content><tabTrigger>dxGetMaterialSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

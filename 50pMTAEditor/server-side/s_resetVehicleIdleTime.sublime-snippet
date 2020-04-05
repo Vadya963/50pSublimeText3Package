@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[resetVehicleIdleTime( ${1:vehicle theVehicle} )]]></content><tabTrigger>resetVehicleIdleTime</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[resetVehicleIdleTime( vehicle theVehicle )]]></content><tabTrigger>resetVehicleIdleTime</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createFire( ${1:float x}, ${2:float y}, ${3:float z }[, ${4:float size = 1.8} ] )]]></content><tabTrigger>createFire</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[createFire( float x, float y, float z [, float size = 1.8 ] )]]></content><tabTrigger>createFire</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

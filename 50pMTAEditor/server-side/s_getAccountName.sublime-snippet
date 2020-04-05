@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getAccountName( ${1:account theAccount} )]]></content><tabTrigger>getAccountName</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getAccountName( account theAccount )]]></content><tabTrigger>getAccountName</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

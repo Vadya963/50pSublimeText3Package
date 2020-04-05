@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[setBrowserAjaxHandler( ${1:browser webBrowser}, ${2:string url} [, ${3:function handler}] )]]></content>
+	<content><![CDATA[setBrowserAjaxHandler( browser webBrowser, string url [, function handler] )]]></content>
 	<tabTrigger>setBrowserAjaxHandler</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

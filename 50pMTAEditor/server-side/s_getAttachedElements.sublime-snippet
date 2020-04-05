@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getAttachedElements( ${1:element theElement} )]]></content><tabTrigger>getAttachedElements</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getAttachedElements( element theElement )]]></content><tabTrigger>getAttachedElements</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

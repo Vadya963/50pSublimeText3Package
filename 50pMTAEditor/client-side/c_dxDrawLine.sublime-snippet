@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxDrawLine( ${1:int startX}, ${2:int startY}, ${3:int endX}, ${4:int endY}, ${5:int color}, [${6:float width=1}, ${7:bool postGUI=false}] )]]></content><tabTrigger>dxDrawLine</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxDrawLine( int startX, int startY, int endX, int endY, int color, [float width=1, bool postGUI=false] )]]></content><tabTrigger>dxDrawLine</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

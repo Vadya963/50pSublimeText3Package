@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[warpPedIntoVehicle( ${1:ped thePed}, ${2:vehicle theVehicle}, [ ${3:int seat=0} ] )]]></content><tabTrigger>warpPedIntoVehicle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[warpPedIntoVehicle( ped thePed, vehicle theVehicle, [ int seat=0 ] )]]></content><tabTrigger>warpPedIntoVehicle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

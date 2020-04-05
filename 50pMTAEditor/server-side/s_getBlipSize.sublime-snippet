@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getBlipSize( ${1:blip theBlip} )]]></content><tabTrigger>getBlipSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getBlipSize( blip theBlip )]]></content><tabTrigger>getBlipSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

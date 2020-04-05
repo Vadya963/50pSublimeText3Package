@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxSetBlendMode( ${1:string blendMode} )]]></content><tabTrigger>dxSetBlendMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxSetBlendMode( string blendMode )]]></content><tabTrigger>dxSetBlendMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

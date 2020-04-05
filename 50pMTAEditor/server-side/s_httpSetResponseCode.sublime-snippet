@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[httpSetResponseCode( ${1:int code} )]]></content><tabTrigger>httpSetResponseCode</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[httpSetResponseCode( int code )]]></content><tabTrigger>httpSetResponseCode</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

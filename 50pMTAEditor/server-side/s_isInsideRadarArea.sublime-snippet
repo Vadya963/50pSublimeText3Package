@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isInsideRadarArea( ${1:radararea theArea}, ${2:float posX}, ${3:float posY} )]]></content><tabTrigger>isInsideRadarArea</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[isInsideRadarArea( radararea theArea, float posX, float posY )]]></content><tabTrigger>isInsideRadarArea</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

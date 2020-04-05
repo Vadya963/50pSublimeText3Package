@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[stopResource( ${1:resource theResource} )]]></content><tabTrigger>stopResource</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[stopResource( resource theResource )]]></content><tabTrigger>stopResource</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

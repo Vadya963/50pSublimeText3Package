@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[removeWorldModel( ${1:int modelID}, ${2:float radius}, ${3:float x}, ${4:float y}, ${5:float z }[, ${6:int interior = 0} ] )]]></content><tabTrigger>removeWorldModel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[removeWorldModel( int modelID, float radius, float x, float y, float z [, int interior = 0 ] )]]></content><tabTrigger>removeWorldModel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

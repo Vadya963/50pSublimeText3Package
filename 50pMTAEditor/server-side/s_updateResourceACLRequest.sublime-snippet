@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[updateResourceACLRequest( ${1:resource theResource}, ${2:string rightName}, ${3:bool access }[, ${4:string byWho = }"" ] )]]></content><tabTrigger>updateResourceACLRequest</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[updateResourceACLRequest( resource theResource, string rightName, bool access [, string byWho = "" ] )]]></content><tabTrigger>updateResourceACLRequest</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

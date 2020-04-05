@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineGetVisibleTextureNames( [ ${1:string nameFilter = }"*", ${2:string modelId = }"" ] )]]></content><tabTrigger>engineGetVisibleTextureNames</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineGetVisibleTextureNames( [ string nameFilter = "*", string modelId = "" ] )]]></content><tabTrigger>engineGetVisibleTextureNames</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

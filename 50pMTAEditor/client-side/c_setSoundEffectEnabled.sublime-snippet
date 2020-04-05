@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setSoundEffectEnabled( ${1:element sound}, ${2:string effectName}, ${3:bool bEnable} )]]></content><tabTrigger>setSoundEffectEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setSoundEffectEnabled( element sound, string effectName, bool bEnable )]]></content><tabTrigger>setSoundEffectEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxCreateFont( ${1:string filepath}[, ${2:int size=9}, ${3:bool bold=false }] )]]></content><tabTrigger>dxCreateFont</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxCreateFont( string filepath[, int size=9, bool bold=false ] )]]></content><tabTrigger>dxCreateFont</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxSetTexturePixels( [ ${1:int surfaceIndex = 0}, ] ${2:element texture}, ${3:string pixels }[, ${4:int x = 0}, ${5:int y = 0}, ${6:int width = 0}, ${7:int height = 0} ] )]]></content><tabTrigger>dxSetTexturePixels</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxSetTexturePixels( [ int surfaceIndex = 0, ] element texture, string pixels [, int x = 0, int y = 0, int width = 0, int height = 0 ] )]]></content><tabTrigger>dxSetTexturePixels</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

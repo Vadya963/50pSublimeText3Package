@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getVehicleTurretPosition( ${1:vehicle turretVehicle} )]]></content><tabTrigger>getVehicleTurretPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getVehicleTurretPosition( vehicle turretVehicle )]]></content><tabTrigger>getVehicleTurretPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

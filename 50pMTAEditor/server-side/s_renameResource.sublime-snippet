@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[renameResource( ${1:string resourceName}, ${2:string newResourceName}, [ ${3:string organizationalPath }] )]]></content><tabTrigger>renameResource</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[renameResource( string resourceName, string newResourceName, [ string organizationalPath ] )]]></content><tabTrigger>renameResource</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

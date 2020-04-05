@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPickupRespawnInterval( ${1:pickup thePickup}, ${2:int ms} )]]></content><tabTrigger>setPickupRespawnInterval</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPickupRespawnInterval( pickup thePickup, int ms )]]></content><tabTrigger>setPickupRespawnInterval</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

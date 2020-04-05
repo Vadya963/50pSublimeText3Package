@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[stopSound( ${1:element theSound} )]]></content><tabTrigger>stopSound</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[stopSound( element theSound )]]></content><tabTrigger>stopSound</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

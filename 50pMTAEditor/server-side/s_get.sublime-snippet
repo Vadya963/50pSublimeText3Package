@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[get( ${1:string settingName} )]]></content><tabTrigger>get</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[get( string settingName )]]></content><tabTrigger>get</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

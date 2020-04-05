@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerHudComponentVisible( ${1:player thePlayer}, ${2:string component}, ${3:bool show} )]]></content><tabTrigger>setPlayerHudComponentVisible</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPlayerHudComponentVisible( player thePlayer, string component, bool show )]]></content><tabTrigger>setPlayerHudComponentVisible</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

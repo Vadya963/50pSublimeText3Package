@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[killTimer( ${1:timer theTimer} )]]></content><tabTrigger>killTimer</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[killTimer( timer theTimer )]]></content><tabTrigger>killTimer</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

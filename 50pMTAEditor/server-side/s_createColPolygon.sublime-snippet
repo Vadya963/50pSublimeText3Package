@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createColPolygon( ${1:float fX}, ${2:float fY}, ${3:float fX1}, ${4:float fY1}, ${5:float fX2}, ${6:float fY2}, ${7:float fX3}, ${8:float fY3}, ... )]]></content><tabTrigger>createColPolygon</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createColPolygon( float fX, float fY, float fX1, float fY1, float fX2, float fY2, float fX3, float fY3, ... )]]></content><tabTrigger>createColPolygon</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[takePlayerMoney( ${1:player thePlayer}, ${2:int amount} )]]></content><tabTrigger>takePlayerMoney</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[takePlayerMoney( player thePlayer, int amount )]]></content><tabTrigger>takePlayerMoney</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

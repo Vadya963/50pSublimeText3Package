@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiSetFont( ${1:element guiElement}, ${2:mixed font} )]]></content><tabTrigger>guiSetFont</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiSetFont( element guiElement, mixed font )]]></content><tabTrigger>guiSetFont</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

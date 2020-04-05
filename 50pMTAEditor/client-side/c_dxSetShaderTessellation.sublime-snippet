@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxSetShaderTessellation( ${1:element theShader}, ${2:int tessellationX}, ${3:int tessellationY} )]]></content><tabTrigger>dxSetShaderTessellation</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxSetShaderTessellation( element theShader, int tessellationX, int tessellationY )]]></content><tabTrigger>dxSetShaderTessellation</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

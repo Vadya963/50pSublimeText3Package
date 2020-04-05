@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getCameraInterior( ${1:player thePlayer} )]]></content><tabTrigger>getCameraInterior</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getCameraInterior( player thePlayer )]]></content><tabTrigger>getCameraInterior</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

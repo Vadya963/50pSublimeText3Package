@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[playSound( ${1:string soundPath}, [ ${2:bool looped = false }, ${3:bool throttled = true}] )]]></content><tabTrigger>playSound</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[playSound( string soundPath, [ bool looped = false , bool throttled = true] )]]></content><tabTrigger>playSound</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

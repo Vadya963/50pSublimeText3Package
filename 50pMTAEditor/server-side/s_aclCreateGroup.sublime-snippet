@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[aclCreateGroup( ${1:string groupName} )]]></content><tabTrigger>aclCreateGroup</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[aclCreateGroup( string groupName )]]></content><tabTrigger>aclCreateGroup</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

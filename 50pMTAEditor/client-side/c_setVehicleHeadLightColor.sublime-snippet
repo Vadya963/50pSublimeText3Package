@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleHeadLightColor( ${1:vehicle theVehicle}, ${2:int red}, ${3:int green}, ${4:int blue} )]]></content><tabTrigger>setVehicleHeadLightColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleHeadLightColor( vehicle theVehicle, int red, int green, int blue )]]></content><tabTrigger>setVehicleHeadLightColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

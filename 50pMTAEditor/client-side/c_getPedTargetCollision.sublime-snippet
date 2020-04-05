@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPedTargetCollision( ${1:ped targetingPed} )]]></content><tabTrigger>getPedTargetCollision</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getPedTargetCollision( ped targetingPed )]]></content><tabTrigger>getPedTargetCollision</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

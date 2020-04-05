@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerTeam( ${1:player thePlayer}, ${2:team theTeam} )]]></content><tabTrigger>setPlayerTeam</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPlayerTeam( player thePlayer, team theTeam )]]></content><tabTrigger>setPlayerTeam</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

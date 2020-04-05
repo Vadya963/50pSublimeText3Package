@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxSetTestMode( ${1:string testMode} )]]></content><tabTrigger>dxSetTestMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxSetTestMode( string testMode )]]></content><tabTrigger>dxSetTestMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

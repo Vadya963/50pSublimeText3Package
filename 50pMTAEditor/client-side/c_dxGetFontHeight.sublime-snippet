@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxGetFontHeight( [${1:float scale=1}, ${2:mixed font=}"default"] )]]></content><tabTrigger>dxGetFontHeight</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxGetFontHeight( [float scale=1, mixed font="default"] )]]></content><tabTrigger>dxGetFontHeight</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

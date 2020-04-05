@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxSetTextureEdge( ${1:texture theTexture}, ${2:string textureEdge }[, ${3:int border}-color] )]]></content><tabTrigger>dxSetTextureEdge</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxSetTextureEdge( texture theTexture, string textureEdge [, int border-color] )]]></content><tabTrigger>dxSetTextureEdge</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getEasingValue( ${1:float fProgress}, ${2:string strEasingType }[, ${3:float fEasingPeriod}, ${4:float fEasingAmplitude}, ${5:float fEasingOvershoot}] )]]></content><tabTrigger>getEasingValue</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getEasingValue( float fProgress, string strEasingType [, float fEasingPeriod, float fEasingAmplitude, float fEasingOvershoot] )]]></content><tabTrigger>getEasingValue</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

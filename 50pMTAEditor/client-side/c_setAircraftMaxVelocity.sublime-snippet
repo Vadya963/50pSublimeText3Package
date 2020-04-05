@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setAircraftMaxVelocity( ${1:float velocity} )]]></content><tabTrigger>setAircraftMaxVelocity</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setAircraftMaxVelocity( float velocity )]]></content><tabTrigger>setAircraftMaxVelocity</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

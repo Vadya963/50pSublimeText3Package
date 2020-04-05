@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[string.find( ${1:str}, ${2:index})]]></content>
+	<content><![CDATA[string.find( str, index)]]></content>
     <tabTrigger>string.find</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

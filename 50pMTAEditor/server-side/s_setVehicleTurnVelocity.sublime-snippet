@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleTurnVelocity( ${1:vehicle theVehicle}, ${2:float rx}, ${3:float ry}, ${4:float rz} )]]></content><tabTrigger>setVehicleTurnVelocity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleTurnVelocity( vehicle theVehicle, float rx, float ry, float rz )]]></content><tabTrigger>setVehicleTurnVelocity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

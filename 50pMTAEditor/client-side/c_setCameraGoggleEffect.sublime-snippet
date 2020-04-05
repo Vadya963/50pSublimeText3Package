@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setCameraGoggleEffect( ${1:string goggleEffect} )]]></content><tabTrigger>setCameraGoggleEffect</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setCameraGoggleEffect( string goggleEffect )]]></content><tabTrigger>setCameraGoggleEffect</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

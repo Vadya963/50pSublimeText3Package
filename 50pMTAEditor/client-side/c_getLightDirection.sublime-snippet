@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[getLightDirection( ${1:light theLight} )]]></content>
+	<content><![CDATA[getLightDirection( light theLight )]]></content>
 	<tabTrigger>getLightDirection</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

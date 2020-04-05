@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWaterColor( ${1:int red}, ${2:int green}, ${3:int blue}, [ ${4:int alpha = 200} ] )]]></content><tabTrigger>setWaterColor</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setWaterColor( int red, int green, int blue, [ int alpha = 200 ] )]]></content><tabTrigger>setWaterColor</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

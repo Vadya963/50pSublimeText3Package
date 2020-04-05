@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[fileClose( ${1:file theFile} )]]></content><tabTrigger>fileClose</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[fileClose( file theFile )]]></content><tabTrigger>fileClose</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

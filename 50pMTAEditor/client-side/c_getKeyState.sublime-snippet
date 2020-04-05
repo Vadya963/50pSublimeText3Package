@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getKeyState( ${1:string keyName} )]]></content><tabTrigger>getKeyState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getKeyState( string keyName )]]></content><tabTrigger>getKeyState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

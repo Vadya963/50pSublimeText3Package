@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerNametagText( ${1:player thePlayer}, ${2:string text} )]]></content><tabTrigger>setPlayerNametagText</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPlayerNametagText( player thePlayer, string text )]]></content><tabTrigger>setPlayerNametagText</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

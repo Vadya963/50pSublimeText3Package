@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiCreateFont( ${1:string filepath}[, ${2:int size=9} ] )]]></content><tabTrigger>guiCreateFont</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiCreateFont( string filepath[, int size=9 ] )]]></content><tabTrigger>guiCreateFont</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

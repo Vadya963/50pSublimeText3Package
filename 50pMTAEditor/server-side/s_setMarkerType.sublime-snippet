@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setMarkerType( ${1:marker theMarker}, ${2:string markerType} )]]></content><tabTrigger>setMarkerType</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setMarkerType( marker theMarker, string markerType )]]></content><tabTrigger>setMarkerType</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

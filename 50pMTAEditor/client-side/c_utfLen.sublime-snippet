@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[utfLen( ${1:string theString} )]]></content><tabTrigger>utfLen</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[utfLen( string theString )]]></content><tabTrigger>utfLen</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

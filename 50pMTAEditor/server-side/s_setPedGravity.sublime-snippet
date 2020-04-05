@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPedGravity( ${1:ped thePed}, ${2:float gravity} )]]></content><tabTrigger>setPedGravity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPedGravity( ped thePed, float gravity )]]></content><tabTrigger>setPedGravity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

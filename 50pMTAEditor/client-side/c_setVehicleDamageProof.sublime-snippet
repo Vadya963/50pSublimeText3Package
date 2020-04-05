@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleDamageProof( ${1:vehicle theVehicle}, ${2:bool damageProof} )]]></content><tabTrigger>setVehicleDamageProof</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleDamageProof( vehicle theVehicle, bool damageProof )]]></content><tabTrigger>setVehicleDamageProof</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

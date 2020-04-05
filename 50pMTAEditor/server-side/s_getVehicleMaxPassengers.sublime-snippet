@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getVehicleMaxPassengers( ${1:vehicle theVehicle }/ ${2:int modelID} )]]></content><tabTrigger>getVehicleMaxPassengers</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getVehicleMaxPassengers( vehicle theVehicle / int modelID )]]></content><tabTrigger>getVehicleMaxPassengers</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

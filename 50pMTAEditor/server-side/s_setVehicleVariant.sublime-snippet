@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleVariant( ${1:vehicle theVehicle }[, ${2:int variant1}, ${3:int variant2 }] )]]></content><tabTrigger>setVehicleVariant</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleVariant( vehicle theVehicle [, int variant1, int variant2 ] )]]></content><tabTrigger>setVehicleVariant</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

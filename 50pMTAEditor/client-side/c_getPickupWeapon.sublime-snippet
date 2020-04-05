@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPickupWeapon( ${1:pickup thePickup} )]]></content><tabTrigger>getPickupWeapon</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getPickupWeapon( pickup thePickup )]]></content><tabTrigger>getPickupWeapon</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

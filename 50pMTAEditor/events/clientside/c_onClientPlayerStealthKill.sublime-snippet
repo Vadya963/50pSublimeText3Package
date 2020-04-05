@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onClientPlayerStealthKill"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPlayerStealthKill", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onClientPlayerStealthKill</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

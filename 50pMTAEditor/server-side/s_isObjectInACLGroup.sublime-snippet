@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isObjectInACLGroup( ${1:string theObject}, ${2:aclgroup theGroup} )]]></content><tabTrigger>isObjectInACLGroup</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[isObjectInACLGroup( string theObject, aclgroup theGroup )]]></content><tabTrigger>isObjectInACLGroup</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

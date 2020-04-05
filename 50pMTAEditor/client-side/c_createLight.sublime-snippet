@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[createLight( ${1:int lightType}, ${2:float posX}, ${3:float posY}, ${4:float posZ} [, ${5:float radius = 3}, ${6:int r = 255}, ${7:int g = 0}, ${8:int b = 0}, ${9:float dirX = 0}, ${10:float dirY = 0}, ${11:float dirZ = 0}, ${12:bool createsShadow = false} ] )]]></content>
+	<content><![CDATA[createLight( int lightType, float posX, float posY, float posZ [, float radius = 3, int r = 255, int g = 0, int b = 0, float dirX = 0, float dirY = 0, float dirZ = 0, bool createsShadow = false ] )]]></content>
 	<tabTrigger>createLight</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

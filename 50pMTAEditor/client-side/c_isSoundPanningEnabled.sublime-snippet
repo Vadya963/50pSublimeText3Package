@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isSoundPanningEnabled( ${1:element theSound} )]]></content><tabTrigger>isSoundPanningEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isSoundPanningEnabled( element theSound )]]></content><tabTrigger>isSoundPanningEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

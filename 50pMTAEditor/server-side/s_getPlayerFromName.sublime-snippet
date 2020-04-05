@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPlayerFromName( ${1:string playerName} )]]></content><tabTrigger>getPlayerFromName</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getPlayerFromName( string playerName )]]></content><tabTrigger>getPlayerFromName</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

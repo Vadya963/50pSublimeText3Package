@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[fileSetPos( ${1:file theFile}, ${2:int offset} )]]></content><tabTrigger>fileSetPos</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[fileSetPos( file theFile, int offset )]]></content><tabTrigger>fileSetPos</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

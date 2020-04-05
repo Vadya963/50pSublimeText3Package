@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getTrainDirection( ${1:vehicle train} )]]></content><tabTrigger>getTrainDirection</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getTrainDirection( vehicle train )]]></content><tabTrigger>getTrainDirection</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

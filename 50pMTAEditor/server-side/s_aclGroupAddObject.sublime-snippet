@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[aclGroupAddObject( ${1:aclgroup theGroup}, ${2:string theObjectName} )]]></content><tabTrigger>aclGroupAddObject</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[aclGroupAddObject( aclgroup theGroup, string theObjectName )]]></content><tabTrigger>aclGroupAddObject</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

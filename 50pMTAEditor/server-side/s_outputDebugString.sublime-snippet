@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[outputDebugString( ${1:string text}, [ ${2:int level=3}, ${3:int red=255}, ${4:int green=255}, ${5:int blue=255} ] )]]></content><tabTrigger>outputDebugString</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[outputDebugString( string text, [ int level=3, int red=255, int green=255, int blue=255 ] )]]></content><tabTrigger>outputDebugString</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[setLightRadius( ${1:light theLight}, ${2:float radius} )]]></content>
+	<content><![CDATA[setLightRadius( light theLight, float radius )]]></content>
 	<tabTrigger>setLightRadius</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

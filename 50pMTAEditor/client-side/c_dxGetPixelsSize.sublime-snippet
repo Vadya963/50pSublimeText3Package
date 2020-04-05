@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxGetPixelsSize( ${1:string pixels} )]]></content><tabTrigger>dxGetPixelsSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxGetPixelsSize( string pixels )]]></content><tabTrigger>dxGetPixelsSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

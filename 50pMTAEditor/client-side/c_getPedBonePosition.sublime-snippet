@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPedBonePosition( ${1:ped thePed}, ${2:int bone} )]]></content><tabTrigger>getPedBonePosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getPedBonePosition( ped thePed, int bone )]]></content><tabTrigger>getPedBonePosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

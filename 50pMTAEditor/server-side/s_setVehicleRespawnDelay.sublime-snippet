@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleRespawnDelay( ${1:vehicle theVehicle}, ${2:int timeDelay} )]]></content><tabTrigger>setVehicleRespawnDelay</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleRespawnDelay( vehicle theVehicle, int timeDelay )]]></content><tabTrigger>setVehicleRespawnDelay</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

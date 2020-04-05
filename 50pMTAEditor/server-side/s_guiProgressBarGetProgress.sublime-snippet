@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiProgressBarGetProgress( ${1:progressBar theProgressbar} )]]></content><tabTrigger>guiProgressBarGetProgress</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[guiProgressBarGetProgress( progressBar theProgressbar )]]></content><tabTrigger>guiProgressBarGetProgress</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

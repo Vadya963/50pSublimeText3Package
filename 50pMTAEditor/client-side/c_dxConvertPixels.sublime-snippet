@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxConvertPixels( ${1:string pixels}, ${2:string newFormat }[, ${3:int quality = 80} ] )]]></content><tabTrigger>dxConvertPixels</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxConvertPixels( string pixels, string newFormat [, int quality = 80 ] )]]></content><tabTrigger>dxConvertPixels</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

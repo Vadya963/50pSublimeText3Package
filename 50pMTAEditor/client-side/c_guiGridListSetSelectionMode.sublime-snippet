@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListSetSelectionMode( ${1:guiElement gridlist}, ${2:int mode} )]]></content><tabTrigger>guiGridListSetSelectionMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListSetSelectionMode( guiElement gridlist, int mode )]]></content><tabTrigger>guiGridListSetSelectionMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

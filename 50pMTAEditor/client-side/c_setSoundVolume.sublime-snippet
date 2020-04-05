@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setSoundVolume( ${1:element theSound}, ${2:float volume} )]]></content><tabTrigger>setSoundVolume</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setSoundVolume( element theSound, float volume )]]></content><tabTrigger>setSoundVolume</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

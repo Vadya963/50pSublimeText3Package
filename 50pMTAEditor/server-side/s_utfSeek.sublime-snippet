@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[utfSeek( ${1:string theString}, ${2:int position} )]]></content><tabTrigger>utfSeek</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[utfSeek( string theString, int position )]]></content><tabTrigger>utfSeek</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

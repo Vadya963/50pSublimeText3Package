@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[restartResource( ${1:resource theResource} )]]></content><tabTrigger>restartResource</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[restartResource( resource theResource )]]></content><tabTrigger>restartResource</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

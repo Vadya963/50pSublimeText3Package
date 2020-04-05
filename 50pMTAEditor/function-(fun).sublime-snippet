@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[function ${1:function_name}( ${2:...} )
-	${0:-- body}
+    <content><![CDATA[function function_name( ... )
+	${0:-- body
 end]]></content>
     <tabTrigger>fun</tabTrigger>
     <scope>source.lua</scope>

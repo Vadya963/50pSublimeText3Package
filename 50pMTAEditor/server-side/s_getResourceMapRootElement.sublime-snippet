@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getResourceMapRootElement( ${1:resource theResource}, ${2:string mapName} )]]></content><tabTrigger>getResourceMapRootElement</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getResourceMapRootElement( resource theResource, string mapName )]]></content><tabTrigger>getResourceMapRootElement</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

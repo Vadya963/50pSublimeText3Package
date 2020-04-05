@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getWeaponAmmo( ${1:weapon theWeapon} )]]></content><tabTrigger>getWeaponAmmo</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getWeaponAmmo( weapon theWeapon )]]></content><tabTrigger>getWeaponAmmo</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

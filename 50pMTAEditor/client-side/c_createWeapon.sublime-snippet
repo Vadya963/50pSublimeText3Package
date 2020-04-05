@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createWeapon( ${1:string theType}, ${2:float x}, ${3:float y}, ${4:float z} )]]></content><tabTrigger>createWeapon</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[createWeapon( string theType, float x, float y, float z )]]></content><tabTrigger>createWeapon</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

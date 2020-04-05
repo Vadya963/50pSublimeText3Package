@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListSetItemColor( ${1:element gridList}, ${2:int rowIndex}, ${3:int columnIndex}, ${4:int red}, ${5:int green}, ${6:int blue }[, ${7:int alpha = 255} ] )]]></content><tabTrigger>guiGridListSetItemColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListSetItemColor( element gridList, int rowIndex, int columnIndex, int red, int green, int blue [, int alpha = 255 ] )]]></content><tabTrigger>guiGridListSetItemColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

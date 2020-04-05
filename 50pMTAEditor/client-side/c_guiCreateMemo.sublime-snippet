@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiCreateMemo( ${1:float x}, ${2:float y}, ${3:float width}, ${4:float height}, ${5:string text}, ${6:bool relative}, [${7:element parent = nil}] )]]></content><tabTrigger>guiCreateMemo</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiCreateMemo( float x, float y, float width, float height, string text, bool relative, [element parent = nil] )]]></content><tabTrigger>guiCreateMemo</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

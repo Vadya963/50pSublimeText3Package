@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[addEventHandler( ${1:string eventName}, ${2:element attachedTo}, ${3:function handlerFunction}, [ ${4:bool getPropagated = true}, ${5:string priority = }"normal" ] )]]></content><tabTrigger>addEventHandler</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[addEventHandler( string eventName, element attachedTo, function handlerFunction, [ bool getPropagated = true, string priority = "normal" ] )]]></content><tabTrigger>addEventHandler</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

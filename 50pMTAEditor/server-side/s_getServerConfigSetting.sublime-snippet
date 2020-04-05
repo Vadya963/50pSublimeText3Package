@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getServerConfigSetting( ${1:string name} )]]></content><tabTrigger>getServerConfigSetting</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getServerConfigSetting( string name )]]></content><tabTrigger>getServerConfigSetting</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

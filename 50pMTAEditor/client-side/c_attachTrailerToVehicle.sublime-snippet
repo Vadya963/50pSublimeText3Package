@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[attachTrailerToVehicle( ${1:vehicle theVehicle}, ${2:vehicle theTrailer} )]]></content><tabTrigger>attachTrailerToVehicle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[attachTrailerToVehicle( vehicle theVehicle, vehicle theTrailer )]]></content><tabTrigger>attachTrailerToVehicle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setSunColor( ${1:int aRed}, ${2:int aGreen}, ${3:int aBlue}, ${4:int bRed}, ${5:int bGreen}, ${6:int bBlue} )]]></content><tabTrigger>setSunColor</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setSunColor( int aRed, int aGreen, int aBlue, int bRed, int bGreen, int bBlue )]]></content><tabTrigger>setSunColor</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

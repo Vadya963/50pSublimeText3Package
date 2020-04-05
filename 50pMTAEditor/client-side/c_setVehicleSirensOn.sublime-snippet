@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleSirensOn( ${1:vehicle theVehicle }, ${2:bool sirensOn} )]]></content><tabTrigger>setVehicleSirensOn</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleSirensOn( vehicle theVehicle , bool sirensOn )]]></content><tabTrigger>setVehicleSirensOn</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

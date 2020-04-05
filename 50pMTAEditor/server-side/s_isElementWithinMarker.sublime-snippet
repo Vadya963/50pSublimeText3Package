@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isElementWithinMarker( ${1:element theElement}, ${2:marker theMarker} )]]></content><tabTrigger>isElementWithinMarker</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[isElementWithinMarker( element theElement, marker theMarker )]]></content><tabTrigger>isElementWithinMarker</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

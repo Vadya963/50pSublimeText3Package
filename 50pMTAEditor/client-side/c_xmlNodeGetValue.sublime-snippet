@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlNodeGetValue( ${1:xmlnode theXMLNode} )]]></content><tabTrigger>xmlNodeGetValue</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[xmlNodeGetValue( xmlnode theXMLNode )]]></content><tabTrigger>xmlNodeGetValue</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

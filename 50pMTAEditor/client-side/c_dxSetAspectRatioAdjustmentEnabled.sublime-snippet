@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxSetAspectRatioAdjustmentEnabled( ${1:bool bEnabled }[, ${2:float sourceRatio = 4}/3 ] )]]></content><tabTrigger>dxSetAspectRatioAdjustmentEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxSetAspectRatioAdjustmentEnabled( bool bEnabled [, float sourceRatio = 4/3 ] )]]></content><tabTrigger>dxSetAspectRatioAdjustmentEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

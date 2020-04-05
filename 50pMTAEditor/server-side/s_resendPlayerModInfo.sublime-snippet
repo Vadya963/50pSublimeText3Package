@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[resendPlayerModInfo( ${1:player thePlayer} )]]></content><tabTrigger>resendPlayerModInfo</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[resendPlayerModInfo( player thePlayer )]]></content><tabTrigger>resendPlayerModInfo</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

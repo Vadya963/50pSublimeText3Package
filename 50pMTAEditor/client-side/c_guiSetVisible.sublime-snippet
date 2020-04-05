@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiSetVisible( ${1:element guiElement}, ${2:bool state} )]]></content><tabTrigger>guiSetVisible</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiSetVisible( element guiElement, bool state )]]></content><tabTrigger>guiSetVisible</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

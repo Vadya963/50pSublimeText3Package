@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiLabelGetTextExtent( ${1:element theLabel} )]]></content><tabTrigger>guiLabelGetTextExtent</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiLabelGetTextExtent( element theLabel )]]></content><tabTrigger>guiLabelGetTextExtent</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

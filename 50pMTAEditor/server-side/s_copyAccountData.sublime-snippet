@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[copyAccountData( ${1:account theAccount}, ${2:account fromAccount} )]]></content><tabTrigger>copyAccountData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[copyAccountData( account theAccount, account fromAccount )]]></content><tabTrigger>copyAccountData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

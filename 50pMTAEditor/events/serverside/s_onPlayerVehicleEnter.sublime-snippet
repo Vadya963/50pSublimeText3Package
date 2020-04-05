@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onPlayerVehicleEnter"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerVehicleEnter", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onPlayerVehicleEnter</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

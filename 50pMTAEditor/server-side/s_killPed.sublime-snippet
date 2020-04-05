@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[killPed( ${1:ped thePed}, [ ${2:ped theKiller = nil}, ${3:int weapon=255}, ${4:int bodyPart=255}, ${5:bool stealth = false }] )]]></content><tabTrigger>killPed</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[killPed( ped thePed, [ ped theKiller = nil, int weapon=255, int bodyPart=255, bool stealth = false ] )]]></content><tabTrigger>killPed</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

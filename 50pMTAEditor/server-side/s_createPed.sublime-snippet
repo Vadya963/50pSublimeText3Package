@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createPed( ${1:int modelid}, ${2:float x}, ${3:float y}, ${4:float z }[, ${5:float rot = 0.0}, ${6:bool synced = true }] )]]></content><tabTrigger>createPed</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createPed( int modelid, float x, float y, float z [, float rot = 0.0, bool synced = true ] )]]></content><tabTrigger>createPed</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

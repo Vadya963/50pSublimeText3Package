@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiCreateProgressBar( ${1:float x}, ${2:float y}, ${3:float width}, ${4:float height}, ${5:bool relative}, [${6:element parent = nil}] )]]></content><tabTrigger>guiCreateProgressBar</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiCreateProgressBar( float x, float y, float width, float height, bool relative, [element parent = nil] )]]></content><tabTrigger>guiCreateProgressBar</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

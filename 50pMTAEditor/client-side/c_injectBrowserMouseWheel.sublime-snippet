@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[injectBrowserMouseWheel( ${1:browser webBrowser}, ${2:int verticalScroll}, ${3:int horizontalScroll} )]]></content>
+	<content><![CDATA[injectBrowserMouseWheel( browser webBrowser, int verticalScroll, int horizontalScroll )]]></content>
 	<tabTrigger>injectBrowserMouseWheel</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

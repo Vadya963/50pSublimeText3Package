@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getClothesByTypeIndex( ${1:int clothesType}, ${2:int clothesIndex} )]]></content><tabTrigger>getClothesByTypeIndex</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getClothesByTypeIndex( int clothesType, int clothesIndex )]]></content><tabTrigger>getClothesByTypeIndex</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

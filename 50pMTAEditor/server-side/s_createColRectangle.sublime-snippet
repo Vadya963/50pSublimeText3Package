@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createColRectangle( ${1:float fX}, ${2:float fY}, ${3:float fWidth}, ${4:float fHeight} )]]></content><tabTrigger>createColRectangle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createColRectangle( float fX, float fY, float fWidth, float fHeight )]]></content><tabTrigger>createColRectangle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

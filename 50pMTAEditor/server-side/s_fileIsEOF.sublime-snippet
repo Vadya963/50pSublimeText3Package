@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[fileIsEOF( ${1:file theFile} )]]></content><tabTrigger>fileIsEOF</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[fileIsEOF( file theFile )]]></content><tabTrigger>fileIsEOF</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

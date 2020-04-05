@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isGarageOpen( ${1:int garageID} )]]></content><tabTrigger>isGarageOpen</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isGarageOpen( int garageID )]]></content><tabTrigger>isGarageOpen</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

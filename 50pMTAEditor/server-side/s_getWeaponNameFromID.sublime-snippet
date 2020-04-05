@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getWeaponNameFromID( ${1:int id} )]]></content><tabTrigger>getWeaponNameFromID</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getWeaponNameFromID( int id )]]></content><tabTrigger>getWeaponNameFromID</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

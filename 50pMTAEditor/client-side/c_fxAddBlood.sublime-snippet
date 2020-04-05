@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[fxAddBlood( ${1:float posX}, ${2:float posY}, ${3:float posZ}, ${4:float dirX}, ${5:float dirY}, ${6:float dirZ}, [${7:int count=1}, ${8:float brightness=1.0}] )]]></content><tabTrigger>fxAddBlood</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[fxAddBlood( float posX, float posY, float posZ, float dirX, float dirY, float dirZ, [int count=1, float brightness=1.0] )]]></content><tabTrigger>fxAddBlood</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListSetSortingEnabled( ${1:element guiGridlist}, ${2:bool enabled} )]]></content><tabTrigger>guiGridListSetSortingEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListSetSortingEnabled( element guiGridlist, bool enabled )]]></content><tabTrigger>guiGridListSetSortingEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

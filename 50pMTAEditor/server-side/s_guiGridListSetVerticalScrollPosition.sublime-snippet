@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListSetVerticalScrollPosition( ${1:element guiGridlist}, ${2:float fPosition} )]]></content><tabTrigger>guiGridListSetVerticalScrollPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[guiGridListSetVerticalScrollPosition( element guiGridlist, float fPosition )]]></content><tabTrigger>guiGridListSetVerticalScrollPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

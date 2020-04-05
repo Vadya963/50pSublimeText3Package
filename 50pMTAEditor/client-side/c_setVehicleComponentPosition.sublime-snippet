@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleComponentPosition( ${1:vehicle theVehicle}, ${2:string theComponent}, ${3:float posX}, ${4:float posY}, ${5:float posZ} )]]></content><tabTrigger>setVehicleComponentPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleComponentPosition( vehicle theVehicle, string theComponent, float posX, float posY, float posZ )]]></content><tabTrigger>setVehicleComponentPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

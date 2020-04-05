@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getElementRotation( ${1:element theElement }[, ${2:string rotOrder = }"default" ] )]]></content><tabTrigger>getElementRotation</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getElementRotation( element theElement [, string rotOrder = "default" ] )]]></content><tabTrigger>getElementRotation</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

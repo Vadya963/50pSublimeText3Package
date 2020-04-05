@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[pregMatch( ${1:string base}, ${2:string pattern }[, int/${3:string flags = 0}, ${4:int maxResults = 100000} ] )]]></content><tabTrigger>pregMatch</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[pregMatch( string base, string pattern [, int/string flags = 0, int maxResults = 100000 ] )]]></content><tabTrigger>pregMatch</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerNametagShowing( ${1:player thePlayer}, ${2:bool showing} )]]></content><tabTrigger>setPlayerNametagShowing</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setPlayerNametagShowing( player thePlayer, bool showing )]]></content><tabTrigger>setPlayerNametagShowing</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

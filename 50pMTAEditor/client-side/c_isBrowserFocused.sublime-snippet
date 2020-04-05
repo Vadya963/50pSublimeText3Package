@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[isBrowserFocused( ${1:browser webBrowser} )]]></content>
+	<content><![CDATA[isBrowserFocused( browser webBrowser )]]></content>
 	<tabTrigger>isBrowserFocused</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

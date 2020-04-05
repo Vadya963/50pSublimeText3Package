@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isElement( ${1:var theValue} )]]></content><tabTrigger>isElement</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[isElement( var theValue )]]></content><tabTrigger>isElement</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

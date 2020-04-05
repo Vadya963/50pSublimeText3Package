@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPerformanceStats( ${1:string category }[, ${2:string options = }"", ${3:string filter = }"" ] )]]></content><tabTrigger>getPerformanceStats</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getPerformanceStats( string category [, string options = "", string filter = "" ] )]]></content><tabTrigger>getPerformanceStats</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

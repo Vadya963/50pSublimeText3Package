@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineGetModelTextureNames( ${1:string modelId = }"" )]]></content><tabTrigger>engineGetModelTextureNames</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineGetModelTextureNames( string modelId = "" )]]></content><tabTrigger>engineGetModelTextureNames</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

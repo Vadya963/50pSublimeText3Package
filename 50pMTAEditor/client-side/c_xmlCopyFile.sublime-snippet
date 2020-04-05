@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlCopyFile( ${1:xmlnode nodeToCopy}, ${2:string newFilePath} )]]></content><tabTrigger>xmlCopyFile</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[xmlCopyFile( xmlnode nodeToCopy, string newFilePath )]]></content><tabTrigger>xmlCopyFile</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

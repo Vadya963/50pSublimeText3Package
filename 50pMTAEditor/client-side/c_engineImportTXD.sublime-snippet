@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineImportTXD( ${1:txd texture}, ${2:int model_id} )]]></content><tabTrigger>engineImportTXD</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineImportTXD( txd texture, int model_id )]]></content><tabTrigger>engineImportTXD</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

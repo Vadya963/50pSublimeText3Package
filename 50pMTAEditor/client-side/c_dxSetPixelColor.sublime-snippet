@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxSetPixelColor( ${1:string pixels}, ${2:int x}, ${3:int y}, ${4:int r}, ${5:int g}, ${6:int b }[, ${7:int a = 255} ] )]]></content><tabTrigger>dxSetPixelColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxSetPixelColor( string pixels, int x, int y, int r, int g, int b [, int a = 255 ] )]]></content><tabTrigger>dxSetPixelColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

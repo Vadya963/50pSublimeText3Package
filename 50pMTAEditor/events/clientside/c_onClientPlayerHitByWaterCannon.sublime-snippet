@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onClientPlayerHitByWaterCannon"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPlayerHitByWaterCannon", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onClientPlayerHitByWaterCannon</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

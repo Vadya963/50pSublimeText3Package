@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[removeResourceDefaultSetting( ${1:resource theResource}, ${2:string settingName} )]]></content><tabTrigger>removeResourceDefaultSetting</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[removeResourceDefaultSetting( resource theResource, string settingName )]]></content><tabTrigger>removeResourceDefaultSetting</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

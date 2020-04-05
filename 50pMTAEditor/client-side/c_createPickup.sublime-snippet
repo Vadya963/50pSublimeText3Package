@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createPickup( ${1:float x}, ${2:float y}, ${3:float z}, ${4:int theType}, ${5:int amount}/weapon/model, [ ${6:int respawnTime = 30000}, ${7:int ammo = 50} ] )]]></content><tabTrigger>createPickup</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[createPickup( float x, float y, float z, int theType, int amount/weapon/model, [ int respawnTime = 30000, int ammo = 50 ] )]]></content><tabTrigger>createPickup</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

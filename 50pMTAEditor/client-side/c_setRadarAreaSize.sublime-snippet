@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setRadarAreaSize( ${1:radararea theRadararea}, ${2:float x}, ${3:float y} )]]></content><tabTrigger>setRadarAreaSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setRadarAreaSize( radararea theRadararea, float x, float y )]]></content><tabTrigger>setRadarAreaSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

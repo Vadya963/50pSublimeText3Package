@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[aclGet( ${1:string aclName} )]]></content><tabTrigger>aclGet</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[aclGet( string aclName )]]></content><tabTrigger>aclGet</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

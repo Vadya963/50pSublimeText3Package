@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleDoorsUndamageable( ${1:vehicle theVehicle}, ${2:bool state} )]]></content><tabTrigger>setVehicleDoorsUndamageable</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleDoorsUndamageable( vehicle theVehicle, bool state )]]></content><tabTrigger>setVehicleDoorsUndamageable</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

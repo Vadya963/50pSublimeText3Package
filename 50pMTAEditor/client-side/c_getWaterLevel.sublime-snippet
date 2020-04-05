@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getWaterLevel( ${1:float posX}, ${2:float posY}, ${3:float posZ }[ , ${4:bool bCheckWaves = false }] )${5:float getWaterLevel }( ${6:water theWater} )]]></content><tabTrigger>getWaterLevel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getWaterLevel( float posX, float posY, float posZ [ , bool bCheckWaves = false ] )float getWaterLevel ( water theWater )]]></content><tabTrigger>getWaterLevel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

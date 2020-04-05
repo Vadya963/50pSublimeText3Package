@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setHelicopterRotorSpeed( ${1:vehicle heli}, ${2:float speed} )]]></content><tabTrigger>setHelicopterRotorSpeed</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setHelicopterRotorSpeed( vehicle heli, float speed )]]></content><tabTrigger>setHelicopterRotorSpeed</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

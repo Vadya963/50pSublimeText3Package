@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setTime( ${1:int hour}, ${2:int minute} )]]></content><tabTrigger>setTime</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setTime( int hour, int minute )]]></content><tabTrigger>setTime</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiWindowSetSizable( ${1:element theElement}, ${2:bool status} )]]></content><tabTrigger>guiWindowSetSizable</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiWindowSetSizable( element theElement, bool status )]]></content><tabTrigger>guiWindowSetSizable</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

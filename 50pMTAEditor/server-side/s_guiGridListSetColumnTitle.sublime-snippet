@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListSetColumnTitle( ${1:element guiGridlist}, ${2:int columnIndex}, ${3:string title} )]]></content><tabTrigger>guiGridListSetColumnTitle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[guiGridListSetColumnTitle( element guiGridlist, int columnIndex, string title )]]></content><tabTrigger>guiGridListSetColumnTitle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

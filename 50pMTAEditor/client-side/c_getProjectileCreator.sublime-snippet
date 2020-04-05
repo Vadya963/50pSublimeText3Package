@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getProjectileCreator( ${1:projectile theProjectile} )]]></content><tabTrigger>getProjectileCreator</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getProjectileCreator( projectile theProjectile )]]></content><tabTrigger>getProjectileCreator</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

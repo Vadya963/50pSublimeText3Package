@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onClientKey"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onClientKey", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onClientKey</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

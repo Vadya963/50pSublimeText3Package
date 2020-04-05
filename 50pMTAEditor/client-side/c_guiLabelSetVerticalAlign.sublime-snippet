@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiLabelSetVerticalAlign( ${1:element theLabel}, ${2:string align} )]]></content><tabTrigger>guiLabelSetVerticalAlign</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiLabelSetVerticalAlign( element theLabel, string align )]]></content><tabTrigger>guiLabelSetVerticalAlign</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

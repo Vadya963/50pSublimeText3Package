@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[setLightColor( ${1:light theLight}, ${2:float r}, ${3:float g}, ${4:float b} )]]></content>
+	<content><![CDATA[setLightColor( light theLight, float r, float g, float b )]]></content>
 	<tabTrigger>setLightColor</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

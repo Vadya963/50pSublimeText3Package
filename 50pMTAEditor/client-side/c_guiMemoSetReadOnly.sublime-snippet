@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiMemoSetReadOnly( gui-${1:memo theMemo}, ${2:bool status} )]]></content><tabTrigger>guiMemoSetReadOnly</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiMemoSetReadOnly( gui-memo theMemo, bool status )]]></content><tabTrigger>guiMemoSetReadOnly</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

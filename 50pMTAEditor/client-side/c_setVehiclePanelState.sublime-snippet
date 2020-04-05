@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehiclePanelState( ${1:vehicle theVehicle}, ${2:int panelID}, ${3:int state} )]]></content><tabTrigger>setVehiclePanelState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehiclePanelState( vehicle theVehicle, int panelID, int state )]]></content><tabTrigger>setVehiclePanelState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

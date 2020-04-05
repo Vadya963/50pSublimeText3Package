@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setControlState( ${1:player thePlayer}, ${2:string control}, ${3:bool state} )]]></content><tabTrigger>setControlState</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setControlState( player thePlayer, string control, bool state )]]></content><tabTrigger>setControlState</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

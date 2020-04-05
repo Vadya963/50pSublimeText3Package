@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setAmbientSoundEnabled( ${1:string theType}, ${2:bool enable} )]]></content><tabTrigger>setAmbientSoundEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setAmbientSoundEnabled( string theType, bool enable )]]></content><tabTrigger>setAmbientSoundEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

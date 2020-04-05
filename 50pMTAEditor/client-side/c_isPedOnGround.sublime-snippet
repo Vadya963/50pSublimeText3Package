@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isPedOnGround( ${1:ped thePed} )]]></content><tabTrigger>isPedOnGround</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isPedOnGround( ped thePed )]]></content><tabTrigger>isPedOnGround</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

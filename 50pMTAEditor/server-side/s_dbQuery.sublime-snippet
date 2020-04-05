@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dbQuery( [ ${1:function callbackFunction}, [ ${2:table callbackArguments}, ] ] ${3:element databaseConnection}, ${4:string query }[, ${5:var param1 }[, ${6:var param2 }...]] )]]></content><tabTrigger>dbQuery</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[dbQuery( [ function callbackFunction, [ table callbackArguments, ] ] element databaseConnection, string query [, var param1 [, var param2 ...]] )]]></content><tabTrigger>dbQuery</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

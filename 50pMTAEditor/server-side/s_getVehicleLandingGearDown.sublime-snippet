@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getVehicleLandingGearDown( ${1:vehicle theVehicle} )]]></content><tabTrigger>getVehicleLandingGearDown</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getVehicleLandingGearDown( vehicle theVehicle )]]></content><tabTrigger>getVehicleLandingGearDown</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

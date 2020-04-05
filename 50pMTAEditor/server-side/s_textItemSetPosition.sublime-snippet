@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[textItemSetPosition( ${1:textitem theTextItem}, ${2:float x}, ${3:float y} )]]></content><tabTrigger>textItemSetPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[textItemSetPosition( textitem theTextItem, float x, float y )]]></content><tabTrigger>textItemSetPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[banPlayer( ${1:player bannedPlayer}, [ ${2:bool IP = true}, ${3:bool Username = false}, ${4:bool Serial = false}, ${5:player responsiblePlayer = nil}, ${6:string reason = nil}, ${7:int seconds = 0} ] )]]></content><tabTrigger>banPlayer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[banPlayer( player bannedPlayer, [ bool IP = true, bool Username = false, bool Serial = false, player responsiblePlayer = nil, string reason = nil, int seconds = 0 ] )]]></content><tabTrigger>banPlayer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

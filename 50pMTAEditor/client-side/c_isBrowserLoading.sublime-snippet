@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[isBrowserLoading( ${1:browser webBrowser} )]]></content>
+	<content><![CDATA[isBrowserLoading( browser webBrowser )]]></content>
 	<tabTrigger>isBrowserLoading</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

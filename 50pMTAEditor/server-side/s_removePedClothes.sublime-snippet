@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[removePedClothes( ${1:ped thePed}, ${2:int clothesType}, [ ${3:string clothesTexture}, ${4:string clothesModel }] )]]></content><tabTrigger>removePedClothes</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[removePedClothes( ped thePed, int clothesType, [ string clothesTexture, string clothesModel ] )]]></content><tabTrigger>removePedClothes</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListAddColumn( ${1:element gridList}, ${2:string title}, ${3:float width} )]]></content><tabTrigger>guiGridListAddColumn</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListAddColumn( element gridList, string title, float width )]]></content><tabTrigger>guiGridListAddColumn</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

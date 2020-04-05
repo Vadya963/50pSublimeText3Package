@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getUnbanTime( ${1:ban theBan} )]]></content><tabTrigger>getUnbanTime</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getUnbanTime( ban theBan )]]></content><tabTrigger>getUnbanTime</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

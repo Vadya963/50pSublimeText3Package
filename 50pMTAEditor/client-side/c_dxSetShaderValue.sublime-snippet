@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxSetShaderValue( ${1:element theShader}, ${2:string parameterName}, ${3:mixed value} )]]></content><tabTrigger>dxSetShaderValue</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxSetShaderValue( element theShader, string parameterName, mixed value )]]></content><tabTrigger>dxSetShaderValue</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

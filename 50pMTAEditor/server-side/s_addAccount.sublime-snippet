@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[addAccount( ${1:string name}, ${2:string pass} [, ${3:bool allowCaseVariations = false}] )]]></content><tabTrigger>addAccount</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[addAccount( string name, string pass [, bool allowCaseVariations = false] )]]></content><tabTrigger>addAccount</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

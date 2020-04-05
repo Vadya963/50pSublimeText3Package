@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[pregFind( ${1:string subject}, ${2:string pattern }[, int/${3:string flags }] )]]></content><tabTrigger>pregFind</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[pregFind( string subject, string pattern [, int/string flags ] )]]></content><tabTrigger>pregFind</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

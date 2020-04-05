@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPedLookAt( ${1:ped thePed}, ${2:float x}, ${3:float y}, ${4:float z }[, ${5:int time = 3000} [, ${6:int blend = 1000} ], ${7:element target = nil }] )]]></content><tabTrigger>setPedLookAt</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setPedLookAt( ped thePed, float x, float y, float z [, int time = 3000 [, int blend = 1000 ], element target = nil ] )]]></content><tabTrigger>setPedLookAt</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

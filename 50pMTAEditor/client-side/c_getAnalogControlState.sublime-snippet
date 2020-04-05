@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getAnalogControlState( ${1:string controlName} )]]></content><tabTrigger>getAnalogControlState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getAnalogControlState( string controlName )]]></content><tabTrigger>getAnalogControlState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[cloneElement( ${1:element theElement}, [ ${2:float xPos = 0}, ${3:float yPos = 0}, ${4:float zPos = 0}, ${5:bool cloneChildren = false }] )]]></content><tabTrigger>cloneElement</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[cloneElement( element theElement, [ float xPos = 0, float yPos = 0, float zPos = 0, bool cloneChildren = false ] )]]></content><tabTrigger>cloneElement</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

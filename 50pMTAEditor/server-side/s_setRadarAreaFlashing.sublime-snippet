@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setRadarAreaFlashing( ${1:radararea theRadarArea}, ${2:bool flash} )]]></content><tabTrigger>setRadarAreaFlashing</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setRadarAreaFlashing( radararea theRadarArea, bool flash )]]></content><tabTrigger>setRadarAreaFlashing</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGetProperty( ${1:element guiElement}, ${2:string property} )]]></content><tabTrigger>guiGetProperty</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGetProperty( element guiElement, string property )]]></content><tabTrigger>guiGetProperty</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

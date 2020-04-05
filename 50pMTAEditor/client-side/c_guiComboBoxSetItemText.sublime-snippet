@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiComboBoxSetItemText( ${1:element comboBox}, ${2:int itemId}, ${3:string text} )]]></content><tabTrigger>guiComboBoxSetItemText</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiComboBoxSetItemText( element comboBox, int itemId, string text )]]></content><tabTrigger>guiComboBoxSetItemText</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

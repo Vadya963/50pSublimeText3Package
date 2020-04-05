@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiStaticImageGetNativeSize( ${1:element theImage} )]]></content><tabTrigger>guiStaticImageGetNativeSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiStaticImageGetNativeSize( element theImage )]]></content><tabTrigger>guiStaticImageGetNativeSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

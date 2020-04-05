@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGetAlpha( ${1:element guiElement} )]]></content><tabTrigger>guiGetAlpha</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGetAlpha( element guiElement )]]></content><tabTrigger>guiGetAlpha</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

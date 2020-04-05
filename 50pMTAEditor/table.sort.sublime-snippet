@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[table.sort( ${1:tablename}${2:, sortfunction} )]]></content>
+    <content><![CDATA[table.sort( tablename, sortfunction )]]></content>
     <tabTrigger>table.sort</tabTrigger>
     <scope>source.lua</scope>
     <description>table.sort</description>

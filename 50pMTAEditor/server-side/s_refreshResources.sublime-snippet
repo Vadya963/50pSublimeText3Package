@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[refreshResources( [ ${1:bool refreshAll = false }] )]]></content><tabTrigger>refreshResources</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[refreshResources( [ bool refreshAll = false ] )]]></content><tabTrigger>refreshResources</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

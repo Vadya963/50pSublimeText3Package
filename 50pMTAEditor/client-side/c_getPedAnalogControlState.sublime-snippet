@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPedAnalogControlState( ${1:ped thePed}, ${2:string controlName} )]]></content><tabTrigger>getPedAnalogControlState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getPedAnalogControlState( ped thePed, string controlName )]]></content><tabTrigger>getPedAnalogControlState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

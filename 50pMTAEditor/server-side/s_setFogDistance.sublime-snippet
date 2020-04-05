@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setFogDistance( ${1:float distance} )]]></content><tabTrigger>setFogDistance</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setFogDistance( float distance )]]></content><tabTrigger>setFogDistance</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

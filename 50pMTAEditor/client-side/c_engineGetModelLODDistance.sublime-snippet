@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineGetModelLODDistance( ${1:int model} )]]></content><tabTrigger>engineGetModelLODDistance</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineGetModelLODDistance( int model )]]></content><tabTrigger>engineGetModelLODDistance</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

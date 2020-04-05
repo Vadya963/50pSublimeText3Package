@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getVehicleDoorState( ${1:vehicle theVehicle}, ${2:int door} )]]></content><tabTrigger>getVehicleDoorState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getVehicleDoorState( vehicle theVehicle, int door )]]></content><tabTrigger>getVehicleDoorState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

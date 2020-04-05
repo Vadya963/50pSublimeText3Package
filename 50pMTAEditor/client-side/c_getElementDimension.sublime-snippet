@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getElementDimension( ${1:element theElement} )]]></content><tabTrigger>getElementDimension</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getElementDimension( element theElement )]]></content><tabTrigger>getElementDimension</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

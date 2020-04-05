@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isWorldSoundEnabled( ${1:int group}, [ ${2:int index = }-1 ] )]]></content><tabTrigger>isWorldSoundEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isWorldSoundEnabled( int group, [ int index = -1 ] )]]></content><tabTrigger>isWorldSoundEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

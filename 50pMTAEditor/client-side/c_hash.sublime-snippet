@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[hash( ${1:string algorithm}, ${2:string dataToHash} )]]></content>
+	<content><![CDATA[hash( string algorithm, string dataToHash )]]></content>
 	<tabTrigger>hash</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPedStat( ${1:ped thePed}, ${2:int stat}, ${3:float value} )]]></content><tabTrigger>setPedStat</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPedStat( ped thePed, int stat, float value )]]></content><tabTrigger>setPedStat</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

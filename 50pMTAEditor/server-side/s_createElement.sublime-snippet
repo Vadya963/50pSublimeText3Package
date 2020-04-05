@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createElement( ${1:string elementType}, [ ${2:string elementID = nil }] )]]></content><tabTrigger>createElement</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createElement( string elementType, [ string elementID = nil ] )]]></content><tabTrigger>createElement</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

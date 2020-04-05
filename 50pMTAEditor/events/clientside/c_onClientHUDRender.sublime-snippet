@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onClientHUDRender"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onClientHUDRender", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onClientHUDRender</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

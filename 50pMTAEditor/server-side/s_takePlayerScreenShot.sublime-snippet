@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[takePlayerScreenShot( ${1:player thePlayer}, ${2:int width}, ${3:int height }[ , ${4:string tag = }"", ${5:int quality = 30}, ${6:int maxBandwith = 5000} ] )]]></content><tabTrigger>takePlayerScreenShot</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[takePlayerScreenShot( player thePlayer, int width, int height [ , string tag = "", int quality = 30, int maxBandwith = 5000 ] )]]></content><tabTrigger>takePlayerScreenShot</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

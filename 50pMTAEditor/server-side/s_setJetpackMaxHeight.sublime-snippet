@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setJetpackMaxHeight( ${1:float Height} )]]></content><tabTrigger>setJetpackMaxHeight</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setJetpackMaxHeight( float Height )]]></content><tabTrigger>setJetpackMaxHeight</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

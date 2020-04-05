@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createColCuboid( ${1:float fX}, ${2:float fY}, ${3:float fZ}, ${4:float fWidth}, ${5:float fDepth}, ${6:float fHeight} )]]></content><tabTrigger>createColCuboid</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createColCuboid( float fX, float fY, float fZ, float fWidth, float fDepth, float fHeight )]]></content><tabTrigger>createColCuboid</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

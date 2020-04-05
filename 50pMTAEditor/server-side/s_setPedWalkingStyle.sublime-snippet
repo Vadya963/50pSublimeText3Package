@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPedWalkingStyle( ${1:ped thePed}, ${2:int style} )]]></content><tabTrigger>setPedWalkingStyle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPedWalkingStyle( ped thePed, int style )]]></content><tabTrigger>setPedWalkingStyle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

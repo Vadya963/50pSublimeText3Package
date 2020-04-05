@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[stopObject( ${1:object theobject} )]]></content><tabTrigger>stopObject</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[stopObject( object theobject )]]></content><tabTrigger>stopObject</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

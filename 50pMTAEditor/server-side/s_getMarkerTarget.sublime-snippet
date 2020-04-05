@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getMarkerTarget( ${1:marker theMarker} )]]></content><tabTrigger>getMarkerTarget</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getMarkerTarget( marker theMarker )]]></content><tabTrigger>getMarkerTarget</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

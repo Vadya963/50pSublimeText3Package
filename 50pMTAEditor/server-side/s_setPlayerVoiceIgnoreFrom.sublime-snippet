@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerVoiceIgnoreFrom( ${1:element thePlayer}, ${2:mixed ignoreFrom} )]]></content><tabTrigger>setPlayerVoiceIgnoreFrom</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPlayerVoiceIgnoreFrom( element thePlayer, mixed ignoreFrom )]]></content><tabTrigger>setPlayerVoiceIgnoreFrom</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

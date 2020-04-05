@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxDrawRectangle( ${1:int startX}, ${2:int startY}, ${3:float width}, ${4:float height }[, ${5:int color = white}, ${6:bool postGUI = false}] )]]></content><tabTrigger>dxDrawRectangle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxDrawRectangle( int startX, int startY, float width, float height [, int color = white, bool postGUI = false] )]]></content><tabTrigger>dxDrawRectangle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

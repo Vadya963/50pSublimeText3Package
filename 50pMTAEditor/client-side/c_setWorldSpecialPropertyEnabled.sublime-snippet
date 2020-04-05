@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWorldSpecialPropertyEnabled( ${1:string propname}, ${2:bool enable} )]]></content><tabTrigger>setWorldSpecialPropertyEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setWorldSpecialPropertyEnabled( string propname, bool enable )]]></content><tabTrigger>setWorldSpecialPropertyEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

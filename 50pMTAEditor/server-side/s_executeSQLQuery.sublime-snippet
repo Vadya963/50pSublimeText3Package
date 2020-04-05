@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[executeSQLQuery( ${1:string query }[, ${2:var param1 }[, ${3:var param2 }...]] )]]></content><tabTrigger>executeSQLQuery</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[executeSQLQuery( string query [, var param1 [, var param2 ...]] )]]></content><tabTrigger>executeSQLQuery</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

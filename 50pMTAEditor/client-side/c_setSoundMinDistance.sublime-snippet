@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setSoundMinDistance( ${1:element sound}, ${2:int distance} )]]></content><tabTrigger>setSoundMinDistance</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setSoundMinDistance( element sound, int distance )]]></content><tabTrigger>setSoundMinDistance</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

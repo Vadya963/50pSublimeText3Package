@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[usePickup( ${1:pickup thePickup}, ${2:player thePlayer} )]]></content><tabTrigger>usePickup</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[usePickup( pickup thePickup, player thePlayer )]]></content><tabTrigger>usePickup</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

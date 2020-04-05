@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getResourceRootElement( [${1:resource theResource=getThisResource()}] )]]></content><tabTrigger>getResourceRootElement</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getResourceRootElement( [resource theResource=getThisResource()] )]]></content><tabTrigger>getResourceRootElement</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

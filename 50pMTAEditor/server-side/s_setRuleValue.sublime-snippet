@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setRuleValue( ${1:string key}, ${2:string value} )]]></content><tabTrigger>setRuleValue</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setRuleValue( string key, string value )]]></content><tabTrigger>setRuleValue</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

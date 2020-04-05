@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWindVelocity( ${1:float velocityX}, ${2:float velocityY}, ${3:float velocityZ} )]]></content><tabTrigger>setWindVelocity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setWindVelocity( float velocityX, float velocityY, float velocityZ )]]></content><tabTrigger>setWindVelocity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

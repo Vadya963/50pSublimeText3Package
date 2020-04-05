@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[httpSetResponseHeader( ${1:string headerName}, ${2:string headerValue} )]]></content><tabTrigger>httpSetResponseHeader</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[httpSetResponseHeader( string headerName, string headerValue )]]></content><tabTrigger>httpSetResponseHeader</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

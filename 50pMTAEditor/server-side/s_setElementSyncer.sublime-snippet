@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementSyncer( ${1:element theElement}, ${2:player thePlayer} )]]></content><tabTrigger>setElementSyncer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setElementSyncer( element theElement, player thePlayer )]]></content><tabTrigger>setElementSyncer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

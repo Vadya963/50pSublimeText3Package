@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getElementData( ${1:element theElement}, ${2:string key }[, inherit = true] )]]></content><tabTrigger>getElementData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getElementData( element theElement, string key [, inherit = true] )]]></content><tabTrigger>getElementData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

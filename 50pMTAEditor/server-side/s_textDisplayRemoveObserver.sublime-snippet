@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[textDisplayRemoveObserver( ${1:textdisplay display}, ${2:player playerToRemove} )]]></content><tabTrigger>textDisplayRemoveObserver</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[textDisplayRemoveObserver( textdisplay display, player playerToRemove )]]></content><tabTrigger>textDisplayRemoveObserver</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

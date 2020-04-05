@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[forcePlayerMap( ${1:player thePlayer}, ${2:bool forceOn} )]]></content><tabTrigger>forcePlayerMap</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[forcePlayerMap( player thePlayer, bool forceOn )]]></content><tabTrigger>forcePlayerMap</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

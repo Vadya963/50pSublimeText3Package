@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setBlipOrdering( ${1:blip theBlip}, ${2:int ordering} )]]></content><tabTrigger>setBlipOrdering</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setBlipOrdering( blip theBlip, int ordering )]]></content><tabTrigger>setBlipOrdering</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[testLineAgainstWater( ${1:float startX}, ${2:float startY}, ${3:float startZ}, ${4:float endX}, ${5:float endY}, ${6:float endZ} )]]></content><tabTrigger>testLineAgainstWater</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[testLineAgainstWater( float startX, float startY, float startZ, float endX, float endY, float endZ )]]></content><tabTrigger>testLineAgainstWater</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

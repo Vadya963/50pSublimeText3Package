@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[removeBan( ${1:ban theBan }[, ${2:player responsibleElement = nil }] )]]></content><tabTrigger>removeBan</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[removeBan( ban theBan [, player responsibleElement = nil ] )]]></content><tabTrigger>removeBan</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

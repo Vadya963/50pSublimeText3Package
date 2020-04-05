@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementAttachedOffsets( ${1:element theElement}, [ ${2:float xPosOffset}, ${3:float yPosOffset}, ${4:float zPosOffset}, ${5:float xRotOffset}, ${6:float yRotOffset}, ${7:float zRotOffset }] )]]></content><tabTrigger>setElementAttachedOffsets</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setElementAttachedOffsets( element theElement, [ float xPosOffset, float yPosOffset, float zPosOffset, float xRotOffset, float yRotOffset, float zRotOffset ] )]]></content><tabTrigger>setElementAttachedOffsets</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[textItemSetText( ${1:textitem theTextitem}, ${2:string text} )]]></content><tabTrigger>textItemSetText</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[textItemSetText( textitem theTextitem, string text )]]></content><tabTrigger>textItemSetText</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

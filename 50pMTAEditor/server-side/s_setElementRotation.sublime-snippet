@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementRotation( ${1:element theElement}, ${2:float rotX}, ${3:float rotY}, ${4:float rotZ }[, ${5:string rotOrder = }"default", ${6:bool conformPedRotation = false }] )]]></content><tabTrigger>setElementRotation</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setElementRotation( element theElement, float rotX, float rotY, float rotZ [, string rotOrder = "default", bool conformPedRotation = false ] )]]></content><tabTrigger>setElementRotation</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setSoundProperties( ${1:element sound}, ${2:float fSampleRate}, ${3:float fTempo}, ${4:float fPitch}, ${5:bool bReverse} )]]></content><tabTrigger>setSoundProperties</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setSoundProperties( element sound, float fSampleRate, float fTempo, float fPitch, bool bReverse )]]></content><tabTrigger>setSoundProperties</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

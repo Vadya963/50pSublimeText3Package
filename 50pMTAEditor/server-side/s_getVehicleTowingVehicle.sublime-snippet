@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getVehicleTowingVehicle( ${1:vehicle theVehicle} )]]></content><tabTrigger>getVehicleTowingVehicle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getVehicleTowingVehicle( vehicle theVehicle )]]></content><tabTrigger>getVehicleTowingVehicle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

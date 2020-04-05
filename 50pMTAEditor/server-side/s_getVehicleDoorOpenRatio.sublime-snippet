@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getVehicleDoorOpenRatio( ${1:vehicle theVehicle}, ${2:int door} )]]></content><tabTrigger>getVehicleDoorOpenRatio</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getVehicleDoorOpenRatio( vehicle theVehicle, int door )]]></content><tabTrigger>getVehicleDoorOpenRatio</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

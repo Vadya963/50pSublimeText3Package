@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getMarkerSize( ${1:marker myMarker} )]]></content><tabTrigger>getMarkerSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getMarkerSize( marker myMarker )]]></content><tabTrigger>getMarkerSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

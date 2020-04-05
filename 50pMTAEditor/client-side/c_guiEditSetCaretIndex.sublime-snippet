@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiEditSetCaretIndex( ${1:element theElement}, ${2:int index} )]]></content><tabTrigger>guiEditSetCaretIndex</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiEditSetCaretIndex( element theElement, int index )]]></content><tabTrigger>guiEditSetCaretIndex</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

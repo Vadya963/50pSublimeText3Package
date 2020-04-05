@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[addCommandHandler( ${1:string commandName}, ${2:function handlerFunction}, [${3:bool restricted = false}, ${4:bool caseSensitive = true}] )]]></content><tabTrigger>addCommandHandler</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[addCommandHandler( string commandName, function handlerFunction, [bool restricted = false, bool caseSensitive = true] )]]></content><tabTrigger>addCommandHandler</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

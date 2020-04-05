@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[removeVehicleUpgrade( ${1:vehicle theVehicle}, ${2:int upgrade} )]]></content><tabTrigger>removeVehicleUpgrade</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[removeVehicleUpgrade( vehicle theVehicle, int upgrade )]]></content><tabTrigger>removeVehicleUpgrade</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

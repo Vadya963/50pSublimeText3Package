@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getTeamColor( ${1:team theTeam} )]]></content><tabTrigger>getTeamColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getTeamColor( team theTeam )]]></content><tabTrigger>getTeamColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

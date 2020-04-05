@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setHeliBladeCollisionsEnabled( ${1:vehicle theVehicle}, ${2:bool collisions} )]]></content><tabTrigger>setHeliBladeCollisionsEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setHeliBladeCollisionsEnabled( vehicle theVehicle, bool collisions )]]></content><tabTrigger>setHeliBladeCollisionsEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

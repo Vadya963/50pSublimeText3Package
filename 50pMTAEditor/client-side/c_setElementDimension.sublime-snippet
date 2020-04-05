@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementDimension( ${1:element theElement}, ${2:int dimension} )]]></content><tabTrigger>setElementDimension</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setElementDimension( element theElement, int dimension )]]></content><tabTrigger>setElementDimension</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

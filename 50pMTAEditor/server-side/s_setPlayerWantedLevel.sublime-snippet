@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerWantedLevel( ${1:player thePlayer}, ${2:int stars} )]]></content><tabTrigger>setPlayerWantedLevel</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPlayerWantedLevel( player thePlayer, int stars )]]></content><tabTrigger>setPlayerWantedLevel</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

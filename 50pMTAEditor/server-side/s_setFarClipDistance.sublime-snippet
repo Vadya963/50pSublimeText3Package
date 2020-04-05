@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setFarClipDistance( ${1:float distance} )]]></content><tabTrigger>setFarClipDistance</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setFarClipDistance( float distance )]]></content><tabTrigger>setFarClipDistance</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

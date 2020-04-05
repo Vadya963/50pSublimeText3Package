@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlNodeSetAttribute( ${1:xmlnode node}, ${2:string name}, string/${3:float value} )]]></content><tabTrigger>xmlNodeSetAttribute</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[xmlNodeSetAttribute( xmlnode node, string name, string/float value )]]></content><tabTrigger>xmlNodeSetAttribute</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

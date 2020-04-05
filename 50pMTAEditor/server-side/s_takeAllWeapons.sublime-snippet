@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[takeAllWeapons( ${1:ped thePed} )]]></content><tabTrigger>takeAllWeapons</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[takeAllWeapons( ped thePed )]]></content><tabTrigger>takeAllWeapons</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

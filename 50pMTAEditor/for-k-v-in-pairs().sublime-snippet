@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[for ${1:k},${2:v} in pairs(${3:table_name}) do
-	${0:print(k,v)}
+    <content><![CDATA[for k,v in pairs(table_name) do
+	${0:print(k,v)
 end]]></content>
     <tabTrigger>forp</tabTrigger>
     <scope>source.lua</scope>

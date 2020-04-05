@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setProjectileCounter( ${1:projectile projectile}, ${2:int timeToDetonate} )]]></content><tabTrigger>setProjectileCounter</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setProjectileCounter( projectile projectile, int timeToDetonate )]]></content><tabTrigger>setProjectileCounter</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[removeResourceFile( ${1:resource theResource}, ${2:string fileName} )]]></content><tabTrigger>removeResourceFile</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[removeResourceFile( resource theResource, string fileName )]]></content><tabTrigger>removeResourceFile</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

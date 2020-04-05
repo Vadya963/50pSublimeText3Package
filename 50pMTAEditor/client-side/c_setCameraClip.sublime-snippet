@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setCameraClip( [ ${1:bool objects = true}, ${2:bool vehicles = true }] )]]></content><tabTrigger>setCameraClip</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setCameraClip( [ bool objects = true, bool vehicles = true ] )]]></content><tabTrigger>setCameraClip</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

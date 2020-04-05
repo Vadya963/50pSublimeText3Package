@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[getBrowserProperty( ${1:browser webBrowser}, ${2:string key} )]]></content>
+	<content><![CDATA[getBrowserProperty( browser webBrowser, string key )]]></content>
 	<tabTrigger>getBrowserProperty</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

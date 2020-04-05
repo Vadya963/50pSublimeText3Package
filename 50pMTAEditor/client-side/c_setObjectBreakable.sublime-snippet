@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setObjectBreakable( ${1:object theObject}, ${2:bool breakable} )]]></content><tabTrigger>setObjectBreakable</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setObjectBreakable( object theObject, bool breakable )]]></content><tabTrigger>setObjectBreakable</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[executeCommandHandler( ${1:string commandName}, ${2:player thePlayer}, [ ${3:string args }] )]]></content><tabTrigger>executeCommandHandler</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[executeCommandHandler( string commandName, player thePlayer, [ string args ] )]]></content><tabTrigger>executeCommandHandler</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

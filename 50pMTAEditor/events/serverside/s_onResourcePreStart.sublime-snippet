@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onResourcePreStart"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onResourcePreStart", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onResourcePreStart</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

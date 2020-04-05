@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleSirens( ${1:vehicle theVehicle}, ${2:int sirenPoint}, ${3:float posX}, ${4:float posY}, ${5:float posZ}, ${6:float red}, ${7:float green}, ${8:float blue}, [${9:float alpha = 255}, ${10:float minAlpha = 0.0}] )]]></content><tabTrigger>setVehicleSirens</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleSirens( vehicle theVehicle, int sirenPoint, float posX, float posY, float posZ, float red, float green, float blue, [float alpha = 255, float minAlpha = 0.0] )]]></content><tabTrigger>setVehicleSirens</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

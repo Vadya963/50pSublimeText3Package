@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleGravity( ${1:vehicle theVehicle}, ${2:float x}, ${3:float y}, ${4:float z} )]]></content><tabTrigger>setVehicleGravity</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleGravity( vehicle theVehicle, float x, float y, float z )]]></content><tabTrigger>setVehicleGravity</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

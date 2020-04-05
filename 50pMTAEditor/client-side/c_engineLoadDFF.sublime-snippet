@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineLoadDFF( ${1:string dff_file}, ${2:int model_id} )]]></content><tabTrigger>engineLoadDFF</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineLoadDFF( string dff_file, int model_id )]]></content><tabTrigger>engineLoadDFF</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

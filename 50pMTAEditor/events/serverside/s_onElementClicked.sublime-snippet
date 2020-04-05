@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onElementClicked"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onElementClicked", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onElementClicked</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

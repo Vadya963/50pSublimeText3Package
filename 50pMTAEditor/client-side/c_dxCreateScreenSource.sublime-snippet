@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxCreateScreenSource( ${1:int width}, ${2:int height} )]]></content><tabTrigger>dxCreateScreenSource</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxCreateScreenSource( int width, int height )]]></content><tabTrigger>dxCreateScreenSource</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementCollidableWith( ${1:element theElement}, ${2:element withElement}, ${3:bool enabled} )]]></content><tabTrigger>setElementCollidableWith</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setElementCollidableWith( element theElement, element withElement, bool enabled )]]></content><tabTrigger>setElementCollidableWith</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

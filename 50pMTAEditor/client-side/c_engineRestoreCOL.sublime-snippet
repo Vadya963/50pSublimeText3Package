@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineRestoreCOL( ${1:int modelID} )]]></content><tabTrigger>engineRestoreCOL</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineRestoreCOL( int modelID )]]></content><tabTrigger>engineRestoreCOL</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

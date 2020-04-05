@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[showChat( ${1:bool show} )]]></content><tabTrigger>showChat</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[showChat( bool show )]]></content><tabTrigger>showChat</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

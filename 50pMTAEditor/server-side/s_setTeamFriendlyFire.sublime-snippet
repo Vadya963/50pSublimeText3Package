@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setTeamFriendlyFire( ${1:team theTeam }, ${2:bool friendlyFire} )]]></content><tabTrigger>setTeamFriendlyFire</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setTeamFriendlyFire( team theTeam , bool friendlyFire )]]></content><tabTrigger>setTeamFriendlyFire</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

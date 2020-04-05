@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[isBrowserDomainBlocked( ${1:string address} [, bool isURL] )]]></content>
+	<content><![CDATA[isBrowserDomainBlocked( string address [, bool isURL] )]]></content>
 	<tabTrigger>isBrowserDomainBlocked</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

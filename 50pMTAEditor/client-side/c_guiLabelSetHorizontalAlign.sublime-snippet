@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiLabelSetHorizontalAlign( ${1:element theLabel}, ${2:string align}, [ ${3:bool wordwrap = false }] )]]></content><tabTrigger>guiLabelSetHorizontalAlign</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiLabelSetHorizontalAlign( element theLabel, string align, [ bool wordwrap = false ] )]]></content><tabTrigger>guiLabelSetHorizontalAlign</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleOverrideLights( ${1:vehicle theVehicle}, ${2:int value} )]]></content><tabTrigger>setVehicleOverrideLights</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleOverrideLights( vehicle theVehicle, int value )]]></content><tabTrigger>setVehicleOverrideLights</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

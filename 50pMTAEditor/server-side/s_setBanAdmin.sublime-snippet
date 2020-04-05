@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setBanAdmin( ${1:ban theBan}, ${2:string theAdmin} )]]></content><tabTrigger>setBanAdmin</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setBanAdmin( ban theBan, string theAdmin )]]></content><tabTrigger>setBanAdmin</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

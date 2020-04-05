@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createVehicle( ${1:int model}, ${2:float x}, ${3:float y}, ${4:float z }[, ${5:float rx}, ${6:float ry}, ${7:float rz}, ${8:string numberplate}, ${9:bool bDirection}, ${10:int variant1}, ${11:int variant2 }] )]]></content><tabTrigger>createVehicle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[createVehicle( int model, float x, float y, float z [, float rx, float ry, float rz, string numberplate, bool bDirection, int variant1, int variant2 ] )]]></content><tabTrigger>createVehicle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

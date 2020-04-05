@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[hasObjectPermissionTo( string / ${1:element theObject}, ${2:string theAction }[, ${3:bool defaultPermission = true }] )]]></content><tabTrigger>hasObjectPermissionTo</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[hasObjectPermissionTo( string / element theObject, string theAction [, bool defaultPermission = true ] )]]></content><tabTrigger>hasObjectPermissionTo</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

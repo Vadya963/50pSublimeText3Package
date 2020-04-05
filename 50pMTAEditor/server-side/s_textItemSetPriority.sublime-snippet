@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[textItemSetPriority( ${1:textitem theTextItem}, ${2:string priority} )]]></content><tabTrigger>textItemSetPriority</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[textItemSetPriority( textitem theTextItem, string priority )]]></content><tabTrigger>textItemSetPriority</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

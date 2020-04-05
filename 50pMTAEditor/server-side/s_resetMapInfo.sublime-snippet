@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[resetMapInfo( [${1:player thePlayer = getRootElement()}] )]]></content><tabTrigger>resetMapInfo</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[resetMapInfo( [player thePlayer = getRootElement()] )]]></content><tabTrigger>resetMapInfo</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

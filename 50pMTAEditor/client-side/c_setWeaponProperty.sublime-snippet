@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWeaponProperty( ${1:int weaponID}/${2:string weaponName}, ${3:string weaponSkill}, ${4:string property}, int/${5:float theValue} )]]></content><tabTrigger>setWeaponProperty</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setWeaponProperty( int weaponID/string weaponName, string weaponSkill, string property, int/float theValue )]]></content><tabTrigger>setWeaponProperty</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleHandling( ${1:element theVehicle}, ${2:string property}, ${3:var value} )]]></content><tabTrigger>setVehicleHandling</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleHandling( element theVehicle, string property, var value )]]></content><tabTrigger>setVehicleHandling</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

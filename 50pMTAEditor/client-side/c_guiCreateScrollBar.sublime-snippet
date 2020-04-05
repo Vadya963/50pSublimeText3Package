@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiCreateScrollBar( ${1:float x}, ${2:float y}, ${3:float width}, ${4:float height}, ${5:bool horizontal}, ${6:bool relative}, [gui-${7:element parent = nil}] )]]></content><tabTrigger>guiCreateScrollBar</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiCreateScrollBar( float x, float y, float width, float height, bool horizontal, bool relative, [gui-element parent = nil] )]]></content><tabTrigger>guiCreateScrollBar</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

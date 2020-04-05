@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiDeleteTab( ${1:element tabToDelete}, ${2:element tabPanel} )]]></content><tabTrigger>guiDeleteTab</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiDeleteTab( element tabToDelete, element tabPanel )]]></content><tabTrigger>guiDeleteTab</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

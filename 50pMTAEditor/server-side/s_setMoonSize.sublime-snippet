@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setMoonSize( ${1:int size} )]]></content><tabTrigger>setMoonSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setMoonSize( int size )]]></content><tabTrigger>setMoonSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setAccountData( ${1:account theAccount}, ${2:string key}, ${3:string value} )]]></content><tabTrigger>setAccountData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setAccountData( account theAccount, string key, string value )]]></content><tabTrigger>setAccountData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

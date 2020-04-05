@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPedWeaponSlot( ${1:ped thePed} )]]></content><tabTrigger>getPedWeaponSlot</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getPedWeaponSlot( ped thePed )]]></content><tabTrigger>getPedWeaponSlot</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

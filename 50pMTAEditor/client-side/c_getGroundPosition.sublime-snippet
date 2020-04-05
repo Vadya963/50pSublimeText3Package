@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getGroundPosition( ${1:float x}, ${2:float y}, ${3:float z} )]]></content><tabTrigger>getGroundPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getGroundPosition( float x, float y, float z )]]></content><tabTrigger>getGroundPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

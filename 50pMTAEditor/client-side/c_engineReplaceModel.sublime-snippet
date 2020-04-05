@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineReplaceModel( ${1:dff theModel}, ${2:int modelID }[, ${3:bool alphaTransparency = false }] )]]></content><tabTrigger>engineReplaceModel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineReplaceModel( dff theModel, int modelID [, bool alphaTransparency = false ] )]]></content><tabTrigger>engineReplaceModel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

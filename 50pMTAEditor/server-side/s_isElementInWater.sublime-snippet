@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isElementInWater( ${1:element theElement} )]]></content><tabTrigger>isElementInWater</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[isElementInWater( element theElement )]]></content><tabTrigger>isElementInWater</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

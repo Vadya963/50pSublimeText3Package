@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerMuted( ${1:player thePlayer}, ${2:bool state} )]]></content><tabTrigger>setPlayerMuted</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPlayerMuted( player thePlayer, bool state )]]></content><tabTrigger>setPlayerMuted</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

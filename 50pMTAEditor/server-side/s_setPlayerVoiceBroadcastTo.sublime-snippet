@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPlayerVoiceBroadcastTo( ${1:element thePlayer}, ${2:mixed broadcastTo} )]]></content><tabTrigger>setPlayerVoiceBroadcastTo</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPlayerVoiceBroadcastTo( element thePlayer, mixed broadcastTo )]]></content><tabTrigger>setPlayerVoiceBroadcastTo</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

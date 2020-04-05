@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[logOut( ${1:player thePlayer} )]]></content><tabTrigger>logOut</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[logOut( player thePlayer )]]></content><tabTrigger>logOut</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

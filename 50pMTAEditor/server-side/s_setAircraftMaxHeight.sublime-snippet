@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setAircraftMaxHeight( ${1:float Height} )]]></content><tabTrigger>setAircraftMaxHeight</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setAircraftMaxHeight( float Height )]]></content><tabTrigger>setAircraftMaxHeight</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

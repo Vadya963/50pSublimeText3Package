@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiSetPosition( ${1:element theElement}, ${2:float x}, ${3:float y}, ${4:bool relative} )]]></content><tabTrigger>guiSetPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiSetPosition( element theElement, float x, float y, bool relative )]]></content><tabTrigger>guiSetPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[aclGetRight( ${1:acl theAcl}, ${2:string rightName} )]]></content><tabTrigger>aclGetRight</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[aclGetRight( acl theAcl, string rightName )]]></content><tabTrigger>aclGetRight</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

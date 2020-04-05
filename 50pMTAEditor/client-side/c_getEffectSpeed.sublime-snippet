@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getEffectSpeed( ${1:effect theEffect} )]]></content><tabTrigger>getEffectSpeed</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getEffectSpeed( effect theEffect )]]></content><tabTrigger>getEffectSpeed</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

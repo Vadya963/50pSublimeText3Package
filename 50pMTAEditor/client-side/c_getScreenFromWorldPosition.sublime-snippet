@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getScreenFromWorldPosition( ${1:float x}, ${2:float y}, ${3:float z}, [ ${4:float edgeTolerance=0}, ${5:bool relative=true }] )]]></content><tabTrigger>getScreenFromWorldPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getScreenFromWorldPosition( float x, float y, float z, [ float edgeTolerance=0, bool relative=true ] )]]></content><tabTrigger>getScreenFromWorldPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

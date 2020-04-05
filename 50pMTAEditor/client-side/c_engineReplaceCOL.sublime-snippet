@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineReplaceCOL( ${1:col theCol}, ${2:int modelID} )]]></content><tabTrigger>engineReplaceCOL</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineReplaceCOL( col theCol, int modelID )]]></content><tabTrigger>engineReplaceCOL</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

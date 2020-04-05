@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[getElementsByType( ${1:string theType} [, ${2:element startat=getRootElement()}, ${3:bool streamedIn=false}] )]]></content>
+	<content><![CDATA[getElementsByType( string theType [, element startat=getRootElement(), bool streamedIn=false] )]]></content>
 	<tabTrigger>getElementsByType</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

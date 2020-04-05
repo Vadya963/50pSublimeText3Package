@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getElementsByType( ${1:string theType}, [ ${2:element startat=getRootElement()} ] )]]></content><tabTrigger>getElementsByType</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getElementsByType( string theType, [ element startat=getRootElement() ] )]]></content><tabTrigger>getElementsByType</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

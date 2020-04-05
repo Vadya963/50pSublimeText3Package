@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineApplyShaderToWorldTexture( ${1:element shader}, ${2:string textureName }[, ${3:element targetElement = nil}, ${4:bool appendLayers = true }] )]]></content><tabTrigger>engineApplyShaderToWorldTexture</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineApplyShaderToWorldTexture( element shader, string textureName [, element targetElement = nil, bool appendLayers = true ] )]]></content><tabTrigger>engineApplyShaderToWorldTexture</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

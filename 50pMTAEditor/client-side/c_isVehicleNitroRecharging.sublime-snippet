@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isVehicleNitroRecharging( ${1:vehicle theVehicle} )]]></content><tabTrigger>isVehicleNitroRecharging</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isVehicleNitroRecharging( vehicle theVehicle )]]></content><tabTrigger>isVehicleNitroRecharging</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

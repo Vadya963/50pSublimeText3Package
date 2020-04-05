@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleRespawnPosition( ${1:vehicle theVehicle}, ${2:float x}, ${3:float y}, ${4:float z}, [${5:float rx}, ${6:float ry}, ${7:float rz }] )]]></content><tabTrigger>setVehicleRespawnPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleRespawnPosition( vehicle theVehicle, float x, float y, float z, [float rx, float ry, float rz ] )]]></content><tabTrigger>setVehicleRespawnPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

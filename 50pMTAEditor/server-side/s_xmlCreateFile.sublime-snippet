@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlCreateFile( ${1:string filePath}, ${2:string rootNodeName} )]]></content><tabTrigger>xmlCreateFile</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[xmlCreateFile( string filePath, string rootNodeName )]]></content><tabTrigger>xmlCreateFile</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

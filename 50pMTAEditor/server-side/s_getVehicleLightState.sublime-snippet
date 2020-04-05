@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getVehicleLightState( ${1:vehicle theVehicle}, ${2:int light} )]]></content><tabTrigger>getVehicleLightState</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getVehicleLightState( vehicle theVehicle, int light )]]></content><tabTrigger>getVehicleLightState</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getChatboxLayout( [ ${1:string CVar }] )]]></content><tabTrigger>getChatboxLayout</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getChatboxLayout( [ string CVar ] )]]></content><tabTrigger>getChatboxLayout</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

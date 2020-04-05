@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getTeamFromName( ${1:string teamName} )]]></content><tabTrigger>getTeamFromName</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getTeamFromName( string teamName )]]></content><tabTrigger>getTeamFromName</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

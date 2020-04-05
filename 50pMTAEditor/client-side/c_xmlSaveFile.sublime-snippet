@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlSaveFile( ${1:xmlnode rootNode} )]]></content><tabTrigger>xmlSaveFile</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[xmlSaveFile( xmlnode rootNode )]]></content><tabTrigger>xmlSaveFile</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

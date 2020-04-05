@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getFunctionsBoundToKey( ${1:player thePlayer }, ${2:string theKey} )]]></content><tabTrigger>getFunctionsBoundToKey</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getFunctionsBoundToKey( player thePlayer , string theKey )]]></content><tabTrigger>getFunctionsBoundToKey</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

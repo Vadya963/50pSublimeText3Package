@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementVelocity( ${1:element theElement}, ${2:float speedX}, ${3:float speedY}, ${4:float speedZ} )]]></content><tabTrigger>setElementVelocity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setElementVelocity( element theElement, float speedX, float speedY, float speedZ )]]></content><tabTrigger>setElementVelocity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

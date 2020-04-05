@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[split( ${1:string stringToSplit}, string / ${2:int separatingChar} )]]></content><tabTrigger>split</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[split( string stringToSplit, string / int separatingChar )]]></content><tabTrigger>split</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

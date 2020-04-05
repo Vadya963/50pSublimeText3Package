@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[aclSetRight( ${1:acl theAcl}, ${2:string rightName}, ${3:bool hasAccess} )]]></content><tabTrigger>aclSetRight</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[aclSetRight( acl theAcl, string rightName, bool hasAccess )]]></content><tabTrigger>aclSetRight</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[redirectPlayer( ${1:player thePlayer}, ${2:string serverIP}, ${3:int serverPort}, [ ${4:string serverPassword }] )]]></content><tabTrigger>redirectPlayer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[redirectPlayer( player thePlayer, string serverIP, int serverPort, [ string serverPassword ] )]]></content><tabTrigger>redirectPlayer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

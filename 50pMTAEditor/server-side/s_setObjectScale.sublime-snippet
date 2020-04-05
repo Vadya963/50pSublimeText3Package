@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setObjectScale( ${1:object theObject}, ${2:float scale }[, ${3:float scaleY}, ${4:float scaleZ }] )]]></content><tabTrigger>setObjectScale</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setObjectScale( object theObject, float scale [, float scaleY, float scaleZ ] )]]></content><tabTrigger>setObjectScale</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

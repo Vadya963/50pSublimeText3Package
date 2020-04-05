@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createSWATRope( ${1:float fx}, ${2:float fy}, ${3:float fZ}, ${4:int duration} )]]></content><tabTrigger>createSWATRope</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[createSWATRope( float fx, float fy, float fZ, int duration )]]></content><tabTrigger>createSWATRope</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

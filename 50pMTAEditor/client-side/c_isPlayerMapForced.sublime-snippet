@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isPlayerMapForced( ${1:player thePlayer} )]]></content><tabTrigger>isPlayerMapForced</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isPlayerMapForced( player thePlayer )]]></content><tabTrigger>isPlayerMapForced</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

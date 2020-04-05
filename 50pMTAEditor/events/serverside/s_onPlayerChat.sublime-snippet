@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( ${1:"onPlayerChat"}, ${2:getRootElement()}, ${3:function functionName} )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerChat", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onPlayerChat</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

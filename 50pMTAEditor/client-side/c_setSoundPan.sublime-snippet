@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setSoundPan( ${1:element theSound}, ${2:float pan} )]]></content><tabTrigger>setSoundPan</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setSoundPan( element theSound, float pan )]]></content><tabTrigger>setSoundPan</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

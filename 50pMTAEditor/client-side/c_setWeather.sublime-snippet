@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWeather( ${1:int weatherID} )]]></content><tabTrigger>setWeather</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setWeather( int weatherID )]]></content><tabTrigger>setWeather</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

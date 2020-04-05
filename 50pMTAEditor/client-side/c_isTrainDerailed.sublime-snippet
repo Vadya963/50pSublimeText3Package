@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isTrainDerailed( ${1:vehicle vehicleToCheck} )]]></content><tabTrigger>isTrainDerailed</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isTrainDerailed( vehicle vehicleToCheck )]]></content><tabTrigger>isTrainDerailed</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

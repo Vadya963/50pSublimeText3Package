@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setFPSLimit( ${1:int fpsLimit} )]]></content><tabTrigger>setFPSLimit</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setFPSLimit( int fpsLimit )]]></content><tabTrigger>setFPSLimit</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

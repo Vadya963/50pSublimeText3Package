@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createObject( ${1:int modelid}, ${2:float x}, ${3:float y}, ${4:float z}, [ ${5:float rx}, ${6:float ry}, ${7:float rz}, ${8:bool isLowLOD = false }] )]]></content><tabTrigger>createObject</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createObject( int modelid, float x, float y, float z, [ float rx, float ry, float rz, bool isLowLOD = false ] )]]></content><tabTrigger>createObject</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

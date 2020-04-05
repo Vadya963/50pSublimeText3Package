@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setCursorPosition( ${1:int cursorX}, ${2:int cursorY} )]]></content><tabTrigger>setCursorPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setCursorPosition( int cursorX, int cursorY )]]></content><tabTrigger>setCursorPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

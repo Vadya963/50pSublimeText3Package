@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPedAmmoInClip( ${1:ped thePed }[, ${2:int weaponSlot = current }] )]]></content><tabTrigger>getPedAmmoInClip</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getPedAmmoInClip( ped thePed [, int weaponSlot = current ] )]]></content><tabTrigger>getPedAmmoInClip</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

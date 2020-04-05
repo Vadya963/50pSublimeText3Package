@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementInterior( ${1:element theElement}, ${2:int interior }[, ${3:float x}, ${4:float y}, ${5:float z}] )]]></content><tabTrigger>setElementInterior</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setElementInterior( element theElement, int interior [, float x, float y, float z] )]]></content><tabTrigger>setElementInterior</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

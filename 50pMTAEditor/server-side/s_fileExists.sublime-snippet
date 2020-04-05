@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[fileExists( ${1:string filePath} )]]></content><tabTrigger>fileExists</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[fileExists( string filePath )]]></content><tabTrigger>fileExists</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

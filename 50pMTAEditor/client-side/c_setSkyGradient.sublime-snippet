@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setSkyGradient( [ ${1:int topRed = 0}, ${2:int topGreen = 0}, ${3:int topBlue = 0}, ${4:int bottomRed = 0}, ${5:int bottomGreen = 0}, ${6:int bottomBlue = 0} ] )]]></content><tabTrigger>setSkyGradient</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setSkyGradient( [ int topRed = 0, int topGreen = 0, int topBlue = 0, int bottomRed = 0, int bottomGreen = 0, int bottomBlue = 0 ] )]]></content><tabTrigger>setSkyGradient</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

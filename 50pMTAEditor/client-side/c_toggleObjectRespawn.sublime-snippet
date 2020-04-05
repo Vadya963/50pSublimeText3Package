@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[toggleObjectRespawn( ${1:object theObject}, ${2:bool respawn} )]]></content><tabTrigger>toggleObjectRespawn</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[toggleObjectRespawn( object theObject, bool respawn )]]></content><tabTrigger>toggleObjectRespawn</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -11,7 +11,7 @@
 	<key>foldingStartMarker</key>
 	<string>^\s*\b(function|local\s+function|if|for)\b|{[ \t]*$|\[\[</string>
 	<key>foldingStopMarker</key>
-	<string>\bend\b|^\s*}|\]\]</string>
+	<string>\bend\b|^\s*|\]\]</string>
 	<key>keyEquivalent</key>
 	<string>^~L</string>
 	<key>name</key>
@@ -191,7 +191,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(?&lt;![^.]\.|:)\b(false|nil|true|_G|_VERSION|math\.(pi|huge))\b|(?&lt;![.])\.{3}(?!\.)</string>
+			<string>(?&lt;![^.]\.|:)\b(false|nil|true|_G|_VERSION|math\.(pi|huge))\b|(?&lt;![.])\.{3(?!\.)</string>
 			<key>name</key>
 			<string>constant.language.lua</string>
 		</dict>
@@ -243,7 +243,7 @@
 
 		<dict>
 			<key>match</key>
-			<string>\+|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)</string>
+			<string>\+|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2(?!\.)</string>
 			<key>name</key>
 			<string>keyword.operator.lua</string>
 		</dict>

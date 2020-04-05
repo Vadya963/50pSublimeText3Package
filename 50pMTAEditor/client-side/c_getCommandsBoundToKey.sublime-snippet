@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getCommandsBoundToKey( ${1:string theKey}, ${2:string keyState} )]]></content><tabTrigger>getCommandsBoundToKey</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getCommandsBoundToKey( string theKey, string keyState )]]></content><tabTrigger>getCommandsBoundToKey</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

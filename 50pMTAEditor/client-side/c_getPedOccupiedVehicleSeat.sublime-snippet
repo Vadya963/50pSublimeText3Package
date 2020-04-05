@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[getPedOccupiedVehicleSeat( ${1:ped thePed} )]]></content>
+	<content><![CDATA[getPedOccupiedVehicleSeat( ped thePed )]]></content>
 	<tabTrigger>getPedOccupiedVehicleSeat</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

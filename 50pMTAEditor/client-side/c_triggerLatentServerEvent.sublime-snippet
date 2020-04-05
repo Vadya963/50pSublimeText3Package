@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[triggerLatentServerEvent( ${1:string event}, [${2:int bandwidth=5000},] [${3:bool persist=false},] ${4:element theElement}, [arguments...] )]]></content><tabTrigger>triggerLatentServerEvent</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[triggerLatentServerEvent( string event, [int bandwidth=5000,] [bool persist=false,] element theElement, [arguments...] )]]></content><tabTrigger>triggerLatentServerEvent</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

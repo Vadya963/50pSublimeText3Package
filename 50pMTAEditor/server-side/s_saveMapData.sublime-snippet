@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[saveMapData( ${1:xmlnode node}, ${2:element baseElement }[, ${3:bool childrenOnly = false }] )]]></content><tabTrigger>saveMapData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[saveMapData( xmlnode node, element baseElement [, bool childrenOnly = false ] )]]></content><tabTrigger>saveMapData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

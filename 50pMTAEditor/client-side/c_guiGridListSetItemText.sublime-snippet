@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListSetItemText( ${1:element gridList}, ${2:int rowIndex}, ${3:int columnIndex}, ${4:string text}, ${5:bool section}, ${6:bool number} )]]></content><tabTrigger>guiGridListSetItemText</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListSetItemText( element gridList, int rowIndex, int columnIndex, string text, bool section, bool number )]]></content><tabTrigger>guiGridListSetItemText</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

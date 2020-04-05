@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setAnalogControlState( ${1:string controlName }[, ${2:float state}] )]]></content><tabTrigger>setAnalogControlState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setAnalogControlState( string controlName [, float state] )]]></content><tabTrigger>setAnalogControlState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

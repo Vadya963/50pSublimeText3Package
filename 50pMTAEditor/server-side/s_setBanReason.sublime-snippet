@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setBanReason( ${1:ban theBan}, ${2:string theReason} )]]></content><tabTrigger>setBanReason</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setBanReason( ban theBan, string theReason )]]></content><tabTrigger>setBanReason</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

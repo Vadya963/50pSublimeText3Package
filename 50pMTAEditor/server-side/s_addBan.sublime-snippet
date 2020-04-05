@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[addBan( [ ${1:string IP}, ${2:string Username}, ${3:string Serial}, ${4:player responsibleElement}, ${5:string reason}, ${6:int seconds = 0} ] )]]></content><tabTrigger>addBan</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[addBan( [ string IP, string Username, string Serial, player responsibleElement, string reason, int seconds = 0 ] )]]></content><tabTrigger>addBan</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

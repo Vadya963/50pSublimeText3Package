@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[fxAddWaterSplash( ${1:float posX}, ${2:float posY}, ${3:float posZ} )]]></content><tabTrigger>fxAddWaterSplash</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[fxAddWaterSplash( float posX, float posY, float posZ )]]></content><tabTrigger>fxAddWaterSplash</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

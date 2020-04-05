@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isRadarAreaFlashing( ${1:radararea theRadararea} )]]></content><tabTrigger>isRadarAreaFlashing</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isRadarAreaFlashing( radararea theRadararea )]]></content><tabTrigger>isRadarAreaFlashing</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

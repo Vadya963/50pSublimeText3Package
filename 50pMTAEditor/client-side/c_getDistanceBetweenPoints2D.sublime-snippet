@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getDistanceBetweenPoints2D( ${1:float x1}, ${2:float y1}, ${3:float x2}, ${4:float y2} )]]></content><tabTrigger>getDistanceBetweenPoints2D</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getDistanceBetweenPoints2D( float x1, float y1, float x2, float y2 )]]></content><tabTrigger>getDistanceBetweenPoints2D</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiScrollPaneSetScrollBars( ${1:element scrollPane}, ${2:bool horizontal}, ${3:bool vertical} )]]></content><tabTrigger>guiScrollPaneSetScrollBars</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiScrollPaneSetScrollBars( element scrollPane, bool horizontal, bool vertical )]]></content><tabTrigger>guiScrollPaneSetScrollBars</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

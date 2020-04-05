@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiSetInputMode( ${1:string mode} )]]></content><tabTrigger>guiSetInputMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiSetInputMode( string mode )]]></content><tabTrigger>guiSetInputMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

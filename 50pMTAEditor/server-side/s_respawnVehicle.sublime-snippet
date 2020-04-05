@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[respawnVehicle( ${1:vehicle theVehicle} )]]></content><tabTrigger>respawnVehicle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[respawnVehicle( vehicle theVehicle )]]></content><tabTrigger>respawnVehicle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

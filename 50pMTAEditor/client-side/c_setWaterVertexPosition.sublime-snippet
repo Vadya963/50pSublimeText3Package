@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWaterVertexPosition( ${1:water theWater}, ${2:int vertexIndex}, ${3:int x}, ${4:int y}, ${5:float z} )]]></content><tabTrigger>setWaterVertexPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setWaterVertexPosition( water theWater, int vertexIndex, int x, int y, float z )]]></content><tabTrigger>setWaterVertexPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

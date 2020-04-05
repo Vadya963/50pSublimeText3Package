@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[callRemote( ${1:string host}[, ${2:int connectionAttempts = 10} ], ${3:string resourceName}, ${4:string functionName}, ${5:callback callbackFunction}, [ arguments... ] )]]></content><tabTrigger>callRemote</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[callRemote( string host[, int connectionAttempts = 10 ], string resourceName, string functionName, callback callbackFunction, [ arguments... ] )]]></content><tabTrigger>callRemote</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

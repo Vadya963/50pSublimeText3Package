@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleEngineState( ${1:vehicle theVehicle}, ${2:bool engineState} )]]></content><tabTrigger>setVehicleEngineState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleEngineState( vehicle theVehicle, bool engineState )]]></content><tabTrigger>setVehicleEngineState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

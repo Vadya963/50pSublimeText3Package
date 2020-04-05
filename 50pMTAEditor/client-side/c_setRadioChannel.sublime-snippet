@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setRadioChannel( ${1:int ID} )]]></content><tabTrigger>setRadioChannel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setRadioChannel( int ID )]]></content><tabTrigger>setRadioChannel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

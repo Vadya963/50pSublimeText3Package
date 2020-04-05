@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementAlpha( ${1:element theElement}, ${2:int alpha} )]]></content><tabTrigger>setElementAlpha</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setElementAlpha( element theElement, int alpha )]]></content><tabTrigger>setElementAlpha</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

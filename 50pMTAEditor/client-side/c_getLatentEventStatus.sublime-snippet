@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getLatentEventStatus( ${1:player thePlayer}, ${2:int handle} )]]></content><tabTrigger>getLatentEventStatus</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getLatentEventStatus( player thePlayer, int handle )]]></content><tabTrigger>getLatentEventStatus</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

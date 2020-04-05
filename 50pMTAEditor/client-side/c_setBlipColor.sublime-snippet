@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setBlipColor( ${1:blip theBlip}, ${2:int red}, ${3:int green}, ${4:int blue}, ${5:int alpha} )]]></content><tabTrigger>setBlipColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setBlipColor( blip theBlip, int red, int green, int blue, int alpha )]]></content><tabTrigger>setBlipColor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

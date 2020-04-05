@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createColSphere( ${1:float fX}, ${2:float fY}, ${3:float fZ}, ${4:float fRadius} )]]></content><tabTrigger>createColSphere</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createColSphere( float fX, float fY, float fZ, float fRadius )]]></content><tabTrigger>createColSphere</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

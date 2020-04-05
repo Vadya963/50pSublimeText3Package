@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlUnloadFile( ${1:xmlnode node} )]]></content><tabTrigger>xmlUnloadFile</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[xmlUnloadFile( xmlnode node )]]></content><tabTrigger>xmlUnloadFile</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

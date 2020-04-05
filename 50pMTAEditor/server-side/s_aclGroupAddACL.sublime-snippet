@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[aclGroupAddACL( ${1:aclgroup theGroup}, ${2:acl theACL} )]]></content><tabTrigger>aclGroupAddACL</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[aclGroupAddACL( aclgroup theGroup, acl theACL )]]></content><tabTrigger>aclGroupAddACL</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

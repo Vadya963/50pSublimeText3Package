@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[executeBrowserJavascript ( ${1:browser webBrowser}, ${2:string jsCode} )]]></content>
+	<content><![CDATA[executeBrowserJavascript ( browser webBrowser, string jsCode )]]></content>
 	<tabTrigger>executeBrowserJavascript</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

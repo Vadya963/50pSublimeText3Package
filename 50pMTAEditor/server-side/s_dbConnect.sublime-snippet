@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dbConnect( ${1:string databaseType}, ${2:string host }[, ${3:string username = }"", ${4:string password = }"", ${5:string options = }"" ] )]]></content><tabTrigger>dbConnect</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[dbConnect( string databaseType, string host [, string username = "", string password = "", string options = "" ] )]]></content><tabTrigger>dbConnect</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

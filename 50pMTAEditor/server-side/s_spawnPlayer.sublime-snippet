@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[spawnPlayer( ${1:player thePlayer}, ${2:float x}, ${3:float y}, ${4:float z}, [ ${5:int rotation = 0}, ${6:int skinID = 0}, ${7:int interior = 0}, ${8:int dimension = 0}, ${9:team theTeam = nil }] )]]></content><tabTrigger>spawnPlayer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[spawnPlayer( player thePlayer, float x, float y, float z, [ int rotation = 0, int skinID = 0, int interior = 0, int dimension = 0, team theTeam = nil ] )]]></content><tabTrigger>spawnPlayer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

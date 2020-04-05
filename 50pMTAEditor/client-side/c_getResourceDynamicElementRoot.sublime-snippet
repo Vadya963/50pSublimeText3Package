@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getResourceDynamicElementRoot( ${1:resource theResource} )]]></content><tabTrigger>getResourceDynamicElementRoot</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getResourceDynamicElementRoot( resource theResource )]]></content><tabTrigger>getResourceDynamicElementRoot</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

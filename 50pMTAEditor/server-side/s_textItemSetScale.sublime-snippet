@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[textItemSetScale( ${1:textitem theTextitem}, ${2:float scale} )]]></content><tabTrigger>textItemSetScale</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[textItemSetScale( textitem theTextitem, float scale )]]></content><tabTrigger>textItemSetScale</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

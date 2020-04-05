@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[tocolor( ${1:int red}, ${2:int green}, ${3:int blue }[, ${4:int alpha = 255}] )]]></content><tabTrigger>tocolor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[tocolor( int red, int green, int blue [, int alpha = 255] )]]></content><tabTrigger>tocolor</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

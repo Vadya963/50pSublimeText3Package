@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[removePedFromVehicle( ${1:ped thePed} )]]></content><tabTrigger>removePedFromVehicle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[removePedFromVehicle( ped thePed )]]></content><tabTrigger>removePedFromVehicle</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

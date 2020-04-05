@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWeaponAmmo( ${1:player thePlayer}, ${2:int weapon}, ${3:int totalAmmo}, [${4:int ammoInClip = 0}] )]]></content><tabTrigger>setWeaponAmmo</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setWeaponAmmo( player thePlayer, int weapon, int totalAmmo, [int ammoInClip = 0] )]]></content><tabTrigger>setWeaponAmmo</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

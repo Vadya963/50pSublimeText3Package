@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getResourceLoadFailureReason( ${1:resource theResource} )]]></content><tabTrigger>getResourceLoadFailureReason</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getResourceLoadFailureReason( resource theResource )]]></content><tabTrigger>getResourceLoadFailureReason</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

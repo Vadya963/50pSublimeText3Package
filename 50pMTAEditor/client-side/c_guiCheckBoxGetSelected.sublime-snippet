@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiCheckBoxGetSelected( ${1:element theCheckbox} )]]></content><tabTrigger>guiCheckBoxGetSelected</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiCheckBoxGetSelected( element theCheckbox )]]></content><tabTrigger>guiCheckBoxGetSelected</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

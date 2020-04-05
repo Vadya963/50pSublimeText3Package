@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleTurretPosition( ${1:vehicle turretVehicle}, ${2:float positionX}, ${3:float positionY} )]]></content><tabTrigger>setVehicleTurretPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleTurretPosition( vehicle turretVehicle, float positionX, float positionY )]]></content><tabTrigger>setVehicleTurretPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

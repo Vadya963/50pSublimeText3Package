@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxUpdateScreenSource( ${1:element screenSource }[, ${2:bool resampleNow = false }] )]]></content><tabTrigger>dxUpdateScreenSource</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxUpdateScreenSource( element screenSource [, bool resampleNow = false ] )]]></content><tabTrigger>dxUpdateScreenSource</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

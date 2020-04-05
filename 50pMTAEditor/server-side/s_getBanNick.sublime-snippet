@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getBanNick( ${1:ban theBan} )]]></content><tabTrigger>getBanNick</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getBanNick( ban theBan )]]></content><tabTrigger>getBanNick</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementCollisionsEnabled( ${1:element theElement}, ${2:bool enabled} )]]></content><tabTrigger>setElementCollisionsEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setElementCollisionsEnabled( element theElement, bool enabled )]]></content><tabTrigger>setElementCollisionsEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

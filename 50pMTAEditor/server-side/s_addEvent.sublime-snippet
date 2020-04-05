@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[addEvent( ${1:string eventName }[, ${2:bool allowRemoteTrigger = false }] )]]></content><tabTrigger>addEvent</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[addEvent( string eventName [, bool allowRemoteTrigger = false ] )]]></content><tabTrigger>addEvent</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[setCameraShakeLevel( ${1:int shakeLevel} )]]></content>
+	<content><![CDATA[setCameraShakeLevel( int shakeLevel )]]></content>
 	<tabTrigger>setCameraShakeLevel</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

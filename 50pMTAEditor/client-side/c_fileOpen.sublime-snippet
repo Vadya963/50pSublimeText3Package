@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[fileOpen( ${1:string filePath }[, ${2:bool readOnly = false }] )]]></content><tabTrigger>fileOpen</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[fileOpen( string filePath [, bool readOnly = false ] )]]></content><tabTrigger>fileOpen</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiSetSelectedTab( ${1:element tabPanel}, ${2:element theTab} )]]></content><tabTrigger>guiSetSelectedTab</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiSetSelectedTab( element tabPanel, element theTab )]]></content><tabTrigger>guiSetSelectedTab</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

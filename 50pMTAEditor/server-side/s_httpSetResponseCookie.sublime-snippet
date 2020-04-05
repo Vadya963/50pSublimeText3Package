@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[httpSetResponseCookie( ${1:string cookieName}, ${2:string cookieValue} )]]></content><tabTrigger>httpSetResponseCookie</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[httpSetResponseCookie( string cookieName, string cookieValue )]]></content><tabTrigger>httpSetResponseCookie</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

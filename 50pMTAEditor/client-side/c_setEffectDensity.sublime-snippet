@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setEffectDensity( ${1:effect theEffect}, ${2:float density} )]]></content><tabTrigger>setEffectDensity</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setEffectDensity( effect theEffect, float density )]]></content><tabTrigger>setEffectDensity</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

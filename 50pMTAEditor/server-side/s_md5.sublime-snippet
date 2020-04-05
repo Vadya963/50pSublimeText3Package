@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[md5( ${1:string str} )]]></content><tabTrigger>md5</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[md5( string str )]]></content><tabTrigger>md5</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

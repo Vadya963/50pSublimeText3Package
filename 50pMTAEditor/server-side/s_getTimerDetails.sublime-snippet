@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getTimerDetails( ${1:timer theTimer} )]]></content><tabTrigger>getTimerDetails</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getTimerDetails( timer theTimer )]]></content><tabTrigger>getTimerDetails</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

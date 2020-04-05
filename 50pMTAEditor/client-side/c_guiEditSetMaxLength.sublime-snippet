@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiEditSetMaxLength( ${1:element theElement}, ${2:int length} )]]></content><tabTrigger>guiEditSetMaxLength</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiEditSetMaxLength( element theElement, int length )]]></content><tabTrigger>guiEditSetMaxLength</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

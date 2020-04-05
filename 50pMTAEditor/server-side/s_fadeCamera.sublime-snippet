@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[fadeCamera( ${1:player thePlayer}, ${2:bool fadeIn}, [ ${3:float timeToFade = 1.0}, ${4:int red = 0}, ${5:int green = 0}, ${6:int blue = 0} ] )]]></content><tabTrigger>fadeCamera</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[fadeCamera( player thePlayer, bool fadeIn, [ float timeToFade = 1.0, int red = 0, int green = 0, int blue = 0 ] )]]></content><tabTrigger>fadeCamera</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

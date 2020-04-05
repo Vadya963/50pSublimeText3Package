@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementPosition( ${1:element theElement}, ${2:float x}, ${3:float y}, ${4:float z }[, ${5:bool warp = true }] )]]></content><tabTrigger>setElementPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setElementPosition( element theElement, float x, float y, float z [, bool warp = true ] )]]></content><tabTrigger>setElementPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

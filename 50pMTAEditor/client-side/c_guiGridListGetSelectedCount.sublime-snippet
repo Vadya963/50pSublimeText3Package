@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListGetSelectedCount( ${1:element gridList} )]]></content><tabTrigger>guiGridListGetSelectedCount</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[guiGridListGetSelectedCount( element gridList )]]></content><tabTrigger>guiGridListGetSelectedCount</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

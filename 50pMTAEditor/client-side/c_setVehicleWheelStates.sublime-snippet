@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleWheelStates( ${1:vehicle theVehicle}, ${2:int frontLeft}, [ ${3:int rearLeft = }-1, ${4:int frontRight = }-1, ${5:int rearRight = }-1 ] )]]></content><tabTrigger>setVehicleWheelStates</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setVehicleWheelStates( vehicle theVehicle, int frontLeft, [ int rearLeft = -1, int frontRight = -1, int rearRight = -1 ] )]]></content><tabTrigger>setVehicleWheelStates</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

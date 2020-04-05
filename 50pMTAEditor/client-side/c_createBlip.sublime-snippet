@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createBlip( ${1:float x}, ${2:float y}, ${3:float z }[, ${4:int icon = 0}, ${5:int size = 2}, ${6:int r = 255}, ${7:int g = 0}, ${8:int b = 0}, ${9:int a = 255}, ${10:int ordering = 0}, ${11:float visibleDistance = 99999.0} ] )]]></content><tabTrigger>createBlip</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[createBlip( float x, float y, float z [, int icon = 0, int size = 2, int r = 255, int g = 0, int b = 0, int a = 255, int ordering = 0, float visibleDistance = 99999.0 ] )]]></content><tabTrigger>createBlip</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

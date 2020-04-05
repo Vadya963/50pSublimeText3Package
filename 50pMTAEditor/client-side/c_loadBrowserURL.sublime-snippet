@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[loadBrowserURL( ${1:browser webBrowser}, ${2:string url} [, ${3:string postData = ""}, ${4:bool urlEncoded = true} ]  )]]></content>
+	<content><![CDATA[loadBrowserURL( browser webBrowser, string url [, string postData = "", bool urlEncoded = true ]  )]]></content>
 	<tabTrigger>loadBrowserURL</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Client-side</description>

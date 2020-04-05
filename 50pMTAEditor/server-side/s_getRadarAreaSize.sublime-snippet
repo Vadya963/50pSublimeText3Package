@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getRadarAreaSize( ${1:radararea theRadararea} )]]></content><tabTrigger>getRadarAreaSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getRadarAreaSize( radararea theRadararea )]]></content><tabTrigger>getRadarAreaSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

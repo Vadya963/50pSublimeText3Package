@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[loadMapData( ${1:xmlnode node}, ${2:element parent} )]]></content><tabTrigger>loadMapData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[loadMapData( xmlnode node, element parent )]]></content><tabTrigger>loadMapData</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

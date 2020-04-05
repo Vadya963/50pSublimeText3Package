@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setPedHeadless( ${1:ped thePed}, ${2:bool headState} )]]></content><tabTrigger>setPedHeadless</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setPedHeadless( ped thePed, bool headState )]]></content><tabTrigger>setPedHeadless</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

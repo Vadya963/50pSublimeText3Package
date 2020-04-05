@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehiclePlateText( ${1:element theVehicle}, ${2:string numberplate} )]]></content><tabTrigger>setVehiclePlateText</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehiclePlateText( element theVehicle, string numberplate )]]></content><tabTrigger>setVehiclePlateText</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

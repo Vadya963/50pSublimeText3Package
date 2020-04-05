@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPlayerBlurLevel( ${1:player thePlayer} )]]></content><tabTrigger>getPlayerBlurLevel</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getPlayerBlurLevel( player thePlayer )]]></content><tabTrigger>getPlayerBlurLevel</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createResource( ${1:string resourceName }[, ${2:string organizationalDir }] )]]></content><tabTrigger>createResource</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createResource( string resourceName [, string organizationalDir ] )]]></content><tabTrigger>createResource</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

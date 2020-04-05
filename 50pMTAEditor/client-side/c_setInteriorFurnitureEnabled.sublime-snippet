@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setInteriorFurnitureEnabled( ${1:int roomID}, ${2:bool enabled} )]]></content><tabTrigger>setInteriorFurnitureEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setInteriorFurnitureEnabled( int roomID, bool enabled )]]></content><tabTrigger>setInteriorFurnitureEnabled</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

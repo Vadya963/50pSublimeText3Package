@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setTimer( ${1:function theFunction}, ${2:int timeInterval}, ${3:int timesToExecute}, [ ${4:var arguments}... ] )]]></content><tabTrigger>setTimer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setTimer( function theFunction, int timeInterval, int timesToExecute, [ var arguments... ] )]]></content><tabTrigger>setTimer</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

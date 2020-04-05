@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isPlayerHudComponentVisible( ${1:string component} )]]></content><tabTrigger>isPlayerHudComponentVisible</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isPlayerHudComponentVisible( string component )]]></content><tabTrigger>isPlayerHudComponentVisible</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

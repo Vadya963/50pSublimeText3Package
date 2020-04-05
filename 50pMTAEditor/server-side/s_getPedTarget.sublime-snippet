@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getPedTarget( ${1:ped thePed} )]]></content><tabTrigger>getPedTarget</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[getPedTarget( ped thePed )]]></content><tabTrigger>getPedTarget</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

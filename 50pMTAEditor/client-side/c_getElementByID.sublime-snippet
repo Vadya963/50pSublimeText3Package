@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getElementByID( ${1:string id }[, ${2:int index = 0} ] )]]></content><tabTrigger>getElementByID</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getElementByID( string id [, int index = 0 ] )]]></content><tabTrigger>getElementByID</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

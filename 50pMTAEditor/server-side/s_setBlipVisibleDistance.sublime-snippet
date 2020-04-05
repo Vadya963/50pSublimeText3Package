@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setBlipVisibleDistance( ${1:blip theBlip}, ${2:float theDistance} )]]></content><tabTrigger>setBlipVisibleDistance</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setBlipVisibleDistance( blip theBlip, float theDistance )]]></content><tabTrigger>setBlipVisibleDistance</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createTeam( ${1:string teamName}, [${2:int colorR = 255}, ${3:int colorG = 255}, ${4:int colorB = 255}] )]]></content><tabTrigger>createTeam</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[createTeam( string teamName, [int colorR = 255, int colorG = 255, int colorB = 255] )]]></content><tabTrigger>createTeam</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

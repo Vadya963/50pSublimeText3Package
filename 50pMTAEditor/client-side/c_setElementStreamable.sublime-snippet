@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementStreamable( ${1:element theElement}, ${2:bool streamable} )]]></content><tabTrigger>setElementStreamable</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setElementStreamable( element theElement, bool streamable )]]></content><tabTrigger>setElementStreamable</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

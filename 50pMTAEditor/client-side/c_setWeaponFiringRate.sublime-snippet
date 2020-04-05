@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWeaponFiringRate( ${1:weapon theWeapon}, ${2:int firingRate} )]]></content><tabTrigger>setWeaponFiringRate</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setWeaponFiringRate( weapon theWeapon, int firingRate )]]></content><tabTrigger>setWeaponFiringRate</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

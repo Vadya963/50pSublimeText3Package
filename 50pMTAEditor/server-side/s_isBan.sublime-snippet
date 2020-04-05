@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isBan( ${1:ban theBan} )]]></content><tabTrigger>isBan</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[isBan( ban theBan )]]></content><tabTrigger>isBan</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

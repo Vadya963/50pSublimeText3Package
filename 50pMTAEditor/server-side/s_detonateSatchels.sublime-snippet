@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[detonateSatchels( ${1:player Player} )]]></content><tabTrigger>detonateSatchels</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[detonateSatchels( player Player )]]></content><tabTrigger>detonateSatchels</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

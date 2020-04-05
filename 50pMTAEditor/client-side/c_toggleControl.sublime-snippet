@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[toggleControl( ${1:player thePlayer}, ${2:string control}, ${3:bool enabled} )]]></content><tabTrigger>toggleControl</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[toggleControl( player thePlayer, string control, bool enabled )]]></content><tabTrigger>toggleControl</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
