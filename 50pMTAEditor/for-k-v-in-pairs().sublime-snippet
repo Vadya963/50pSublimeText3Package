@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[for k,v in pairs(table_name) do
-	${0:print(k,v)
-end]]></content>
-    <tabTrigger>forp</tabTrigger>
-    <scope>source.lua</scope>
-    <description>for k,v in pairs()</description>
-</snippet>
