@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createEffect( string name, float x, float y, float z [, float rX, float rY, float rZ ] )]]></content><tabTrigger>createEffect</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[createEffect( string name, float x, float y, float z [, float rX, float rY, float rZ, float drawDistance = 0, bool soundEnable = false ] )]]></content><tabTrigger>createEffect</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

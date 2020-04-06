@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientChatMessage", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientChatMessage", getRootElement(), function (string text, int r, int g, int b) --[[The source of this event is either a player element or the root element.]] end )]]></content>
 	<tabTrigger>onClientChatMessage</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>
