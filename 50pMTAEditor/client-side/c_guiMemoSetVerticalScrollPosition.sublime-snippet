@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[guiMemoSetVerticalScrollPosition( gui-memo theMemo, float position )]]></content><tabTrigger>guiMemoSetVerticalScrollPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

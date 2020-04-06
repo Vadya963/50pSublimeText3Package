@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setAccountName( account theAccount, string name [, bool allowCaseVariations = false] )]]></content><tabTrigger>setAccountName</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[guiEditIsMasked( gui-edit guiEdit )]]></content><tabTrigger>guiEditIsMasked</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

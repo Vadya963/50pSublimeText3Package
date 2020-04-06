@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onResourceStop", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onResourceStop", getRootElement(), function (resource stoppedResource, boolean wasDeleted) --[[The source of this event is the root element of the resource that is being stopped.]] end )]]></content>
 	<tabTrigger>onResourceStop</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setCameraMatrix( player thePlayer, float positionX, float positionY, float positionZ [, float lookAtX, float lookAtY, float lookAtZ, float roll = 0, float fov = 70 ] )]]></content><tabTrigger>setCameraMatrix</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setCameraMatrix( float positionX, float positionY, float positionZ [, float lookAtX, float lookAtY, float lookAtZ, float roll = 0, float fov = 70 ] )]]></content><tabTrigger>setCameraMatrix</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

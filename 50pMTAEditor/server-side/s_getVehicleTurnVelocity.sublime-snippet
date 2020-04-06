@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getVehicleTurnVelocity( vehicle theVehicle )]]></content><tabTrigger>getVehicleTurnVelocity</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

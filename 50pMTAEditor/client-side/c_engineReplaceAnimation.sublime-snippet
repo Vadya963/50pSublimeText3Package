@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[engineReplaceAnimation( ped thePed, string InternalBlockName, string InternalAnimName, string CustomBlockName, string CustomAnimName )]]></content><tabTrigger>engineReplaceAnimation</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

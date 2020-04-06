@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[getElementsWithinRange( float x, float y, float z, float range [, string elemType = "" ] )]]></content><tabTrigger>getElementsWithinRange</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

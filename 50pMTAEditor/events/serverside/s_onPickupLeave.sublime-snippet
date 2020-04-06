@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onPickupLeave", getRootElement(), function (player thePlayer) --[[The source of this event is the pickup that was left by the player.]] end )]]></content>
+	<tabTrigger>onPickupLeave</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Serverside</description>
+</snippet>

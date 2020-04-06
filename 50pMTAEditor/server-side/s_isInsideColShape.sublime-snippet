@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[isInsideColShape( colshape theShape, float posX, float posY, float posZ )]]></content><tabTrigger>isInsideColShape</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

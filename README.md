@@ -2,7 +2,7 @@
 
 This is 50p's Sublime 3 Package that adds snippets for Multi Theft Auto functions. The package was originally made by him, I've just updated it.
 
-I've updated his package to include the current changes up to MTA version 1.5.5
+I've updated his package to include the current changes up to MTA version 1.5.6
 
 MTA forum link: https://forum.mtasa.com/viewtopic.php?f=91&t=78337
 

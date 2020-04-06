@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[getColShapeType( colshape shape )]]></content><tabTrigger>getColShapeType</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
