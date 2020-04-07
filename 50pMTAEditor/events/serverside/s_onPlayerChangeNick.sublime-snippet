@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerChangeNick", getRootElement(), function (string oldNick, string newNick, bool changedByUser) --[[source of this event is the player that changed his nick]] end )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerChangeNick", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onPlayerChangeNick</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

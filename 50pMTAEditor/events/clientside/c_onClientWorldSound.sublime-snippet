@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientWorldSound", getRootElement(), function (int group, int index, float x, float y, float z) --[[The source of this event is the element, which emitted the sound.]] end )]]></content>
+	<content><![CDATA[addEventHandler( "onClientWorldSound", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onClientWorldSound</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerConnect", getRootElement(), function (string playerNick, string playerIP, string playerUsername, string playerSerial, int playerVersionNumber, string playerVersionString) --[[The source of this event is the client's root element.]] end )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerConnect", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onPlayerConnect</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

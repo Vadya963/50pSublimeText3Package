@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleWeaponHit", getRootElement(), function (int weaponType, element hitElement, float hitX, float hitY, float hitZ, int model, int materialID) --[[The source of this event is the vehicle that fired the weapon.]] end )]]></content>
+	<content><![CDATA[addEventHandler( "onClientVehicleWeaponHit", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onClientVehicleWeaponHit</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

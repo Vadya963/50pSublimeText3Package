@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleStartEnter", getRootElement(), function (player thePlayer, int seat, int door) --[[The source of this event is the vehicle the player is entering.]] end )]]></content>
+	<content><![CDATA[addEventHandler( "onClientVehicleStartEnter", getRootElement(), function functionName )]]></content>
 	<tabTrigger>onClientVehicleStartEnter</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>
