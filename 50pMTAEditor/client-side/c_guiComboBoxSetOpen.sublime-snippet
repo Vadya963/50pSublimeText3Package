@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[guiComboBoxSetOpen( element comboBox, bool state )]]></content><tabTrigger>guiComboBoxSetOpen</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

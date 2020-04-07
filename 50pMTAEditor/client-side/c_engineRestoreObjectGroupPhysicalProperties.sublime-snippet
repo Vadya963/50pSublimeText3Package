@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[engineRestoreObjectGroupPhysicalProperties( int groupID, objectgroup-modifiable property )]]></content><tabTrigger>engineRestoreObjectGroupPhysicalProperties</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

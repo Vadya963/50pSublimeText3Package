@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[dxDrawMaterialPrimitive( primitiveType pType, mixed material, bool postGUI, table vertice1 [, table vertice2, ...] )]]></content><tabTrigger>dxDrawMaterialPrimitive</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

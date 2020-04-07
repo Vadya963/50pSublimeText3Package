@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onClientElementModelChange", getRootElement(), function (int oldModel, int newModel) --[[The source of this event is the element that changed its model.]] end )]]></content>
+	<tabTrigger>onClientElementModelChange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Clientside</description>
+</snippet>

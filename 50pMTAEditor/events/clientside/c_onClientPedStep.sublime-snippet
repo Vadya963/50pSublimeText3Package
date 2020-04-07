@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onClientPedStep", getRootElement(), function (bool leftFoot) --[[The source of this event is the ped who stepped.]] end )]]></content>
+	<tabTrigger>onClientPedStep</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Clientside</description>
+</snippet>

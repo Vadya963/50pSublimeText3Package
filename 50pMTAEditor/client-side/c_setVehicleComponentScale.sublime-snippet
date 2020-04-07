@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setVehicleComponentScale( vehicle theVehicle, string theComponent, float scaleX, float scaleY, float scaleZ [, string base = "root"] )]]></content><tabTrigger>setVehicleComponentScale</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
