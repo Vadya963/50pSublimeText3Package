@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[xmlLoadString( element theElement, string key, player thePlayer )]]></content><tabTrigger>xmlLoadString</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[removeElementDataSubscriber( element theElement, string key, player thePlayer )]]></content><tabTrigger>removeElementDataSubscriber</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
