@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[bindKey ( player thePlayer, string key, string keyState, function handlerFunction,  [ var arguments, ... ] )]]></content><tabTrigger>bindKey</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
