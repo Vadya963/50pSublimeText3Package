@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.gmatch( string input, string pattern )]]></content><tabTrigger>utf8.gmatch</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

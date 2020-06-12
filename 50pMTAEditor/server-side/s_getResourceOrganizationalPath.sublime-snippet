@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[getResourceOrganizationalPath( resource theResource )]]></content><tabTrigger>getResourceOrganizationalPath</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

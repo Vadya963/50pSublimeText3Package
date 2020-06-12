@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setCameraInterior( player thePlayer, int interior )]]></content><tabTrigger>setCameraInterior</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setCameraInterior( int interior )]]></content><tabTrigger>setCameraInterior</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setBanNick( ban theBan, string theNick )]]></content><tabTrigger>setBanNick</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

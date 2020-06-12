@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[createSearchLight( float startX, float startY, float startZ, float endX, float endY, float endZ, float startRadius, float endRadius [, bool renderSpot = true ] )]]></content><tabTrigger>createSearchLight</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

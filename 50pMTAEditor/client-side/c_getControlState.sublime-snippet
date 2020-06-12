@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getControlState( player thePlayer, string controlName )]]></content><tabTrigger>getControlState</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

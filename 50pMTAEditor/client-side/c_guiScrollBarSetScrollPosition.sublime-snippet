@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[guiScrollBarSetScrollPosition( gui-scrollBar theScrollBar, float amount )]]></content><tabTrigger>guiScrollBarSetScrollPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

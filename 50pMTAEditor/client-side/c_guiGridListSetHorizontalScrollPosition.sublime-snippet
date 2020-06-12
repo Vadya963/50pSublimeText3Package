@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[guiGridListSetHorizontalScrollPosition( element guiGridlist, float fPosition )]]></content><tabTrigger>guiGridListSetHorizontalScrollPosition</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

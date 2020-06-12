@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[abortRemoteRequest( request theRequest )]]></content><tabTrigger>abortRemoteRequest</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

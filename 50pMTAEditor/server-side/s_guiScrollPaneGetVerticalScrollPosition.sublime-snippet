@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiScrollPaneGetVerticalScrollPosition( element verticalScrollPane )]]></content><tabTrigger>guiScrollPaneGetVerticalScrollPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[guiGridListGetVerticalScrollPosition( element guiGridlist )]]></content><tabTrigger>guiGridListGetVerticalScrollPosition</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

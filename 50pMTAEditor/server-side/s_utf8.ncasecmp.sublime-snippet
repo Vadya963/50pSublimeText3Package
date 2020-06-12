@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.ncasecmp( string a, string b )]]></content><tabTrigger>utf8.ncasecmp</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

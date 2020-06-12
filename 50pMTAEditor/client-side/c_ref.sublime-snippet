@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[ref( mixed objectToReference )]]></content><tabTrigger>ref</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

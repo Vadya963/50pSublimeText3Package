@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.insert( string input [, int insert_pos = utf8.len( input ) + 1 ], string substring )]]></content><tabTrigger>utf8.insert</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

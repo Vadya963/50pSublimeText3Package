@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.next( string input [[, int charpos = 0 ], int offset = 1 ] )]]></content><tabTrigger>utf8.next</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

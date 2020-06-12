@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.escape( string input )]]></content><tabTrigger>utf8.escape</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

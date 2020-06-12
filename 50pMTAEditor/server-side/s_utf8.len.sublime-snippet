@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.len( string input [, int i = 1, int j = utf8.len( input ) ] )]]></content><tabTrigger>utf8.len</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

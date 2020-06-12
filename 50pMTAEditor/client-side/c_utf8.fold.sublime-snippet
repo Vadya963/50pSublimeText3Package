@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.fold( string|int input )]]></content><tabTrigger>utf8.fold</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

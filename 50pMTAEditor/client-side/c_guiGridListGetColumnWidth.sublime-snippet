@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[guiGridListGetColumnWidth( element gridList, int columnIndex, bool relative )]]></content><tabTrigger>guiGridListGetColumnWidth</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

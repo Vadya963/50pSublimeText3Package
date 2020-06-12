@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.char( [ int codepoints... ] )]]></content><tabTrigger>utf8.char</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

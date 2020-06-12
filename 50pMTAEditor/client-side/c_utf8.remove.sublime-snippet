@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.remove( string input, int start = 1 [, int stop = -1 ] )]]></content><tabTrigger>utf8.remove</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

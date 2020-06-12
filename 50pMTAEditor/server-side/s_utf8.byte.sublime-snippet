@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[utf8.byte( string input [, int i=1, int j=1 ] )]]></content><tabTrigger>utf8.byte</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
