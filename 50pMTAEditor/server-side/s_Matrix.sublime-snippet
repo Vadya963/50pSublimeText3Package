@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[Matrix( Vector3 position [, Vector3 rotation] )]]></content><tabTrigger>Matrix</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
