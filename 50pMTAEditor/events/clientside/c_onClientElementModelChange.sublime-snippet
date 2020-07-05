@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientElementModelChange", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientElementModelChange", getRootElement(), 
+function (oldModel, newModel) 
+--The source of this event is the element that changed its model.
+--This event doesn't support cancellation. Use setElementModel with the old value to reverse.
+end)]]></content>
 	<tabTrigger>onClientElementModelChange</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

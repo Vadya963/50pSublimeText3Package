@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientExplosion", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientExplosion", getRootElement(), 
+function (x, y, z, theType) 
+--The source of this event is the player who created the explosion. If the explosion is from a vehicle the source is the player who syncs the vehicle.
+--If this event is canceled, the explosion will not occur.
+end)]]></content>
 	<tabTrigger>onClientExplosion</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

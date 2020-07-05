@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPickupSpawn", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPickupSpawn", getRootElement(), 
+function () 
+--The source of this event is the pickup that just spawned or respawned.
+end)]]></content>
 	<tabTrigger>onPickupSpawn</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

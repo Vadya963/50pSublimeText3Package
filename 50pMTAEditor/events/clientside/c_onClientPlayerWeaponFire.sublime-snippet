@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerWeaponFire", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPlayerWeaponFire", getRootElement(), 
+function (weapon, ammo, ammoInClip, hitX, hitY, hitZ, hitElement, startX, startY, startZ) 
+--The source of this event is the streamed in player who fired the weapon.
+end)]]></content>
 	<tabTrigger>onClientPlayerWeaponFire</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerMarkerLeave", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerMarkerLeave", getRootElement(), 
+function (markerLeft, matchingDimension) 
+--The source of this event is the player that left the marker.
+end)]]></content>
 	<tabTrigger>onPlayerMarkerLeave</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

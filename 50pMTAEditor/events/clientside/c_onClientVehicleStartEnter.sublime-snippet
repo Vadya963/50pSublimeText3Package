@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleStartEnter", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientVehicleStartEnter", getRootElement(), 
+function (thePlayer, seat, door) 
+--The source of this event is the vehicle the player is entering.
+--This event can be canceled, but only for the local player, they will not begin to the enter the vehicle.
+end)]]></content>
 	<tabTrigger>onClientVehicleStartEnter</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

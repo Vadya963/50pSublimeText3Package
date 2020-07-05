@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerScreenShot", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerScreenShot", getRootElement(), 
+function (theResource, status, imageData, timestamp, tag) 
+--source of this event is the player
+end)]]></content>
 	<tabTrigger>onPlayerScreenShot</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

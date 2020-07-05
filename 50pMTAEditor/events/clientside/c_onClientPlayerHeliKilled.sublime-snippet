@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerHeliKilled", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPlayerHeliKilled", getRootElement(), 
+function (killer) 
+--The source of this event is the player who was killed
+--If this event is canceled, the player will not be killed
+end)]]></content>
 	<tabTrigger>onClientPlayerHeliKilled</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

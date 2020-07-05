@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onBan", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onBan", getRootElement(), 
+function (theBan) 
+--source of this event is the element that was responsible for the banning. If no responsible was specified, the source is the global root element.
+--This event cannot be canceled.
+end)]]></content>
 	<tabTrigger>onBan</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIScroll", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientGUIScroll", getRootElement(), 
+function (scrolled) 
+--The source of this event is the scrollbar element that got scrolled.
+end)]]></content>
 	<tabTrigger>onClientGUIScroll</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

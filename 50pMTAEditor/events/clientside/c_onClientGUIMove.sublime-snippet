@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIMove", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientGUIMove", getRootElement(), 
+function () 
+--The source of this event is the GUI element which was moved.
+end)]]></content>
 	<tabTrigger>onClientGUIMove</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

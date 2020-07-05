@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPedWasted", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPedWasted", getRootElement(), 
+function (killer, weapon, bodypart, loss / stealth) 
+--The source of this event is the ped that died.
+end)]]></content>
 	<tabTrigger>onClientPedWasted</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

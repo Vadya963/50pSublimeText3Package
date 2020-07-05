@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerWeaponSwitch", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerWeaponSwitch", getRootElement(), 
+function (previousWeaponID, currentWeaponID) 
+--The source of this event is the player that switched his weapon.
+end)]]></content>
 	<tabTrigger>onPlayerWeaponSwitch</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

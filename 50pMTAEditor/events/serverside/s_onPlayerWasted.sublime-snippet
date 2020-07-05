@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerWasted", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerWasted", getRootElement(), 
+function (totalAmmo, killer, killerWeapon, bodypart, stealth) 
+--The source of this event is the player that died or got killed.
+end)]]></content>
 	<tabTrigger>onPlayerWasted</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

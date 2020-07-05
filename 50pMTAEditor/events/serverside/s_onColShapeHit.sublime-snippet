@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onColShapeHit", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onColShapeHit", getRootElement(), 
+function (hitElement, matchingDimension) 
+--The source of this event is the colshape that got hit by a player or vehicle.
+end)]]></content>
 	<tabTrigger>onColShapeHit</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

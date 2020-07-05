@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientBrowserCursorChange", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientBrowserCursorChange", getRootElement(), 
+function (cursorId) 
+--The source of this event is the browser element the cursor change occured in.
+end)]]></content>
 	<tabTrigger>onClientBrowserCursorChange</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

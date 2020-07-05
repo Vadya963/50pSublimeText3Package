@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onTrailerAttach", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onTrailerAttach", getRootElement(), 
+function (theTruck) 
+--The source of this event is the trailer vehicle that the truck got attached to.
+--If this event is canceled, the trailer will detach from the truck again.(Doesn't appear to work.)
+end)]]></content>
 	<tabTrigger>onTrailerAttach</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

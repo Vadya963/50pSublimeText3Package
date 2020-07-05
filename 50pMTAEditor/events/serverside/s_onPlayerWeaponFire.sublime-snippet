@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerWeaponFire", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerWeaponFire", getRootElement(), 
+function (weapon, endX, endY, endZ, hitElement, startX, startY, startZ) 
+--The source of this event is the player who fired the weapon.
+--This event works only with weapons which have enabled bullet sync.
+end)]]></content>
 	<tabTrigger>onPlayerWeaponFire</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

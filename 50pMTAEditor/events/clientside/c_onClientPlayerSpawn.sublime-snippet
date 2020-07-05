@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerSpawn", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPlayerSpawn", getRootElement(), 
+function (hisTeam) 
+--The source of this event is the player that spawned.
+end)]]></content>
 	<tabTrigger>onClientPlayerSpawn</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

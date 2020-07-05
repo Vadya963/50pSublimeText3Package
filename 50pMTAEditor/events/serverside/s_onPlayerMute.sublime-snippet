@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerMute", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerMute", getRootElement(), 
+function () 
+--The source of this event is the player who got muted.
+--If this event is canceled, the player will not be muted.
+end)]]></content>
 	<tabTrigger>onPlayerMute</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

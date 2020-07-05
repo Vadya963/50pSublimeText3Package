@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientBrowserLoadingStart", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientBrowserLoadingStart", getRootElement(), 
+function (URL) 
+--The source is a browser element.
+end)]]></content>
 	<tabTrigger>onClientBrowserLoadingStart</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

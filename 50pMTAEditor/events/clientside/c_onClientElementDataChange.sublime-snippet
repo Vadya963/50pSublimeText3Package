@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientElementDataChange", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientElementDataChange", getRootElement(), 
+function (theKey, oldValue, newValue) 
+--The source of this event is the element whose element data changed.
+end)]]></content>
 	<tabTrigger>onClientElementDataChange</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

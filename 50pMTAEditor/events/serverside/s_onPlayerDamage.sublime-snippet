@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerDamage", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerDamage", getRootElement(), 
+function (attacker, damage_causing, bodypart, loss) 
+--The source of this event is the player who was damaged.
+--Canceling this event has no effect. Cancel the client-side event onClientPlayerDamage instead.
+end)]]></content>
 	<tabTrigger>onPlayerDamage</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPedDamage", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPedDamage", getRootElement(), 
+function (attacker, weapon, bodypart, loss) 
+--The source of this event is the ped that got damaged
+--If this event is canceled, then any damaging effects to the ped will cease.
+end)]]></content>
 	<tabTrigger>onClientPedDamage</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

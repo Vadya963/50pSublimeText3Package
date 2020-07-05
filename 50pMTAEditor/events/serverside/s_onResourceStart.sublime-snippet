@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onResourceStart", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onResourceStart", getRootElement(), 
+function (startedResource) 
+--The source of this event is the root element in the resource that started.
+--If this event is canceled, the resource starting is aborted and is stopped again.
+end)]]></content>
 	<tabTrigger>onResourceStart</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

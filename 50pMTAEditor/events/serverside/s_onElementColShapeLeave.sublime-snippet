@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onElementColShapeLeave", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onElementColShapeLeave", getRootElement(), 
+function (theColShape, matchingDimension) 
+--The source of this event is the player or vehicle that left colshape.
+end)]]></content>
 	<tabTrigger>onElementColShapeLeave</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

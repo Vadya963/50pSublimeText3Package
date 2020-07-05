@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleRespawn", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientVehicleRespawn", getRootElement(), 
+function () 
+--The source of this event is the vehicle that respawned.
+end)]]></content>
 	<tabTrigger>onClientVehicleRespawn</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

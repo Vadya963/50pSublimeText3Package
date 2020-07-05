@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleNitroStateChange", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientVehicleNitroStateChange", getRootElement(), 
+function (state) 
+--The source of this event is the player vehicle.
+end)]]></content>
 	<tabTrigger>onClientVehicleNitroStateChange</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

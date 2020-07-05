@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onElementDestroy", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onElementDestroy", getRootElement(), 
+function () 
+--The source of this event is the element that is being destroyed.
+end)]]></content>
 	<tabTrigger>onElementDestroy</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

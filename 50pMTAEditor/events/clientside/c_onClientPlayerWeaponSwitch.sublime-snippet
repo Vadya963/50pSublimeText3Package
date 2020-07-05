@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerWeaponSwitch", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPlayerWeaponSwitch", getRootElement(), 
+function (previousWeaponSlot, currentWeaponSlot) 
+--The source of this event is the player who changed his weapon. (Local player only)
+--If this event is canceled, then the weapon will not be switched.
+end)]]></content>
 	<tabTrigger>onClientPlayerWeaponSwitch</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

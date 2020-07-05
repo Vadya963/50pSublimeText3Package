@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientMinimize", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientMinimize", getRootElement(), 
+function () 
+end)]]></content>
 	<tabTrigger>onClientMinimize</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

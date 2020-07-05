@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleCollision", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientVehicleCollision", getRootElement(), 
+function (theHitElement, force, bodypart, collisionX, collisionY, collisionZ, normalX, normalY, normalZ, hitElementForce, model) 
+--The source of this event is the vehicle that collided with something.
+end)]]></content>
 	<tabTrigger>onClientVehicleCollision</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

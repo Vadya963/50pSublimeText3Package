@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIMouseUp", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientGUIMouseUp", getRootElement(), 
+function (button, absoluteX, absoluteY) 
+--The source of this event is the GUI element on top of which the mouse button was released.
+end)]]></content>
 	<tabTrigger>onClientGUIMouseUp</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

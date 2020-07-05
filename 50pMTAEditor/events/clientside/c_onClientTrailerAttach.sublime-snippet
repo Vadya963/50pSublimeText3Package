@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientTrailerAttach", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientTrailerAttach", getRootElement(), 
+function (towedBy) 
+--The source of this event is the trailer that is now being towed.
+end)]]></content>
 	<tabTrigger>onClientVehicleStartExit</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

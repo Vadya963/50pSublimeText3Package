@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPickupLeave", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPickupLeave", getRootElement(), 
+function (thePlayer, matchingDimension) 
+--The source of this event is the pickup that was left.
+end)]]></content>
 	<tabTrigger>onClientPickupLeave</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

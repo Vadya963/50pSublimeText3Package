@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerVehicleExit", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerVehicleExit", getRootElement(), 
+function (theVehicle, seat, jacker, forcedByScript) 
+--The source of this event is the player that left the vehicle.
+end)]]></content>
 	<tabTrigger>onPlayerVehicleExit</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

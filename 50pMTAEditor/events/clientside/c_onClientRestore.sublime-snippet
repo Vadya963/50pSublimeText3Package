@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientRestore", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientRestore", getRootElement(), 
+function (idClearRenderTargets) 
+end)]]></content>
 	<tabTrigger>onClientRestore</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

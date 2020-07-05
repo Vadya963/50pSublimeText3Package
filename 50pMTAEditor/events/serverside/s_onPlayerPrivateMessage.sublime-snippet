@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerPrivateMessage", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerPrivateMessage", getRootElement(), 
+function (message, recipient) 
+--The source of this event is the player who sent the private message.
+--If this event is canceled, the game's chat system won't deliver the message. You may use outputChatBox to send the messages then.
+end)]]></content>
 	<tabTrigger>onPlayerPrivateMessage</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

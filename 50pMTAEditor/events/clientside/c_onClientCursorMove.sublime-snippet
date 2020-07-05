@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientCursorMove", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientCursorMove", getRootElement(), 
+function (float cursorX, float cursorY, int absoluteX, int absoluteY, float worldX, float worldY, float worldZ) 
+--The source of this event is the root element.
+end)]]></content>
 	<tabTrigger>onClientCursorMove</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

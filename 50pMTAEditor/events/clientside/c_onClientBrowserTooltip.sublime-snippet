@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientBrowserTooltip", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientBrowserTooltip", getRootElement(), 
+function (text) 
+--The source is a browser element.
+end)]]></content>
 	<tabTrigger>onClientBrowserTooltip</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onConsole", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onConsole", getRootElement(), 
+function (theMessage)
+--The source of this event is the player that entered the message in the console. This can be a player or the server console.
+end)]]></content>
 	<tabTrigger>onConsole</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

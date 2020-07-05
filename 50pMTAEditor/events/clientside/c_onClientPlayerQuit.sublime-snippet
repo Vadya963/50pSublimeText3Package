@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerQuit", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPlayerQuit", getRootElement(), 
+function (reason) 
+--The source of this event is the player that quit the game.
+end)]]></content>
 	<tabTrigger>onClientPlayerQuit</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

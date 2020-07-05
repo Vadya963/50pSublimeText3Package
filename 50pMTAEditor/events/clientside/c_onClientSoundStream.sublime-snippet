@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientSoundFinishedDownload", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientSoundFinishedDownload", getRootElement(), 
+function (success, length, streamName, errorMessage) 
+--The source of this event is the sound which either successfully streamed or failed to stream.
+end)]]></content>
 	<tabTrigger>onClientSoundFinishedDownload</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

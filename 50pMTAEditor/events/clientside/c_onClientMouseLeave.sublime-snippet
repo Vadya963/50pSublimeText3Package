@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientMouseLeave", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientMouseLeave", getRootElement(), 
+function (absoluteX, absoluteY, enteredGUI) 
+--The source of this event is the GUI element that the mouse was moved from.
+end)]]></content>
 	<tabTrigger>onClientMouseLeave</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

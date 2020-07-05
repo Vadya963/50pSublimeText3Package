@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientKey", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientKey", getRootElement(), 
+function (button, pressOrRelease) 
+--The source of this event is the client's root element.
+--If this event is canceled, then all GTA and MTA binds, bound to the canceled key, won't be triggered.
+--Note 1: The escape key can only be cancelled once. If a user presses the escape key twice in a row the main menu will still open.
+--Note 2: The event is only cancellable when the key is being pressed, not when being released.
+end)]]></content>
 	<tabTrigger>onClientKey</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

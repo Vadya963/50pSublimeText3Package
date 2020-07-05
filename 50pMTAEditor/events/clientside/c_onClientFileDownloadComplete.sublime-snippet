@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientFileDownloadComplete", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientFileDownloadComplete", getRootElement(), 
+function (fileName, success, requestResource) 
+--The source of this event is the root element of the resource that downloaded file.
+end)]]></content>
 	<tabTrigger>onClientFileDownloadComplete</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientBrowserNavigate", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientBrowserNavigate", getRootElement(), 
+function (targetURL, isBlocked)
+--The source is a browser element.
+end )]]></content>
 	<tabTrigger>onClientBrowserNavigate</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

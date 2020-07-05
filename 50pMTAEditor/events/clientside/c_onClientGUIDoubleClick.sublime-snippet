@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIDoubleClick", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientGUIDoubleClick", getRootElement(), 
+function (button, state, absoluteX, absoluteY) 
+--The source of this event is the GUI element that was double clicked.
+end)]]></content>
 	<tabTrigger>onClientGUIDoubleClick</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

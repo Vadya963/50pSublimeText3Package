@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIMouseDown", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientGUIMouseDown", getRootElement(), 
+function (button, absoluteX, absoluteY) 
+--The source of this event is the GUI element that was clicked.
+end)]]></content>
 	<tabTrigger>onClientGUIMouseDown</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

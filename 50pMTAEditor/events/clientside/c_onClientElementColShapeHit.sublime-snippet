@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientElementColShapeHit", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientElementColShapeHit", getRootElement(), 
+function (theShape, matchingDimension) 
+--The source of this event is the element that entered the colshape.
+end)]]></content>
 	<tabTrigger>onClientElementColShapeHit</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

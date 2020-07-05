@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientHitByWaterCannon", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientHitByWaterCannon", getRootElement(), 
+function (pedHit) 
+--The source of this event is the vehicle who shot the water cannon.
+--If this event is canceled, the ped will not be knocked down
+end)]]></content>
 	<tabTrigger>onClientHitByWaterCannon</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

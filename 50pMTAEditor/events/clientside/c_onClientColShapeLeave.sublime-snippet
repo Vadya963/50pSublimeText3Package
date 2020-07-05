@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientColShapeLeave", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientColShapeLeave", getRootElement(), 
+function (theElement, matchingDimension) 
+--The source of this event is the colshape that the element left.
+end)]]></content>
 	<tabTrigger>onClientColShapeLeave</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

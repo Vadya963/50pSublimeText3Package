@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUISize", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientGUISize", getRootElement(), 
+function () 
+--The source of this event is the GUI element that was resized.
+end)]]></content>
 	<tabTrigger>onClientGUISize</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

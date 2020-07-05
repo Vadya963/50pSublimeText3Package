@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerPickupUse", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerPickupUse", getRootElement(), 
+function (thePickupToUse) 
+--The source of this event is the player that is standing on a pickup.
+--If this event is canceled, the player will not be able to pick up this pickup.
+end)]]></content>
 	<tabTrigger>onPlayerPickupUse</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

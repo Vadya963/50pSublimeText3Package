@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientBrowserLoadingFailed", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientBrowserLoadingFailed", getRootElement(), 
+function (url, errorCode, errorDescription) 
+--The source is a browser element.
+end)]]></content>
 	<tabTrigger>onClientBrowserLoadingFailed</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

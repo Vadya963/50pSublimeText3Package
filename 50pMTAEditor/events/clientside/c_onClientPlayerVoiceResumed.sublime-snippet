@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerVoiceResumed", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientPlayerVoiceResumed", getRootElement(), 
+function (reason) 
+--The source of this event is the player whose voice got resumed.
+end)]]></content>
 	<tabTrigger>onClientPlayerVoicePause</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

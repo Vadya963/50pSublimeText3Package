@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPickupUse", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPickupUse", getRootElement(), 
+function (playerWhoUsed) 
+--The source of this event is the pickup that is getting used by the player.
+--If this event is canceled, the player will not be given the item they picked up.
+end)]]></content>
 	<tabTrigger>onPickupUse</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>

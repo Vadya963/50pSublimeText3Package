@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientMarkerHit", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onClientMarkerHit", getRootElement(), 
+function (hitPlayer, matchingDimension) 
+--The source of this event is the marker that got hit by the player.
+end)]]></content>
 	<tabTrigger>onClientMarkerHit</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>

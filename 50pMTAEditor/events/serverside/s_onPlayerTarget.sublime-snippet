@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerTarget", getRootElement(), function functionName )]]></content>
+	<content><![CDATA[addEventHandler( "onPlayerTarget", getRootElement(), 
+function (targettedElement) 
+--The source of this event is the player that is targetting the element.
+--It only works with elements created by MTA.
+end)]]></content>
 	<tabTrigger>onPlayerTarget</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Serverside</description>
