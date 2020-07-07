@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getCameraViewMode(  )]]></content><tabTrigger>getCameraViewMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getCameraViewMode()]]></content><tabTrigger>getCameraViewMode</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

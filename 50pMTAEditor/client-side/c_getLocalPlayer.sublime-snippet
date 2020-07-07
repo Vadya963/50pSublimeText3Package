@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getLocalPlayer(  )]]></content><tabTrigger>getLocalPlayer</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getLocalPlayer()]]></content><tabTrigger>getLocalPlayer</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

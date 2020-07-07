@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[isTransferBoxActive(  )]]></content><tabTrigger>isTransferBoxActive</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[isTransferBoxActive()]]></content><tabTrigger>isTransferBoxActive</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
