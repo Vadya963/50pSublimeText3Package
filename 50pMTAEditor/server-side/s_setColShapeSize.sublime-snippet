@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setColShapeSize( colshape shape[, float width, float depth, float height ] )]]></content><tabTrigger>setColShapeSize</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
