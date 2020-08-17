@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[unbindKey( player thePlayer, string key, string keyState, string command )bool unbindKey ( player thePlayer, string key, [ string keyState, function handler  ] )]]></content><tabTrigger>unbindKey</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[unbindKey ( player thePlayer, string key, [ string keyState, function handler ] )]]></content><tabTrigger>unbindKey</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
