@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setVehicleModelWheelSize( int vehicleModel, string wheelGroup, float wheelSize )]]></content><tabTrigger>setVehicleModelWheelSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
