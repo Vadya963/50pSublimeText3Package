@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWaterLevel ( float level [, bool includeWaterFeatures = true, bool includeWaterElements = true ] )]]></content><tabTrigger>setWaterLevel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setWaterLevel ( float level [, bool includeWaterFeatures = true, bool includeWaterElements = true, bool includeWorldSea = true, bool includeOutsideWorld = false ] )]]></content><tabTrigger>setWaterLevel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
