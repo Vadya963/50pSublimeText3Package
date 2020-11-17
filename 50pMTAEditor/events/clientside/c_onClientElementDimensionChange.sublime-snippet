@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onClientElementDimensionChange", getRootElement(), 
+function (oldDimension, newDimension)
+--The source of this event is an element that has entered another virtual world
+end)]]></content>
+	<tabTrigger>onClientElementDimensionChange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Clientside</description>
+</snippet>
