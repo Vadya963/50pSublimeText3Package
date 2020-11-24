@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineRequestModel( str elementType )]]></content><tabTrigger>engineRequestModel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineRequestModel( str elementType [, int parentID ] )]]></content><tabTrigger>engineRequestModel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
