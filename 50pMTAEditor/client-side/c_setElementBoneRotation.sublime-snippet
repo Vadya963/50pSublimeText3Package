@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setElementBoneRotation( element theElement, int boneId, float yaw, float pitch, float roll )]]></content><tabTrigger>setElementBoneRotation</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setElementBoneRotation( element theElement, int bone, float yaw, float pitch, float roll )]]></content><tabTrigger>setElementBoneRotation</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

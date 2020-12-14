@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getElementBoneMatrix( element theElement, int boneId )]]></content><tabTrigger>getElementBoneMatrix</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[getElementBoneMatrix( element theElement, int bone )]]></content><tabTrigger>getElementBoneMatrix</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
