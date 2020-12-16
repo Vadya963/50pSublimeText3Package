@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
 	<content><![CDATA[addEventHandler( "onClientPedsProcessed", getRootElement(), 
-function () 
+function ()
+--The source of this event is the client's root element.
 end)]]></content>
 	<tabTrigger>onClientPedsProcessed</tabTrigger>
 	<scope>source.lua</scope>
