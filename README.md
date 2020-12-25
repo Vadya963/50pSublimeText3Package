@@ -9,10 +9,3 @@ MTA forum link: https://forum.mtasa.com/topic/123500-sublime-text-3-50ps-mta-edi
 Any spelling mistakes or any issues, please contact me!
 
 Thanks!
-
-## Current todo list:
- - Add useful functions (still searching a good way to do this, however I have a working version, but its not very good)
-
-## Contributors
- - 50p: Made the whole package
- - Alberto2345: Updated with latest changes/additions
