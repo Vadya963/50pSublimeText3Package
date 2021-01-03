@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientDebugMessage", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientDebugMessage", root, 
 function (message, level, file, line) 
 --The source of this event is the root element.
 end)]]></content>

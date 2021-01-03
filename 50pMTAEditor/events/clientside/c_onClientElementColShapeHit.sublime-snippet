@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientElementColShapeHit", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientElementColShapeHit", root, 
 function (theShape, matchingDimension) 
 --The source of this event is the element that entered the colshape.
 end)]]></content>

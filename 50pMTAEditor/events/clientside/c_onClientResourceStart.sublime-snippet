@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientResourceStart", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientResourceStart", root, 
 function (startedResource) 
 --The source of this event is the started resource's root element.
 end)]]></content>

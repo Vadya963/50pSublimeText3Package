@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientBrowserWhitelistChange", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientBrowserWhitelistChange", root, 
 function (changedDomains) 
 --The source is a root element.
 end)]]></content>

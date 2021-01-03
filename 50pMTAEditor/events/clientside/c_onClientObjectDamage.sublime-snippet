@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientObjectDamage", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientObjectDamage", root, 
 function (loss, attacker) 
 --The source of this event is the object which was damaged
 --If this event is canceled, the object will not be damaged.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onVehicleRespawn", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onVehicleRespawn", root, 
 function (exploded) 
 --The source of this event is the vehicle that respawned.
 end)]]></content>

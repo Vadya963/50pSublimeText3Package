@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onColShapeLeave", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onColShapeLeave", root, 
 function (leaveElement, matchingDimension) 
 --The source of this event is the colshape that the element no longer is in contact with.
 end)]]></content>

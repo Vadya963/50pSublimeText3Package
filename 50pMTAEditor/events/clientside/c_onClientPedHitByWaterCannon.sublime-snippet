@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientHitByWaterCannon", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientHitByWaterCannon", root, 
 function (pedHit) 
 --The source of this event is the vehicle who shot the water cannon.
 --If this event is canceled, the ped will not be knocked down

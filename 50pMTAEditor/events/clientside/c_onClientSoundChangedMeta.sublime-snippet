@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientSoundChangedMeta", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientSoundChangedMeta", root, 
 function (streamTitle) 
 --The source of this event is the sound of which the meta tags have just been modified.
 end)]]></content>

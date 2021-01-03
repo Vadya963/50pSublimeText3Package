@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientTrailerDetach", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientTrailerDetach", root, 
 function (towedBy) 
 --The source of this event is the trailer that is now detached.
 end)]]></content>

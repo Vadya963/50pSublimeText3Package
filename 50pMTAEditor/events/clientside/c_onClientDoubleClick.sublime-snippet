@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientDoubleClick", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientDoubleClick", root, 
 function (button, absoluteX, absoluteY, worldX, worldY, worldZ, clickedWorld) 
 --The source of this event is the client's root element.
 end)]]></content>

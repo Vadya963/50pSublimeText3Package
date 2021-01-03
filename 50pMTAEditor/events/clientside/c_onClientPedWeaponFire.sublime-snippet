@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPedWeaponFire", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPedWeaponFire", root, 
 function (weapon, ammo, ammoInClip, hitX, hitY, hitZ, hitElement) 
 --The source of this event is the ped who fired the weapon.
 end)]]></content>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleExit", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientVehicleExit", root, 
 function (thePlayer, seat) 
 --The source of the event is the vehicle that the player exited.
 end)]]></content>

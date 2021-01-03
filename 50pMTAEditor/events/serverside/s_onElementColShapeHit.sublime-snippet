@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onElementColShapeHit", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onElementColShapeHit", root, 
 function (theColShape, matchingDimension) 
 --The source of this event is the player or vehicle that collided with the colshape.
 end)]]></content>

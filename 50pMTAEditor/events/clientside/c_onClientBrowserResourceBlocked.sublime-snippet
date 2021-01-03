@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientBrowserResourceBlocked", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientBrowserResourceBlocked", root, 
 function (url, domain, reason) 
 --The source is a browser element.
 end)]]></content>

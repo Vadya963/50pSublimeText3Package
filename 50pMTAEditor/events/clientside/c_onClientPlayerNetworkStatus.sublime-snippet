@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerNetworkStatus", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerNetworkStatus", root, 
 function (status, ticks) 
 --The source of this event is the root element.
 end)]]></content>

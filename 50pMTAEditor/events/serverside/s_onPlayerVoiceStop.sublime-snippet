@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerVoiceStop", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPlayerVoiceStop", root, 
 function () 
 --The source of this event is the player element that just stopped talking through voice chat.
 end)]]></content>

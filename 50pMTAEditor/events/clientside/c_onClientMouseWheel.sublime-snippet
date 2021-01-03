@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientMouseWheel", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientMouseWheel", root, 
 function (upOrDown) 
 --The source of this event is the GUI element on which the mouse scroll was scrolled.
 end)]]></content>

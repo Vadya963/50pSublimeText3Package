@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerVoiceStop", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerVoiceStop", root, 
 function () 
 --The source of this event is the player element that just stopped talking through voice chat.
 --If the source is the local player, the local player will not broadcast his voice chat to the server

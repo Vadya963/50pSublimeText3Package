@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerUnmute", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPlayerUnmute", root, 
 function () 
 --The source of this event is the player who got unmuted.
 --If this event is canceled, the player will not be unmuted.

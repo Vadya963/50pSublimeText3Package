@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientHeliKilled", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientHeliKilled", root, 
 function (killer) 
 --The source of this event is the ped who was killed
 --If this event is canceled, the ped will not be killed

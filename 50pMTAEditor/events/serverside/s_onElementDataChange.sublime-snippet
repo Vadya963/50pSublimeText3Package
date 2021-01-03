@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onElementDataChange", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onElementDataChange", root, 
 function (theKey, oldValue, newValue) 
 --source: The source of this event is the element whose element data changed.
 --client: The global variable is set to the client that called setElementData, or nil if it was called on the server.

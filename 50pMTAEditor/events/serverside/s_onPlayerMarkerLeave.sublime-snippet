@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerMarkerLeave", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPlayerMarkerLeave", root, 
 function (markerLeft, matchingDimension) 
 --The source of this event is the player that left the marker.
 end)]]></content>

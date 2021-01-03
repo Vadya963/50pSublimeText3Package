@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerHitByWaterCannon", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerHitByWaterCannon", root, 
 function (playerHit) 
 --The source of this event is the vehicle who shot the water cannon.
 --If this event is canceled, the player will not be knocked down.

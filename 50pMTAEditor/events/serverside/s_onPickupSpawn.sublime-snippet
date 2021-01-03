@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPickupSpawn", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPickupSpawn", root, 
 function () 
 --The source of this event is the pickup that just spawned or respawned.
 end)]]></content>

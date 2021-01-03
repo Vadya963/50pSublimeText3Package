@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onMarkerLeave", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onMarkerLeave", root, 
 function (leftElement, matchingDimension) 
 --The source of this event is the marker that the element left.
 end)]]></content>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIAccepted", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientGUIAccepted", root, 
 function (editBox) 
 --The source of this event is the editbox which enter was pressed on.
 end)]]></content>

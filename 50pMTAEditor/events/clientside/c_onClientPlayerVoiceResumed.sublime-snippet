@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerVoiceResumed", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerVoiceResumed", root, 
 function (reason) 
 --The source of this event is the player whose voice got resumed.
 end)]]></content>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerPickupLeave", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerPickupLeave", root, 
 function (thePickup, matchingDimension) 
 --The source of this event is the player that left the pickup.
 end)]]></content>

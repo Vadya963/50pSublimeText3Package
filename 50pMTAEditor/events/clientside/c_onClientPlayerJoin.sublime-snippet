@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerJoin", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerJoin", root, 
 function () 
 --The source of this event is the player that joined the server.
 --This event is not cancellable.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerCommand", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPlayerCommand", root, 
 function (command) 
 --The source of this event is the player who tried to execute a command.
 --The command will not be executed. (Only server-side commands can be canceled.)

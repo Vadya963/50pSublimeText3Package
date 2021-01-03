@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onElementColShapeLeave", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onElementColShapeLeave", root, 
 function (theColShape, matchingDimension) 
 --The source of this event is the player or vehicle that left colshape.
 end)]]></content>

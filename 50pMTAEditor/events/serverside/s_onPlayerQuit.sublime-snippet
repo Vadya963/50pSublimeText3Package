@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerQuit", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPlayerQuit", root, 
 function (quitType, reason, responsibleElement) 
 --The source of this event is the player that left the server.
 end)]]></content>

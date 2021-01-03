@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerConnect", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPlayerConnect", root, 
 function (playerNick, playerIP, playerUsername, playerSerial, playerVersionNumber, playerVersionString) 
 --The source of this event is the client's root element.
 --If this event is canceled, the player will be disconnected with an error message saying the reason specified in cancelEvent or 

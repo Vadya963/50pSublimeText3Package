@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onWeaponFire", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onWeaponFire", root, 
 function () 
 --The source of this event is the element that fired the weapon. If the server is the creator it returns nil.
 --If this event is canceled, the bullet(s) won't be synced with other players.

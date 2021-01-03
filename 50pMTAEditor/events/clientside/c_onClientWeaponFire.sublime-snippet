@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientWeaponFire", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientWeaponFire", root, 
 function (hitElement, posX, posY, posZ, normalX, normalY, normalZ, materialType, lighting, pieceHit) 
 --The source of this event is the weapon that was fired.
 --If this event was canceled, then the weapon will not fire.

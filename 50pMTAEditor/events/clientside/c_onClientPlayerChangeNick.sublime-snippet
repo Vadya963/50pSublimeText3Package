@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerChangeNick", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerChangeNick", root, 
 function (oldNick, newNick) 
 --The source of this event is the player that changed his nick
 end)]]></content>

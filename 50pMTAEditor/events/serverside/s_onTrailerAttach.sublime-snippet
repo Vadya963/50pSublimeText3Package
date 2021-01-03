@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onTrailerAttach", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onTrailerAttach", root, 
 function (theTruck) 
 --The source of this event is the trailer vehicle that the truck got attached to.
 --If this event is canceled, the trailer will detach from the truck again.(Doesn't appear to work.)

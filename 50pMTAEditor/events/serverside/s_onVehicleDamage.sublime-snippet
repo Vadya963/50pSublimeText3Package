@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onVehicleDamage", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onVehicleDamage", root, 
 function (loss) 
 --The source of this event is the vehicle that got damaged.
 end)]]></content>

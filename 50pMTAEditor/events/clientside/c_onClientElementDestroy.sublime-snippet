@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientElementDestroy", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientElementDestroy", root, 
 function () 
 --The source of this event is the element that is being destroyed.
 end)]]></content>

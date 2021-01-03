@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onConsole", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onConsole", root, 
 function (theMessage)
 --The source of this event is the player that entered the message in the console. This can be a player or the server console.
 end)]]></content>

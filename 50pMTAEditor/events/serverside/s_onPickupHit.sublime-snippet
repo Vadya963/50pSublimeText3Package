@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPickupHit", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPickupHit", root, 
 function (thePlayer) 
 --The source of this event is the pickup that was hit by the player.
 --If this event is canceled, the pickup does not disappear and the player does not receive its bonus.

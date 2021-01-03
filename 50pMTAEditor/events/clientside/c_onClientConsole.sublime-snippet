@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientConsole", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientConsole", root, 
 function (text) 
 end)]]></content>
 	<tabTrigger>onClientConsole</tabTrigger>

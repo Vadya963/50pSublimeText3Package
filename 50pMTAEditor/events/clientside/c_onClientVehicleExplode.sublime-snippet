@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleExplode", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientVehicleExplode", root, 
 function () 
 --The source of this event is the vehicle that exploded.
 --Remember, this event can not be canceled.

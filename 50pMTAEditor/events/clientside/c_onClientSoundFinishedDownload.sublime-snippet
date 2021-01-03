@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientSoundFinishedDownload", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientSoundFinishedDownload", root, 
 function (length) 
 --The source of this event is the sound which just finished downloading.
 end)]]></content>

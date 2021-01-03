@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerPickupHit", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerPickupHit", root, 
 function (thePickup, matchingDimension) 
 --The source of this event is the player that hit the pickup.
 end)]]></content>

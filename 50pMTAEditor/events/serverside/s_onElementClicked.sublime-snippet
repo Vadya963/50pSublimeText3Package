@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onElementClicked", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onElementClicked", root, 
 function (mouseButton, buttonState, playerWhoClicked, clickPosX, clickPosY, clickPosZ) 
 --The source of this event is the element that got clicked by the player.
 end)]]></content>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerNetworkStatus", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPlayerNetworkStatus", root, 
 function (status, ticks) 
 --The source of this event is the player that has the network interruption.
 end)]]></content>

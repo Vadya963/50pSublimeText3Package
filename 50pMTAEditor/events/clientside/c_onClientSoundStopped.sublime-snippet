@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientSoundStopped", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientSoundStopped", root, 
 function (reason) 
 --The source of this event is the sound's element.
 end)]]></content>

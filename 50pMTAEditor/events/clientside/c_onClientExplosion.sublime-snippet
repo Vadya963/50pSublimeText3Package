@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientExplosion", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientExplosion", root, 
 function (x, y, z, theType) 
 --The source of this event is the player who created the explosion. If the explosion is from a vehicle the source is the player who syncs the vehicle.
 --If this event is canceled, the explosion will not occur.

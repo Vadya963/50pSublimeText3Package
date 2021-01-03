@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPedWasted", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPedWasted", root, 
 function (killer, weapon, bodypart, loss / stealth) 
 --The source of this event is the ped that died.
 end)]]></content>

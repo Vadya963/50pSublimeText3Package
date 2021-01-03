@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientElementStreamOut", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientElementStreamOut", root, 
 function () 
 --The source of this event is the element that streamed out.
 end)]]></content>

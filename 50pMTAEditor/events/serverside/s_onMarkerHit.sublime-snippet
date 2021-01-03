@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onMarkerHit", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onMarkerHit", root, 
 function (hitElement, matchingDimension) 
 --The source of this event is the marker that got hit by the element.
 end)]]></content>

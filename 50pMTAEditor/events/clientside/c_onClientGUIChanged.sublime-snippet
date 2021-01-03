@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIChanged", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientGUIChanged", root, 
 function (theElement) 
 --The source of this event is the element which was changed.
 end)]]></content>

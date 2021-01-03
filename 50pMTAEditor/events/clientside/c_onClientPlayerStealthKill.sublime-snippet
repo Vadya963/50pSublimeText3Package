@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerStealthKill", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerStealthKill", root, 
 function (targetPlayer) 
 --The source of this event is the player that initiated the stealth kill. (Local player only)
 --If this event is canceled, then the stealth kill is aborted.

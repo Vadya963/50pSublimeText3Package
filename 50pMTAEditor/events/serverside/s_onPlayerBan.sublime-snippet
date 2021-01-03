@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPlayerBan", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPlayerBan", root, 
 function (banPointer, responsibleElement) 
 --The source of this event is the player who was banned.
 end)]]></content>

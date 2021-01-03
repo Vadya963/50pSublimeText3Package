@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientChatMessage", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientChatMessage", root, 
 function (text, r, g, b) 
 --The source of this event is either a player element or the root element.
 --AS OF 1.3.2 If this event is canceled, the game's chat system won't deliver the posts. You may use outputChatBox to send the messages then.

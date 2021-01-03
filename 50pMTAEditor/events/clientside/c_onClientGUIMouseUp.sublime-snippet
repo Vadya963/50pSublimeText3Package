@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIMouseUp", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientGUIMouseUp", root, 
 function (button, absoluteX, absoluteY) 
 --The source of this event is the GUI element on top of which the mouse button was released.
 end)]]></content>

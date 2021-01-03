@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerRadioSwitch", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerRadioSwitch", root, 
 function (stationID) 
 --The source of this event is the local player.
 --If this event is canceled, the Radio station will not change.

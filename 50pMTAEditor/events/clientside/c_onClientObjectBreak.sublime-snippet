@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientObjectBreak", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientObjectBreak", root, 
 function (attacker) 
 --The source of this event is the object which will break.
 --If this event is canceled, the object will not break.

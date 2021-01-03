@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientWorldSound", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientWorldSound", root, 
 function (group, index, x, y, z) 
 --The source of this event is the element, which emitted the sound.
 --If this event is canceled, the sound won't play at all.

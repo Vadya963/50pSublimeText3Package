@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onPickupUse", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onPickupUse", root, 
 function (playerWhoUsed) 
 --The source of this event is the pickup that is getting used by the player.
 --If this event is canceled, the player will not be given the item they picked up.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientGUIFocus", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientGUIFocus", root, 
 function () 
 --The source of this event is the GUI element which just gained input focus.
 end)]]></content>

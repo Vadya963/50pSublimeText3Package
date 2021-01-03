@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerWasted", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerWasted", root, 
 function (killer, weapon, bodypart, stealth) 
 --The source of this event is the player that died.
 end)]]></content>

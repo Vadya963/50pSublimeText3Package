@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onBan", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onBan", root, 
 function (theBan) 
 --source of this event is the element that was responsible for the banning. If no responsible was specified, the source is the global root element.
 --This event cannot be canceled.

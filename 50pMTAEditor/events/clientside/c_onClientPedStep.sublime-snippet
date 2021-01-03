@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPedStep", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPedStep", root, 
 function (leftFoot) 
 --The source of this event is the ped who stepped.
 end)]]></content>

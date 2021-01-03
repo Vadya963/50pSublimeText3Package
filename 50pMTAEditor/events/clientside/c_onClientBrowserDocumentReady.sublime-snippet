@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientBrowserDocumentReady", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientBrowserDocumentReady", root, 
 function (url) 
 --The source is a browser element.
 end)]]></content>

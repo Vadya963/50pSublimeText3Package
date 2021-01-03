@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientVehicleEnter", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientVehicleEnter", root, 
 function (thePlayer, seat) 
 --The source of the event is the vehicle that the player entered.
 end)]]></content>

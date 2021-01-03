@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientPlayerDamage", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientPlayerDamage", root, 
 function (attacker, damage_causing, bodypart, loss) 
 --The source of this event is the player that got damaged. (Streamed in players only)
 --If this event is canceled, then any damaging effects to the local player will cease.

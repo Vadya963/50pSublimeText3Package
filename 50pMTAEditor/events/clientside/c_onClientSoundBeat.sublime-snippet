@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <snippet>
-	<content><![CDATA[addEventHandler( "onClientSoundBeat", getRootElement(), 
+	<content><![CDATA[addEventHandler( "onClientSoundBeat", root, 
 function (theTime) 
 --The source of this event is the sound's element.
 end)]]></content>
