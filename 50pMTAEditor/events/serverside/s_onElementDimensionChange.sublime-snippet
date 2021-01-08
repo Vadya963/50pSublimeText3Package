@@ -2,7 +2,7 @@
 <snippet>
 	<content><![CDATA[addEventHandler( "onElementDimensionChange", root, 
 function (oldDimension, newDimension)
---The source of this event is an element that has entered another virtual world
+--The source of this event is the element that changed its dimension.
 end)]]></content>
 	<tabTrigger>onElementDimensionChange</tabTrigger>
 	<scope>source.lua</scope>
