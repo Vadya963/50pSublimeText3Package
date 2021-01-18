@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineGetModelVisibleTime( int model_id )]]></content><tabTrigger>engineGetModelVisibleTime</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineGetModelVisibleTime( int modelID )]]></content><tabTrigger>engineGetModelVisibleTime</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
