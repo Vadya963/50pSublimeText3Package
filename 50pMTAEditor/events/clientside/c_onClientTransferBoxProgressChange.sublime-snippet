@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onClientTransferBoxProgressChange", root, 
+function (downloadedSizeTotal, downloadTotalBytes) 
+--The source of this event is the root element.
+end)]]></content>
+	<tabTrigger>onClientTransferBoxProgressChange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Clientside</description>
+</snippet>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onClientObjectMoveStop", root, 
+function () 
+--This event is triggered when an object's movement stop.
+end)]]></content>
+	<tabTrigger>onClientObjectMoveStop</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Clientside</description>
+</snippet>

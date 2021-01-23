@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onClientResourceFileDownload", root, 
+function (fileResource, fileName, fileSize, state) 
+--The source of this event is the resource's root element.
+end)]]></content>
+	<tabTrigger>onClientResourceFileDownload</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Clientside</description>
+</snippet>

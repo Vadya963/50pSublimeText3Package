@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onClientObjectMoveStart", root, 
+function () 
+--The source of this event is the object which was moved.
+end)]]></content>
+	<tabTrigger>onClientObjectMoveStart</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Clientside</description>
+</snippet>
