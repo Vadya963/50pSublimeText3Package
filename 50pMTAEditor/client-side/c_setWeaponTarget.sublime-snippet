@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setWeaponTarget( weapon theWeapon, element theTarget, int iComponentID )]]></content><tabTrigger>setWeaponTarget</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setWeaponTarget( weapon theWeapon, element theTarget [, int theComponent = 255 ] )
+setWeaponTarget( weapon theWeapon, float targetX, float targetY, float targetZ )
+setWeaponTarget( weapon theWeapon, nil )]]></content><tabTrigger>setWeaponTarget</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

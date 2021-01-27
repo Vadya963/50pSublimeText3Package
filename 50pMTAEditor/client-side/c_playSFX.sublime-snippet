@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[playSFX( string containerName, int bankId, int soundId [, bool looped = false ] )]]></content><tabTrigger>playSFX</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[playSFX( string containerName, int bankId, int soundId [, bool looped = false ] )
+playSFX( string "radio", string radioStation, int trackId [, bool looped = false ] )]]></content><tabTrigger>playSFX</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

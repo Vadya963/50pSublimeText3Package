@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setVehicleColor( vehicle theVehicle, int r1, int g1, int b1, [int r2, int g2, int b2,] [int r3, int g3, int b3,] [int r4, int g4, int b4] )]]></content><tabTrigger>setVehicleColor</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>
+<snippet><content><![CDATA[setVehicleColor(vehicle veh, int r1, int g1, int b1, [int r2, int g2, int b2, int r3, int g3, int b3, int r4, int g4, int b4])
+setVehicleColor(vehicle veh, int p1, int p2, int p3, int p4)]]></content><tabTrigger>setVehicleColor</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

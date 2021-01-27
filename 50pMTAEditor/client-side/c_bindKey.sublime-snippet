@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[bindKey( string key, string keyState, function handlerFunction, [ var arguments, ... ] )]]></content><tabTrigger>bindKey</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[bindKey( string key, string keyState, function handlerFunction, [ var arguments, ... ] )
+bindKey( string key, string keyState, string commandName, [ string arguments ] )]]></content><tabTrigger>bindKey</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

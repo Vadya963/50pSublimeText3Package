@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[setCameraTarget( player target )]]></content><tabTrigger>setCameraTarget</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[setCameraTarget( player target )
+setCameraTarget( float targetX, float targetY, float targetZ )]]></content><tabTrigger>setCameraTarget</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

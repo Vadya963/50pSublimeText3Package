@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[playSound3D( string soundPath, float x, float y, float z, [ bool looped = false , bool throttled = true] )]]></content><tabTrigger>playSound3D</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[playSound3D( string soundPath, float x, float y, float z, [ bool looped = false ] )
+playSound3D( string soundURL, float x, float y, float z, [ bool looped = false, bool throttled = true ] )]]></content><tabTrigger>playSound3D</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

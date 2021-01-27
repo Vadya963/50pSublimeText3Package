@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[dxCreateTexture( string pixels / string filepath [, string textureFormat = "argb", bool mipmaps = true, string textureEdge = "wrap" ] )]]></content><tabTrigger>dxCreateTexture</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[dxCreateTexture( string pixels / string filepath [, string textureFormat = "argb", bool mipmaps = true, string textureEdge = "wrap" ] )
+dxCreateTexture( int width, int height [, string textureFormat = "argb", string textureEdge = "wrap", string textureType = "2d", int depth = 1 ] )]]></content><tabTrigger>dxCreateTexture</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

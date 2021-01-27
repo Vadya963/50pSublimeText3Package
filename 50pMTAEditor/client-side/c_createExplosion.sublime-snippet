@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[createExplosion( float x, float y, float z, int theType [, player creator = nil )]]></content><tabTrigger>createExplosion</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[createExplosion( float x, float y, float z, int theType [, bool makeSound = true, float camShake = -1.0, bool damaging = true ] )]]></content><tabTrigger>createExplosion</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

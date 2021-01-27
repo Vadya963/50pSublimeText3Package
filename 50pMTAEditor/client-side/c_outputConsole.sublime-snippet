@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[outputConsole( string text, [ element visibleTo=getRootElement() ] )]]></content><tabTrigger>outputConsole</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[outputConsole( string text )]]></content><tabTrigger>outputConsole</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
