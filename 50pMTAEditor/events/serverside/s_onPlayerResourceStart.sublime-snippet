@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onPlayerResourceStart", root, 
+function (loadedResource)
+--The source of this event is the player who loaded the resource.
+end)]]></content>
+	<tabTrigger>onPlayerResourceStart</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Serverside</description>
+</snippet>

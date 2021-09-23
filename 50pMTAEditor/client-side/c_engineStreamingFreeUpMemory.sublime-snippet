@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[engineStreamingFreeUpMemory( int memoryToCleanInBytes )]]></content><tabTrigger>engineStreamingFreeUpMemory</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[engineStreamingFreeUpMemory( int bytes )]]></content><tabTrigger>engineStreamingFreeUpMemory</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
