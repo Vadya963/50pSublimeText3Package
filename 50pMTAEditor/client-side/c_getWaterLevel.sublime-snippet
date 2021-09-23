@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[getWaterLevel( float posX, float posY, float posZ [ , bool bCheckWaves = false ] )
+<snippet><content><![CDATA[getWaterLevel( float posX, float posY, float posZ [ , bool ignoreDistanceToWaterThreshold = false ] )
 getWaterLevel( water theWater )]]></content><tabTrigger>getWaterLevel</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
