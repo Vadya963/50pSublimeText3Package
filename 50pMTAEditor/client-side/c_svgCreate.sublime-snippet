@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[svgCreate( int width, int height [, string pathOrRawdata, function callback ( bool didLoad ) ] )]]></content><tabTrigger>svgCreate</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

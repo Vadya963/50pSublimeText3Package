@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[svgSetDocumentXML( svg svgElement, xmlnode xmlDocument [, function callback ( bool didLoad ) ] )]]></content><tabTrigger>svgSetDocumentXML</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

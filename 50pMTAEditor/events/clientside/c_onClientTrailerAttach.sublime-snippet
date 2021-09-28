@@ -4,7 +4,7 @@
 function (towedBy) 
 --The source of this event is the trailer that is now being towed.
 end)]]></content>
-	<tabTrigger>onClientVehicleStartExit</tabTrigger>
+	<tabTrigger>onClientTrailerAttach</tabTrigger>
 	<scope>source.lua</scope>
 	<description>Event-Clientside</description>
 </snippet>
