@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<snippet><content><![CDATA[svgSetSize( svg svgElement, int width, int height [, function callback ( bool didLoad ) ] )]]></content><tabTrigger>svgSetSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
+<snippet><content><![CDATA[svgSetSize( svg svgElement, int width, int height [, function callback ( element svg ) ] )]]></content><tabTrigger>svgSetSize</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
