@@ -3,7 +3,7 @@
 	<content><![CDATA[addEventHandler( "onClientElementModelChange", root, 
 function (oldModel, newModel) 
 --The source of this event is the element that changed its model.
---This event doesn't support cancellation. Use setElementModel with the old value to reverse.
+--The event can be canceled.
 end)]]></content>
 	<tabTrigger>onClientElementModelChange</tabTrigger>
 	<scope>source.lua</scope>
