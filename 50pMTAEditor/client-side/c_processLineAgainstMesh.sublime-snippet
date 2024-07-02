@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[processLineAgainstMesh( element toTest, float startX, float startY, float startZ, float endX, float endY, float endZ )]]></content><tabTrigger>processLineAgainstMesh</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[engineSetModelFlags( int modelID, int flags [, bool ideFlags] )]]></content><tabTrigger>engineSetModelFlags</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

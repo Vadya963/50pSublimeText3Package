@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[engineImageLinkDFF( img img_file, string file_path, int modelID )]]></content><tabTrigger>engineImageLinkDFF</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

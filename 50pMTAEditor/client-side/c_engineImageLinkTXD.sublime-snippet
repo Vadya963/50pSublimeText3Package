@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[engineImageLinkTXD( img img_file, string file_path, int txdID )]]></content><tabTrigger>engineImageLinkTXD</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

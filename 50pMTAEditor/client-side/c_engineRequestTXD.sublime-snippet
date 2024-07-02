@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[engineRequestTXD( string name )]]></content><tabTrigger>engineRequestTXD</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

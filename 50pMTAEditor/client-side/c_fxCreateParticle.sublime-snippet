@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[fxCreateParticle( string particle, float posX, float posY, float posZ, float dirX, float dirY, float dirZ, float r, float g, float b, float a [, bool randomizeColors = false, int count = 1, float brightness = 1.0, float size = 0.3, bool randomSizes = false, float life = 1.0 ] )]]></content><tabTrigger>fxCreateParticle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

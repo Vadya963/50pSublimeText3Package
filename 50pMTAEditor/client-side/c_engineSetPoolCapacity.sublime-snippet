@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[engineSetPoolCapacity( string pool, number capacity )]]></content><tabTrigger>engineSetPoolCapacity</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

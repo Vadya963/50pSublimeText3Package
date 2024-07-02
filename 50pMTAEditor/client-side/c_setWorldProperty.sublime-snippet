@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setWorldProperty( string property, var value [, var value, var value] )]]></content><tabTrigger>setWorldProperty</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

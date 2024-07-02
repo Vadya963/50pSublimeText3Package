@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[createBuilding( int modelId, float x, float y, float z, float rx, float ry, float rz, [ int interior = 0 ] )]]></content><tabTrigger>createBuilding</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
