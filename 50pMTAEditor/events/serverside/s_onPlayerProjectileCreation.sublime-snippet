@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onPlayerProjectileCreation", root, 
+function (weaponType, x, y, z, force, target, rotX, rotY, rotZ, velX, velY, velZ)
+--The source of this event is the player who created the projectile.
+--If this event is canceled, the projectile will not be created for other players on the server.
+end)]]></content>
+	<tabTrigger>onPlayerProjectileCreation</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Serverside</description>
+</snippet>

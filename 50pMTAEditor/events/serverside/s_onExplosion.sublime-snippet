@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onExplosion", root, 
+function (x, y, z, theType)
+--The source of this event is the player who notified server about explosion, or root if explosion was created server-side along without specifying creator in createExplosion.
+--If this event is canceled, the explosion will not occur.
+end)]]></content>
+	<tabTrigger>onExplosion</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Serverside</description>
+</snippet>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onPlayerTeamChange", root, 
+function (oldTeam, newTeam)
+--The source of this event is the player whose team was changed.
+--If this event is canceled, then the player's team change will be prevented.
+end)]]></content>
+	<tabTrigger>onPlayerTeamChange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Serverside</description>
+</snippet>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[addEventHandler( "onPlayerTriggerInvalidEvent", root, 
+function (eventName, isAdded, isRemote)
+--The source of this event is the player who triggered invalid event.
+end)]]></content>
+	<tabTrigger>onPlayerTriggerInvalidEvent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Event-Serverside</description>
+</snippet>
